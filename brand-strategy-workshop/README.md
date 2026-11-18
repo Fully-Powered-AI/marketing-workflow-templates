@@ -52,11 +52,11 @@ The workshop stops at words. Logo, colour, type and naming are separate work, an
 
 ## What has been checked
 
-Fully Powered AI wrote this workflow template in its own words, from its own Brand Workshop. The method itself comes from published work on brand strategy, which the sources and credits name. It was editorially reviewed on 9 November 2026. It was tried on its invented example in Claude on 9 November 2026, with the owner's part played. There were three runs, and the record published with the template describes the last. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template in its own words, from its own Brand Workshop. The method itself comes from published work on brand strategy, which the sources and credits name. It was editorially reviewed on 9 November 2026. It was tried on its invented example in Claude on 9 November 2026, with the owner's part played. There were three runs, and the record published with the template describes the last. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on your own company and reading the result against the record: every chosen line appears word for word, nothing about the company was made up, and every untested line is labelled. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets up cases like these, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
 
-- Written by Fully Powered AI.
+- Written by FullyPowered AI.
 - Sources and rights reviewed.
 - Editorially reviewed on 9 November 2026.
 - Package format checked by script on every release.
@@ -87,4 +87,4 @@ Testing in your environment means running it on your own company and reading the
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).

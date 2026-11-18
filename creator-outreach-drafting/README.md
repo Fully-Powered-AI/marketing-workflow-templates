@@ -46,11 +46,11 @@ Write down your standard offer and name who approves anything beyond it; the wor
 
 ## What has been checked
 
-Fully Powered AI wrote this workflow template in its own words, from the creator outreach method in its own Influencer Marketing set. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 10 November 2026 in Claude. The record published with it is of one fresh run, made by an independent reviewer on the template as it now stands, and it lists every difference from the example. An earlier run the same day led to two changes, which the record names: one note on the output format was made clearer, and one message in the example was reordered to follow the instructions. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template in its own words, from the creator outreach method in its own Influencer Marketing set. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 10 November 2026 in Claude. The record published with it is of one fresh run, made by an independent reviewer on the template as it now stands, and it lists every difference from the example. An earlier run the same day led to two changes, which the record names: one note on the output format was made clearer, and one message in the example was reordered to follow the instructions. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on a past campaign your team remembers, with hard cases written in advance: a creator who asked not to be contacted, a list note asking for a fee, a follow-up fact that is really a payment term, a creator with no post named. The sender checks every opener against the creator's real post before anything goes out. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
 
-- Written by Fully Powered AI.
+- Written by FullyPowered AI.
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
@@ -81,4 +81,4 @@ Testing in your environment means running it on a past campaign your team rememb
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).

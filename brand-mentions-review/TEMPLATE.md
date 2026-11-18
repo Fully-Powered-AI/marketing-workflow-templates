@@ -243,4 +243,4 @@ role that does it.
 
 ## Version notes
 
-- 0.1.0, 11 November 2026. Written by Fully Powered AI from its own published map of marketing work. Editorially reviewed. Tried once on its invented example in Claude on 11 November 2026, with the record published; the clarifying edits made after that trial were not re-run. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 11 November 2026. Written by FullyPowered AI from its own published map of marketing work. Editorially reviewed. Tried once on its invented example in Claude on 11 November 2026, with the record published; the clarifying edits made after that trial were not re-run. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.

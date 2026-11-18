@@ -346,4 +346,4 @@ decline.
 
 ## Version notes
 
-- 0.1.0, 9 November 2026. Written by Fully Powered AI from its own creator programme work. Editorially reviewed. Tried on its invented example in Claude on 9 November 2026; edits made afterward to the inputs, the procedure, the pasted instructions, the output format and the example have not been run again, and the trial record lists them. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 9 November 2026. Written by FullyPowered AI from its own creator programme work. Editorially reviewed. Tried on its invented example in Claude on 9 November 2026; edits made afterward to the inputs, the procedure, the pasted instructions, the output format and the example have not been run again, and the trial record lists them. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.

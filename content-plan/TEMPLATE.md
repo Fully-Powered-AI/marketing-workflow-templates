@@ -327,4 +327,4 @@ the plan, list anything you could not complete and what you would need.
 
 ## Version notes
 
-- 0.1.0, 9 November 2026. Written by Fully Powered AI from its own content planning guide, which rewrites the content strategy method in coreyhaines31/marketingskills (MIT); the ideas taken are credited in the sources and no text is reused. Editorially reviewed. Tried on its invented example in Claude on 9 November 2026, in two runs, before and after the review's points were applied; the record of the second is published with it. Not yet tested in a client environment.
+- 0.1.0, 9 November 2026. Written by FullyPowered AI from its own content planning guide, which rewrites the content strategy method in coreyhaines31/marketingskills (MIT); the ideas taken are credited in the sources and no text is reused. Editorially reviewed. Tried on its invented example in Claude on 9 November 2026, in two runs, before and after the review's points were applied; the record of the second is published with it. Not yet tested in a client environment.

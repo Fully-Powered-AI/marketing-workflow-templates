@@ -42,11 +42,11 @@ Write down your cleared and forbidden statements and name the person who clears 
 
 ## What has been checked
 
-Fully Powered AI wrote this workflow template in its own words, from the content approval template in its own Influencer Marketing set. It was editorially reviewed on 9 November 2026. It was tried on its invented example in Claude on 9 November 2026, and the record of that run is published with it. The run was not blind: the example's output had been seen before the run's own output was written. Small clarifications made after the run, listed in the record, have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template in its own words, from the content approval template in its own Influencer Marketing set. It was editorially reviewed on 9 November 2026. It was tried on its invented example in Claude on 9 November 2026, and the record of that run is published with it. The run was not blind: the example's output had been seen before the run's own output was written. Small clarifications made after the run, listed in the record, have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on past creator drafts your team remembers well, with hard cases written in advance: a forbidden statement tucked into a good post, a paraphrase of a cleared line, a disclosure at the end of the caption, a video with no transcript, a covering note that claims someone already approved it. The programme lead checks every verdict against the cleared list before any feedback is sent. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
 
-- Written by Fully Powered AI.
+- Written by FullyPowered AI.
 - Sources and rights reviewed.
 - Editorially reviewed on 9 November 2026.
 - Package format checked by script on every release.
@@ -77,4 +77,4 @@ Testing in your environment means running it on past creator drafts your team re
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).

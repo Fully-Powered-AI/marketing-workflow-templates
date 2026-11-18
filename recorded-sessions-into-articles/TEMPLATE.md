@@ -257,4 +257,4 @@ publish or send anything, decline and say who decides: the expert.
 
 ## Version notes
 
-- 0.1.0, 9 November 2026. Written by Fully Powered AI, generalised from its own workflow for one coach's recorded classes. Tightened after a first run on its invented example; a second run is recorded. Edited after its review the same day, and the trial record lists what changed. Not yet tested in a client environment.
+- 0.1.0, 9 November 2026. Written by FullyPowered AI, generalised from its own workflow for one coach's recorded classes. Tightened after a first run on its invented example; a second run is recorded. Edited after its review the same day, and the trial record lists what changed. Not yet tested in a client environment.

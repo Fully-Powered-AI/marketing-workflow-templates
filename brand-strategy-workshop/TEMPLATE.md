@@ -1,6 +1,6 @@
 # Brand strategy workshop
 
-Workflow template 0.1.0 · Marketing and content · Fully Powered AI
+Workflow template 0.1.0 · Marketing and content · FullyPowered AI
 
 ## Purpose
 
@@ -8,7 +8,7 @@ Run a three-part workshop with a company's owner and produce its brand strategy:
 
 This is a long-form workflow template. Plan about three hours of the owner's attention, in one half-day or three sittings of about an hour. That is a planning figure, not a measurement. Validation with buyers follows over two or three weeks; the team check falls three months after the document is shared.
 
-The method is not Fully Powered AI's invention. It follows an established path through purpose, positioning and personality, and the published works it leans on are credited in the version notes. Fully Powered AI's fuller workshop package, with fill-in worksheets and a glossary, is public under the MIT licence at https://github.com/Fully-Powered-AI/brand-workshop. This template stands on its own without it, and its document format differs from the package's in places.
+The method is not FullyPowered AI's invention. It follows an established path through purpose, positioning and personality, and the published works it leans on are credited in the version notes. FullyPowered AI's fuller workshop package, with fill-in worksheets and a glossary, is public under the MIT licence at https://github.com/Fully-Powered-AI/brand-workshop. This template stands on its own without it, and its document format differs from the package's in places.
 
 ## When to use it and when not to
 
@@ -482,5 +482,5 @@ send or post, decline and hand the text to the owner.
 
 ## Version notes
 
-- 0.1.0, 9 November 2026. Written by Fully Powered AI in its own words, from its own Brand Workshop. Tried on its invented example (three runs; the record describes the last). Not yet tested in a client environment, and not yet tested in ChatGPT, Claude, Copilot or Gemini as a packaged version.
-- Credits. The method is not original to Fully Powered AI. The Brand Workshop was built by studying a brand strategy course for young companies and the works that course draws on. The course is private and none of its text is used here. The ideas belong to their authors: "The Red Papers: What's The big ideaL?" (Ogilvy & Mather, 2010) for purpose as a tension met by the company at its best; "Positioning: The Battle for Your Mind" (Al Ries and Jack Trout) for positioning and category; the for, who, is, that, unlike form of the positioning statement, widely credited to Geoffrey A. Moore's "Crossing the Chasm"; "Dimensions of Brand Personality" (Jennifer L. Aaker, Journal of Marketing Research, 1997) for the five dimensions; "Finding Language/Market Fit" (Matt Lerner) for customers' words, "Now you can ..." and the five-second test; "How Great Leaders Inspire Action" (Simon Sinek, 2009) for starting with why; and two First Round Review articles setting out the advice of the course's teacher, "Great Startups Deserve Great Brands" and "Positioning Your Startup is Vital, Here's How to Nail It", for the order of the three parts, the nested audience, the three kinds of category, traits with an edge and the three-month check.
+- 0.1.0, 9 November 2026. Written by FullyPowered AI in its own words, from its own Brand Workshop. Tried on its invented example (three runs; the record describes the last). Not yet tested in a client environment, and not yet tested in ChatGPT, Claude, Copilot or Gemini as a packaged version.
+- Credits. The method is not original to FullyPowered AI. The Brand Workshop was built by studying a brand strategy course for young companies and the works that course draws on. The course is private and none of its text is used here. The ideas belong to their authors: "The Red Papers: What's The big ideaL?" (Ogilvy & Mather, 2010) for purpose as a tension met by the company at its best; "Positioning: The Battle for Your Mind" (Al Ries and Jack Trout) for positioning and category; the for, who, is, that, unlike form of the positioning statement, widely credited to Geoffrey A. Moore's "Crossing the Chasm"; "Dimensions of Brand Personality" (Jennifer L. Aaker, Journal of Marketing Research, 1997) for the five dimensions; "Finding Language/Market Fit" (Matt Lerner) for customers' words, "Now you can ..." and the five-second test; "How Great Leaders Inspire Action" (Simon Sinek, 2009) for starting with why; and two First Round Review articles setting out the advice of the course's teacher, "Great Startups Deserve Great Brands" and "Positioning Your Startup is Vital, Here's How to Nail It", for the order of the three parts, the nested audience, the three kinds of category, traits with an edge and the three-month check.

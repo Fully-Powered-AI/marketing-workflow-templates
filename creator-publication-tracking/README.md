@@ -45,11 +45,11 @@ Write down your disclosure forms for each platform and format, with your wording
 
 ## What has been checked
 
-Fully Powered AI wrote this workflow template in its own words, from the publication tracking template in its own Influencer Marketing set. It was editorially reviewed on 9 November 2026. It was tried once on its invented example in Claude on 9 November 2026, and the record of that run is published with it. That run found several points the instructions left open, chiefly two: where a creator's message that a fix is done belongs, and whether the result line counts bullets or items. After the run, a few sentences were added to the instructions and the output format to settle those and the other points it raised, and the example's wording was brought closer to its inputs in a few places; the example's inputs and its counts did not change. These edits have not been run again, and the record lists them. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template in its own words, from the publication tracking template in its own Influencer Marketing set. It was editorially reviewed on 9 November 2026. It was tried once on its invented example in Claude on 9 November 2026, and the record of that run is published with it. That run found several points the instructions left open, chiefly two: where a creator's message that a fix is done belongs, and whether the result line counts bullets or items. After the run, a few sentences were added to the instructions and the output format to settle those and the other points it raised, and the example's wording was brought closer to its inputs in a few places; the example's inputs and its counts did not change. These edits have not been run again, and the record lists them. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on a past campaign your team remembers well, with hard cases written in advance: a disclosure buried in the hashtags, a code in the wrong letter case, a link with an extra "www", a fix the creator says is done but nobody has looked at, a post that came down in its first week. The programme lead checks every date and every "match" against the posts before anything is sent. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
 
-- Written by Fully Powered AI.
+- Written by FullyPowered AI.
 - Sources and rights reviewed.
 - Editorially reviewed on 9 November 2026.
 - Package format checked by script on every release.
@@ -80,4 +80,4 @@ Testing in your environment means running it on a past campaign your team rememb
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
