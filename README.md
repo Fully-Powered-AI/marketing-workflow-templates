@@ -1,6 +1,6 @@
 # AI workflow templates for marketing teams and owners
 
-FullyPowered Workflow Templates for marketing teams and owners turn the AI your company already pays for into a team that knows how the work is done: a marketing lead with the ninety-day marketing plan drafted, a brand marketer with every creator brief prepared before anything is sent, a social media manager with the week's brand mentions sorted and listed. 32 workflow templates, made to be customized and deployed. All plain Markdown, all free, MIT license.
+FullyPowered Workflow Templates for marketing teams and owners turn the AI your company already pays for into a team that knows how the work is done: a marketing lead with the ninety-day marketing plan drafted, a brand marketer with every creator brief prepared before anything is sent, a social media manager with the week's brand mentions sorted and listed. 33 workflow templates, made to be customized and deployed. All plain Markdown, all free, MIT license.
 
 We are FullyPowered AI. We build AI workflows for companies, and these are the templates we start from. We publish them because a good starting point should be open to everyone. Copy one. Change it. Make it yours.
 
@@ -96,6 +96,7 @@ These are examples and a starting point, made to be changed to fit your company.
 - **[Recorded sessions into articles](recorded-sessions-into-articles/)**: A coach, trainer or consultant hands over transcripts of recent sessions and gets back article drafts in their own words: the subjects they actually taught, their key lines quoted word for word, no participant named, and a review sheet of what to check before publishing.
 - **[Referral programme design](referral-programme-design/)**: Turn the recommendations your work already earns into a habit: when to ask, who on your own list to ask first and for what, what you give back, the words for each ask and the note an introducer forwards, and how every introduction is recorded. You send each message yourself.
 - **[Text-message opt-in check](text-message-opt-in-check/)**: Before a text campaign goes out, the marketing lead sees every number on the proposed list beside the opt-in your own records hold for it: where it was given, when, and the wording as recorded. Anyone with no recorded opt-in, or with a recorded opt-out, is held out and counted. A person decides who is sent to.
+- **[Website content inventory review](website-content-inventory-review/)**: Each quarter, or before a redesign or migration, the website owner gets one review built from the page export of their content management system: pages past their stale date, pages with no owner, title and description gaps, old drafts and likely duplicates, each by page ID, with counts that tie to the export.
 - **[Website findability audit](website-findability-audit/)**: An owner or marketer asking why the website is not found gets a plain report from saved copies of their own pages: what stops each page being reached, read or understood, the fixes in order, and the checks only a live look can settle. No ranking is promised.
 
 ## How to use one

@@ -252,6 +252,14 @@
       "directory": "https://fullypowered.ai/workflows/text-message-opt-in-check/"
     },
     {
+      "id": "website-content-inventory-review",
+      "name": "Website content inventory review",
+      "version": "0.1.0",
+      "summary": "Each quarter, or before a redesign or migration, the website owner gets one review built from the page export of their content management system: pages past their stale date, pages with no owner, title and description gaps, old drafts and likely duplicates, each by page ID, with counts that tie to the export.",
+      "path": "website-content-inventory-review/",
+      "directory": "https://fullypowered.ai/workflows/website-content-inventory-review/"
+    },
+    {
       "id": "website-findability-audit",
       "name": "Website findability audit",
       "version": "0.1.0",

@@ -1,0 +1,47 @@
+{
+  "id": "website-content-inventory-review",
+  "name": "Website content inventory review",
+  "kind": "workflow-template",
+  "version": "0.1.0",
+  "summary": "Each quarter, or before a redesign or migration, the website owner gets one review built from the page export of their content management system: pages past their stale date, pages with no owner, title and description gaps, old drafts and likely duplicates, each by page ID, with counts that tie to the export.",
+  "directory": "https://fullypowered.ai/workflows/website-content-inventory-review/",
+  "primary_function": "functions/marketing-and-content",
+  "functions": [
+    "functions/marketing-and-content"
+  ],
+  "industries": [
+    "industries/professional-services",
+    "industries/software-technology",
+    "industries/nonprofits",
+    "industries/marketing-and-advertising"
+  ],
+  "situations": [
+    "situations/established-businesses",
+    "situations/acquisitions-and-integration"
+  ],
+  "related": [
+    "content-plan",
+    "website-findability-audit",
+    "dashboard-inventory-review"
+  ],
+  "evidence": {
+    "written_by": "FullyPowered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-19",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-19",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "FullyPowered AI's own original method for a periodic review of a website's page export: stale dates by page type, owners, titles and descriptions, old drafts and likely duplicates."
+    }
+  ]
+}
