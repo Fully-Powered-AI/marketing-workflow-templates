@@ -1,0 +1,48 @@
+{
+  "id": "event-attendee-follow-up-list",
+  "name": "Event attendee follow-up list",
+  "kind": "workflow-template",
+  "version": "0.1.0",
+  "summary": "The day after a webinar, open day, workshop or customer event, the organiser gets the follow-up list from the registration and attendance exports: who came, who missed it, who cancelled and who walked in, with counts that tie, a drafted note per group, and everyone left out and why.",
+  "directory": "https://fullypowered.ai/workflows/event-attendee-follow-up-list/",
+  "primary_function": "functions/marketing-and-content",
+  "functions": [
+    "functions/marketing-and-content",
+    "functions/sales"
+  ],
+  "industries": [
+    "industries/professional-services",
+    "industries/software-technology",
+    "industries/education",
+    "industries/nonprofits"
+  ],
+  "situations": [
+    "situations/growth-and-scaling",
+    "situations/established-businesses"
+  ],
+  "related": [
+    "event-plan",
+    "email-sequence-drafting",
+    "text-message-opt-in-check"
+  ],
+  "evidence": {
+    "written_by": "FullyPowered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-19",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-19",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "FullyPowered AI's own brief for the day-after work on an event, and its own method for turning an event's registration and attendance exports into a checked follow-up list with drafted notes."
+    }
+  ]
+}

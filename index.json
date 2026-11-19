@@ -164,6 +164,14 @@
       "directory": "https://fullypowered.ai/workflows/email-sequence-drafting/"
     },
     {
+      "id": "event-attendee-follow-up-list",
+      "name": "Event attendee follow-up list",
+      "version": "0.1.0",
+      "summary": "The day after a webinar, open day, workshop or customer event, the organiser gets the follow-up list from the registration and attendance exports: who came, who missed it, who cancelled and who walked in, with counts that tie, a drafted note per group, and everyone left out and why.",
+      "path": "event-attendee-follow-up-list/",
+      "directory": "https://fullypowered.ai/workflows/event-attendee-follow-up-list/"
+    },
+    {
       "id": "event-plan",
       "name": "Event plan",
       "version": "0.1.0",
