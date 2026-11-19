@@ -3,7 +3,7 @@
 Write your creator rules once in one file: products, cleared statements, platforms, pay with the arithmetic, codes and disclosure. The owner rules it.
 
 > [!TIP]
-> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Creator programme setup on our website](https://fullypowered.ai/workflows/creator-programme-setup/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-programme-setup&from=gh-marketing-creator-programme-setup) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Creator programme setup on our website](https://fullypowered.ai/workflows/creator-programme-setup/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-programme-setup&from=gh-marketing-creator-programme-setup). Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
 **Quick start**
 

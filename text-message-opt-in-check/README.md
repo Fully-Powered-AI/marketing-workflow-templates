@@ -3,7 +3,7 @@
 Sets every number on a text campaign list beside the opt-in your records hold, holds out anyone without one or with an opt-out, and counts each group.
 
 > [!TIP]
-> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Text-message opt-in check on our website](https://fullypowered.ai/workflows/text-message-opt-in-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-text-message-opt-in-check&from=gh-marketing-text-message-opt-in-check) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Text-message opt-in check on our website](https://fullypowered.ai/workflows/text-message-opt-in-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-text-message-opt-in-check&from=gh-marketing-text-message-opt-in-check). Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
 **Quick start**
 

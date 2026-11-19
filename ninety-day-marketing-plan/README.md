@@ -3,7 +3,7 @@
 Get the next ninety days of marketing on one plan: stage, moves, owners, money and hours, and what is left undone. A person approves every step.
 
 > [!TIP]
-> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Ninety-day marketing plan on our website](https://fullypowered.ai/workflows/ninety-day-marketing-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-ninety-day-marketing-plan&from=gh-marketing-ninety-day-marketing-plan) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Ninety-day marketing plan on our website](https://fullypowered.ai/workflows/ninety-day-marketing-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-ninety-day-marketing-plan&from=gh-marketing-ninety-day-marketing-plan). Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
 **Quick start**
 

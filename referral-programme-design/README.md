@@ -3,7 +3,7 @@
 Turn the recommendations your work already earns into a habit: who to ask first, the words for each ask and how to record introductions. You send each one.
 
 > [!TIP]
-> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Referral programme design on our website](https://fullypowered.ai/workflows/referral-programme-design/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-referral-programme-design&from=gh-marketing-referral-programme-design) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Referral programme design on our website](https://fullypowered.ai/workflows/referral-programme-design/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-referral-programme-design&from=gh-marketing-referral-programme-design). Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
 **Quick start**
 

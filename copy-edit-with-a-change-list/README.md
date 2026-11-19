@@ -3,7 +3,7 @@
 Get a page, email or brochure back plainer, with no claim stronger than you can support and a change list of every edit. You approve each change.
 
 > [!TIP]
-> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Copy edit with a change list on our website](https://fullypowered.ai/workflows/copy-edit-with-a-change-list/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-copy-edit-with-a-change-list&from=gh-copy-edit-with-a-change-list) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Copy edit with a change list on our website](https://fullypowered.ai/workflows/copy-edit-with-a-change-list/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-copy-edit-with-a-change-list&from=gh-copy-edit-with-a-change-list). Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
 **Quick start**
 

@@ -5,7 +5,7 @@ FullyPowered Workflow Templates for marketing teams and owners turn the AI your 
 We are FullyPowered AI. We build AI workflows for companies, and these are the templates we start from. We publish them because a good starting point should be open to everyone. Copy one. Change it. Make it yours.
 
 > [!TIP]
-> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for marketing teams and owners](https://fullypowered.ai/functions/marketing-and-content/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-readme&from=gh-marketing-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-readme&from=gh-marketing-readme) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for marketing teams and owners](https://fullypowered.ai/functions/marketing-and-content/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-readme&from=gh-marketing-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-readme&from=gh-marketing-readme). Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
 **Who this is for**
 
@@ -26,7 +26,17 @@ We are FullyPowered AI. We build AI workflows for companies, and these are the t
 1. **Edit a page of copy in a few minutes.** Open ChatGPT, Claude, Copilot or Gemini. Copy the text below into a new chat, fill in the square brackets with your own words, and send it. Nothing is installed and nothing is sent to anyone.
 
    ```text
-   You are editing copy for me. You propose, and I decide. Do not publish, send or change anything. Here is the copy: [paste a page section, email or brochure text]. It appears in [where], is read by [who], and should lead to [one action]. About us: [what you sell, your voice, your house style]. Statements I can support, each with where the proof is: [list]. Never say: [list]. First, list every claim in the copy and mark it kept, narrowed to what my statements support, or proposed for cutting. Never add a figure, name or result I did not give you. Then edit for clarity and plain words. Return the edited copy, then a numbered change list showing each line before and after, with the reason. Mark any missing fact as [Need: the fact].
+   You are editing copy for me. You propose, and I decide. Do not publish,
+   send or change anything. Here is the copy: [paste a page section, email
+   or brochure text]. It appears in [where], is read by [who], and should
+   lead to [one action]. About us: [what you sell, your voice, your house
+   style]. Statements I can support, each with where the proof is: [list].
+   Never say: [list]. First, list every claim in the copy and mark it kept,
+   narrowed to what my statements support, or proposed for cutting. Never
+   add a figure, name or result I did not give you. Then edit for clarity
+   and plain words. Return the edited copy, then a numbered change list
+   showing each line before and after, with the reason. Mark any missing
+   fact as [Need: the fact].
    ```
 
 2. Read what comes back. It marks what it checked and what is left for you. What comes back, with invented data:
