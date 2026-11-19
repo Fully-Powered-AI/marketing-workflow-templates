@@ -29,7 +29,7 @@ The marketing lead, or a marketer for them, starts it once the offer is approved
 
 - **The promotion brief.** The offer in its approved wording, with dates, any code and exclusions; the link; the segments; the sends you have in mind, each with its channel, day, time and purpose; the time zone, or every zone your customers are in.
 - **Your sending rules.** Which consent statuses permit promotional email and which permit texts, plus your windows, how many sends one person may receive in a day and in a promotion, what each suppression list covers, and who sends each channel. Where a setting is missing, the plan uses a stated default and asks about it.
-- **The contact export,** one row per contact, with segment, whether an email address and a mobile number are on file, and the email and text consent statuses. No addresses or phone numbers are needed.
+- **The contact export,** one row per contact, with segment, whether an email address and a mobile number are on file, and the email and text consent statuses, exported from your email marketing tool or the customer list you keep. No addresses or phone numbers are needed.
 - **The suppression lists:** unsubscribes, opt-outs, bounces, complaints, staff and test contacts, in one file.
 
 ## What comes out
