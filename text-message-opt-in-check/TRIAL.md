@@ -1,10 +1,10 @@
-# Text-message opt-in check: tried twice on its invented example
+# Text-message opt-in check: tried twice on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-12
 
-This record holds two runs, the second made after the template was edited. The first run is below as it was recorded; the second follows it, under "Second run". The inputs of both were the invented example in [example.md](example.md) (the check details, `winter_list.csv`, `consent_log.csv` and `optouts.csv`). No client data was used. The assistant that ran the template did not write it. It read the template and the example's inputs first, produced the check, and only then read the example's published output and the reviewer checklist.
+This record holds two runs, the second made after the template was edited. The first run is below as it was recorded; the second follows it, under "Second run". The inputs of both were the example in [example.md](example.md) (the check details, `winter_list.csv`, `consent_log.csv` and `optouts.csv`). No client data was used. The assistant that ran the template did not write it. It read the template and the example's inputs first, produced the check, and only then read the example's published output and the reviewer checklist.
 
 ## What came out
 
@@ -156,7 +156,7 @@ This run was made on the template text as it stood on 12 November 2026, before t
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-12
 
-This run used the edited template and the same invented inputs, unchanged. It was made by the assistant that applied the edits, which had already read the published example, so it is weaker evidence than the first run, which was made by an assistant that had not. It is recorded so that the published template and the published example are known to agree.
+This run used the edited template and the same sample inputs, unchanged. It was made by the assistant that applied the edits, which had already read the published example, so it is weaker evidence than the first run, which was made by an assistant that had not. It is recorded so that the published template and the published example are known to agree.
 
 ### What the edits added since the first run
 

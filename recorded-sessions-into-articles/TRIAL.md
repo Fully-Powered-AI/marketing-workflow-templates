@@ -1,11 +1,11 @@
-# Recorded sessions into articles: one trial on its invented example
+# Recorded sessions into articles: one trial on its example
 
 - **Product:** Claude
 - **Model:** Claude Fable 5.2
 - **Date:** 2026-11-09
 - **Runs:** two. The first found gaps in the instructions; they were tightened, and the run recorded here was made on the tightened instructions the same day.
 
-The inputs are the invented example published with this template. Brindlemoor Training, its trainer, the workshop, the participants and every word in the transcripts are invented, and no client data was used. This is a record of the second of two runs on that example. It is not a test in anyone's working environment.
+The inputs are the example published with this template. Brindlemoor Training, its trainer, the workshop, the participants and every word in the transcripts are illustrative, and no client data was used. This is a record of the second of two runs on that example. It is not a test in anyone's working environment.
 
 ## Inputs used
 
@@ -190,7 +190,7 @@ The first run, on the instructions as first written, produced the same subject, 
 
 **Shortcomings of this trial**
 
-- Two runs by the same assistant, on one small invented example with two short transcripts. The second run had seen the first. It says nothing about long transcripts, captions with poor speaker labels, or notes in place of a transcript.
+- Two runs by the same assistant, on one small example with two short transcripts. The second run had seen the first. It says nothing about long transcripts, captions with poor speaker labels, or notes in place of a transcript.
 - The stop conditions were not exercised: the recording notice was confirmed, the expert's label was given, and sessions fell inside the dates.
 - The claims rule and the existing-articles rule had nothing to act on: no claim needed leaving out, and no subject repeated the existing article.
 - Nobody with the expert's knowledge reviewed the draft, so the reviewer checklist items that belong to the expert were not answered. The three that belong to the person who ran it (each quotation inside one expert line; no listed name, employer or client; the invitation matches the settings) were checked and hold.
@@ -205,4 +205,4 @@ The first run, on the instructions as first written, produced the same subject, 
 - **What counts as a result.** The expert's remark on how a participant's attempt at the exercise went is teaching and may be paraphrased; a claim about what the expert's work earns, saves or cures is a result wherever it is said. This closes the second point.
 - **Three to six key lines.** The limit counts the numbered key lines only, not a quotation elsewhere in the article.
 
-The output format was not changed. In the example, the review sheet's summary now calls the share of lines an estimate, and the invented employer a participant mentions was renamed so that it does not resemble a company in another template's example; the name appears in the transcript only and in none of the output.
+The output format was not changed. In the example, the review sheet's summary now calls the share of lines an estimate, and the illustrative employer a participant mentions was renamed so that it does not resemble a company in another template's example; the name appears in the transcript only and in none of the output.

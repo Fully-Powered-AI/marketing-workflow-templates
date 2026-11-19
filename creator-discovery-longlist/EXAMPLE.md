@@ -1,6 +1,6 @@
-# Creator discovery longlist: an invented example
+# Creator discovery longlist: an example
 
-*Illustrative example with invented data.* Bramblewick Outdoor is an invented online seller of lightweight camp stoves and cook sets. Its founder, its brand marketer, the creators, their handles, posts, counts and contact pages, the competitor brands Cinderpeak and Hollowfern Gear, and the talent agency Fieldnote Talent are all invented; no real company, person or account is described. Addresses use the reserved `.example` domain so that none points at a real page.
+*Illustrative example with sample data.* Bramblewick Outdoor is an illustrative online seller of lightweight camp stoves and cook sets. Its founder, its brand marketer, the creators, their handles, posts, counts and contact pages, the competitor brands Cinderpeak and Hollowfern Gear, and the talent agency Fieldnote Talent are all illustrative; no real company, person or account is described. Addresses use the reserved `.example` domain so that none points at a real page.
 
 The brand marketer wants creators for the spring launch of a new stove. Their AI product cannot read web pages, so the assistant first listed the searches, the marketer ran them on their own phone and laptop, and pasted back what they saw. First come the inputs the marketer supplied, in full, then the longlist the workflow template returned.
 

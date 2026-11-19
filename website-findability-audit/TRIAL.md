@@ -1,10 +1,10 @@
-# Website findability audit: one run on its invented example
+# Website findability audit: one run on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID `claude-sonnet-5-5`)
 - **Date:** 2026-11-09
 
-The inputs are the template's invented example (Tallow Creek Kitchens & Baths, whose `.example` addresses do not exist). No client data was used. The run was done by an assistant that did not write the template.
+The inputs are the template's example (Tallow Creek Kitchens & Baths, whose `.example` addresses do not exist). No client data was used. The run was done by an assistant that did not write the template.
 
 ## Inputs used
 
@@ -14,7 +14,7 @@ The instruction block and the output format were followed as written, with the s
 
 ## What came out
 
-Below is the report as produced, in full, with the evidence quotes as the run wrote them. Under Choices that are yours it names a real crawler, GPTBot, as the example's robots file then did; the example now uses an invented name, ExampleAIBot (see the last section).
+Below is the report as produced, in full, with the evidence quotes as the run wrote them. Under Choices that are yours it names a real crawler, GPTBot, as the example's robots file then did; the example now uses a sample name, ExampleAIBot (see the last section).
 
 **WEBSITE FINDABILITY AUDIT: https://tallowcreek.example/**
 Prepared 9 November 2026 for the owner, from pages saved on 6 November 2026. Internal working report.
@@ -148,7 +148,7 @@ None of these stopped the run or changed an outcome.
 
 ## Not shown by this run
 
-One run on one invented example in one product does not show the template works on a real site, with real saved pages, or with another assistant. Nothing here is a test in a client's environment, and the template's acceptance tests, other than the example's own situations, were not run.
+One run on one example in one product does not show the template works on a real site, with real saved pages, or with another assistant. Nothing here is a test in a client's environment, and the template's acceptance tests, other than the example's own situations, were not run.
 
 ## Changed after this run, and not run again
 
@@ -160,7 +160,7 @@ Changed on 9 November 2026 after an independent review of the published template
 - **U4 wording.** A partial answer, or one below the top, reads "fail: weak" with what is missing; no answer reads "fail: not answered". The example's Home U4 now reads "fail: weak", with what is missing.
 - **Points 2, 3, 4 and 6 above.** The template now says that a keep-out page the sitemap lists but that was not saved goes in the sitemap fix and under Choices; that an R5 "unclear: no supplied page links to it" becomes a Weakens fix; that D2 checks structure only and a vague main heading is judged under U3; and that a robots or sitemap fix counts the pages it affects.
 - **Points 7 and 8 above.** The pasted instructions now carry the page limit (ten if none is given), "how saved: not stated" and its D1 addendum, a step for What was read and one for Facts to confirm, the R3 exception for a deliberate copy, the rule that a keep-out page must be absent from the sitemap, and pages behind a login.
-- **Two small changes to the example's inputs.** The crawler named in the robots file is now an invented name, ExampleAIBot, in place of a real crawler's name; this run's report above names the earlier one. The ampersand in the contact page's description is now written `&amp;`, like the titles.
+- **Two small changes to the example's inputs.** The crawler named in the robots file is now a sample name, ExampleAIBot, in place of a real crawler's name; this run's report above names the earlier one. The ampersand in the contact page's description is now written `&amp;`, like the titles.
 - **Credits and links.** The credits now name the two files in the third-party package the ideas came from, and the template points store owners asking about AI shopping assistants to the AI visibility audit for an online store.
 
 Further small edits on 9 November 2026, after the same review's minor points; not run again either:

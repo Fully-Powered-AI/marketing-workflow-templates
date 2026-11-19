@@ -8,7 +8,7 @@ Get one creator campaign plan: each creator's deal, a base and a conservative bu
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/creator-campaign-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-campaign-plan&from=gh-marketing-creator-campaign-plan)*
@@ -48,7 +48,7 @@ One plan in a fixed order:
 
 Good looks like this: the person approving the spend can see in one page what they are committing to, what it costs if orders come in at half the hope, and which choices are theirs.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -71,7 +71,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template in its own words, from the campaign plan in its own Influencer Marketing set. It was editorially reviewed on 9 November 2026. It was tried on its invented example on 9 and 10 November 2026 in Claude, in two runs; the record of the second is published with it, and lists the one small edit made afterward that has not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template in its own words, from the campaign plan in its own Influencer Marketing set. It was editorially reviewed on 9 November 2026. It was tried on its example on 9 and 10 November 2026 in Claude, in two runs; the record of the second is published with it, and lists the one small edit made afterward that has not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on one or two past campaigns your team remembers, with hard cases written in advance: a creator with no expected-orders figure, a creator on a platform you have not cleared, a fee that never pays back, a timeline that is a day short, a budget smaller than the spend. Your programme lead recomputes the budget from the inputs before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-campaign-plan&from=gh-marketing-creator-campaign-plan) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-campaign-plan&from=gh-marketing-creator-campaign-plan) describes the record we keep.
 
@@ -79,13 +79,13 @@ Testing in your environment means running it on one or two past campaigns your t
 - Sources and rights reviewed.
 - Editorially reviewed on 9 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

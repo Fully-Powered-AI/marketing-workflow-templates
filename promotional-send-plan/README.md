@@ -8,7 +8,7 @@ Plan one promotion across email and text: who can receive it under your consent 
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/promotional-send-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-promotional-send-plan&from=gh-marketing-promotional-send-plan)*
@@ -36,7 +36,7 @@ The marketing lead, or a marketer for them, starts it once the offer is approved
 
 One plan in a fixed order: the plan in brief, the settings used and where each came from, the numbered offer facts, the audience for email and for text with every count reconciled, any records that disagree, the send calendar, the sends each person would receive, the open questions with who answers each, the decisions for the marketing lead, the sign-offs needed before the first send, and what the plan could not judge. Each send carries a brief for the copywriter, not finished copy. Where a section is empty it says so. The last line is a blank approval for the marketing lead.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -57,7 +57,7 @@ Write your sending rules down if they are not already: which consent statuses pe
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 12 November 2026. It was tried on its invented example on 12 November 2026 in Claude; the record is published with it. The template was revised after that trial, and the revised version has so far been run again only by the session that revised it, not independently. It has not yet been tested in a client environment, or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 12 November 2026. It was tried on its example on 12 November 2026 in Claude; the record is published with it. The template was revised after that trial, and the revised version has so far been run again only by the session that revised it, not independently. It has not yet been tested in a client environment, or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on a past promotion whose problems you already know: a status your rules do not name, a contact on the opt-out list whose record still says opted in, a text scheduled after your window, a customer who would hear from you too often. The person who keeps the contact records recomputes every count before the plan is relied on. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-promotional-send-plan&from=gh-marketing-promotional-send-plan) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-promotional-send-plan&from=gh-marketing-promotional-send-plan) shows the record.
 
@@ -65,13 +65,13 @@ Testing in your environment means running it on a past promotion whose problems 
 - Sources and rights reviewed.
 - Editorially reviewed on 12 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 12 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 12 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

@@ -1,4 +1,4 @@
-# Trial: Brand mentions and conversations review, run on its invented example
+# Trial: Brand mentions and conversations review, run on its example
 
 - **Product:** Claude, run in Claude Code
 
@@ -6,7 +6,7 @@ Model: Claude Sonnet 5.5 (model ID claude-sonnet-5-5). The assistant that ran th
 
 Date: 2026-11-11
 
-The inputs are the invented example in `public/example.md` (Quillfern, a made-up maker of home coffee grinders, with made-up handles and posts). No client data was used.
+The inputs are the example in `public/example.md` (Quillfern, a made-up maker of home coffee grinders, with made-up handles and posts). No client data was used.
 
 ## Inputs used
 

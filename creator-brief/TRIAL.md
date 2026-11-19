@@ -1,4 +1,4 @@
-# Creator brief: tried on its invented example
+# Creator brief: tried on its example
 
 - **Product:** Claude, run in Claude Code
 
@@ -6,7 +6,7 @@
 
 **Date:** 2026-11-09
 
-The inputs were the invented example in `public/example.md` (Saltbrook Candle Company, three invented creators, an invented campaign called Winter Hearth). No client data was used.
+The inputs were the example in `public/example.md` (Saltbrook Candle Company, three illustrative creators, an illustrative campaign called Winter Hearth). No client data was used.
 
 **Edited after this run, 9 November 2026.** Following the independent review, the template was edited after the run recorded here, and the run was not repeated. The output and the observations below are left as recorded, so where they say "as they now stand" or describe the template, they describe it as it was at the time of the run. What changed:
 
@@ -18,7 +18,7 @@ The inputs were the invented example in `public/example.md` (Saltbrook Candle Co
 
 ## How the run was made
 
-This is the second run on the invented example. The first, the same day with Sonnet 5.5, found places where the instructions left a guess, and facts in the example's own output that its inputs did not give. Before this run the template and the example were revised: the brand rules now carry the short name, who makes platform rulings, who issues codes and links and who keeps signed agreements; a missing supplier is written "not stated in the inputs"; the request carries the sender role; the second deliverable is a feed post instead of a Story frame; and the rules for choices, blank roster cells, a double stop and the deliverable line were settled. The same model made those revisions in another session.
+This is the second run on the example. The first, the same day with Sonnet 5.5, found places where the instructions left a guess, and facts in the example's own output that its inputs did not give. Before this run the template and the example were revised: the brand rules now carry the short name, who makes platform rulings, who issues codes and links and who keeps signed agreements; a missing supplier is written "not stated in the inputs"; the request carries the sender role; the second deliverable is a feed post instead of a Story frame; and the rules for choices, blank roster cells, a double stop and the deliverable line were settled. The same model made those revisions in another session.
 
 The run itself was a fresh session with no tools. Its instructions were the fenced instruction block and the output format from `member/template.md`, exactly as they now stand; its one message was the four inputs of the example, copied from `public/example.md`. It saw neither the example's output nor the earlier record. Its reply is reproduced below as it came back, except where marked.
 

@@ -317,4 +317,4 @@ need.
 
 ## Version notes
 
-- 0.1.0, 9 November 2026. Written by FullyPowered AI from its own customer research working guide. That guide draws on seven openly licensed packages; each is credited in the sources with what it contributed, and no text of theirs is reused. Editorially reviewed. Tried on its invented example; not yet tested in a client environment.
+- 0.1.0, 9 November 2026. Written by FullyPowered AI from its own customer research working guide. That guide draws on seven openly licensed packages; each is credited in the sources with what it contributed, and no text of theirs is reused. Editorially reviewed. Tried on its example; not yet tested in a client environment.

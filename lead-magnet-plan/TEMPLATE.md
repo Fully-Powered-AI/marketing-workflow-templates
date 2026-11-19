@@ -61,7 +61,7 @@ The assistant works only from what the person pastes or attaches. It needs no ac
 9. **Lay out the outline.**
    - **Opening:** who it is for, what to have beside you, and how to use it. Give the time it takes only if the person supplied one.
    - **Sections,** numbered, in the order the reader does the work. Each section: a heading, "Gives" (what the reader can do or decide from it), and "Draws on" (the material on hand or published piece by name, or "to be written: [what the writer must supply]"). The first section must be useful on its own, so the reader gets something on the first page. In a checklist or worksheet, every item carries a line on why it matters and a line on what to do when nobody knows the answer; where the material on hand lists the items without those lines, write "to be written: the two lines per item". When a question in the chosen group asks how to do something, the section names what to ask for, have or check; any part the format cannot carry, such as what to do if a request is refused, goes under Left out with its reason.
-   - **Worked example:** one part shown completed, so the reader sees the finished state. Name the material it comes from; invented details stay labelled invented. If no material can supply it, write "to be written by the writer, labelled invented".
+   - **Worked example:** one part shown completed, so the reader sees the finished state. Name the material it comes from; sample details stay labelled invented. If no material can supply it, write "to be written by the writer, labelled invented".
    - **Closing:** the next step from "your facts", offered once, after the last section, with a line saying the reader can stop here with something usable.
 10. **List the limits.** Every item on the "must never say" list in "your facts", plus any bound of the material on hand (the magnet says nothing the material does not show). A magnet that could only work by breaking a limit gets the verdict "not a lead magnet", with the limit named.
 11. **Plan the delivery.** Where it lives, from "your facts", live or not. Then the form question. If there is no email list or nobody follows up on sign-ups, recommend publishing it with no form, because a form would collect addresses nobody writes to. If both exist, write "no form or behind a form: [approver role] decides"; if behind a form, ask for an email address only, unless "your facts" give a reason for more, and leave a slot for the consent wording and what the person will receive, written by whoever owns the list.
@@ -131,9 +131,8 @@ Opening: [who it is for; what to have beside you; how to use it]
 matters and a line on what to do when nobody knows the answer
 [; to be written: the two lines per item].]
 Worked example: [the part shown completed], from [material]
-  [, invented details labelled invented] / to be written by the
-  writer, labelled invented
-Closing: [the next step from your facts], offered once; the reader
+  [, sample details labelled invented] / to be written by the
+  writer, labelled illustrative Closing: [the next step from your facts], offered once; the reader
 can stop here with something usable.
 
 LIMITS
@@ -305,7 +304,7 @@ Planning:
     something, the section names what to ask for, have or check, and
     any part the format cannot carry (such as what to do if a request
     is refused) goes under Left out; one worked example from named
-    material, invented details labelled invented; a closing with the
+    material, sample details labelled invented; a closing with the
     next step from "your facts", offered once, and a line that the
     reader can stop there with something usable.
 13. Limits: every "must never say" item, plus the bounds of the
@@ -366,4 +365,4 @@ anything you could not complete and what you would need.
 
 ## Version notes
 
-- 0.1.0, 9 November 2026. Written by FullyPowered AI from the lead magnet working guide it uses in its own marketing, with ideas from coreyhaines31/marketingskills, rampstackco/claude-skills, GTMify/aigtm and whawkinsiv/solo-founder-skills (all MIT) and panaversity/agentfactory-business-plugins (Apache-2.0), credited in the sources; no text is reused. Editorially reviewed. Tried on its invented example on 9 November 2026 in Claude, in two runs: the instructions and the example were revised after the first, and the second is the run recorded; the record is published with it. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 9 November 2026. Written by FullyPowered AI from the lead magnet working guide it uses in its own marketing, with ideas from coreyhaines31/marketingskills, rampstackco/claude-skills, GTMify/aigtm and whawkinsiv/solo-founder-skills (all MIT) and panaversity/agentfactory-business-plugins (Apache-2.0), credited in the sources; no text is reused. Editorially reviewed. Tried on its example on 9 November 2026 in Claude, in two runs: the instructions and the example were revised after the first, and the second is the run recorded; the record is published with it. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.

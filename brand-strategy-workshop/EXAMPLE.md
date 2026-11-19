@@ -1,6 +1,6 @@
-# Brand strategy workshop: an invented example
+# Brand strategy workshop: an example
 
-*Illustrative example with invented data.* Harrowmere Bikes, its people, its customers, its competitor and the city of Calder Point are all invented. This page gives the inputs the owner supplied, in full, then everything the owner said during the session, then the three documents that came out: the brand strategy, the choices record and the validation kit.
+*Illustrative example with sample data.* Harrowmere Bikes, its people, its customers, its competitor and the city of Calder Point are all illustrative. This page gives the inputs the owner supplied, in full, then everything the owner said during the session, then the three documents that came out: the brand strategy, the choices record and the validation kit.
 
 Nothing in the documents is stated about the company, or about the session, unless it is in the inputs or in the owner's replies below. Where the owner did not know, the documents say TBD. Three kinds of line are the assistant's drafting and not fact, and are labelled as such: the options it offered, the trait and voice sentences and the lines in use, which the owner chose or confirmed, and Nell, the model buyer, who is invented. The audience circles are the assistant's draft as the owner confirmed and corrected them.
 
@@ -71,7 +71,7 @@ This is the working brand strategy for Harrowmere Bikes: the owner chose the pur
   - Circle 3: of those, households that own a second car.
 - **Who else has a say.** "Usually the other parent." Anything beyond that is TBD.
 - **The surest sign of fit.** "They have already priced a new cargo bike at the dealer and walked away."
-- **A picture of them.** Nell is invented. She is a parent of two in Calder Point, with one child at primary school and one at nursery. Her household has a second car that does the school run and local errands and little else (mileage TBD). She priced a new cargo bike at the dealer and walked away, because it cost more than that car is worth. She has seen used ones in private listings, but she will not risk a bike that dies on a hill with two kids in the box, or one nobody will service. The other parent usually has a say. Her age, her income and how she first hears of Harrowmere are TBD.
+- **A picture of them.** Nell is illustrative. She is a parent of two in Calder Point, with one child at primary school and one at nursery. Her household has a second car that does the school run and local errands and little else (mileage TBD). She priced a new cargo bike at the dealer and walked away, because it cost more than that car is worth. She has seen used ones in private listings, but she will not risk a bike that dies on a hill with two kids in the box, or one nobody will service. The other parent usually has a say. Her age, her income and how she first hears of Harrowmere are TBD.
 
 ## Category
 **Harrowmere Bikes is a rebuilt cargo bike shop with a service plan.**

@@ -1,13 +1,13 @@
-# Ninety-day marketing plan: one trial on its invented example
+# Ninety-day marketing plan: one trial on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (claude-sonnet-5-5)
 - **Date:** 2026-11-09
 - **Template version:** 0.1.0
 
-This is a record of one run of the template as it stood on this date. The inputs are the invented example published with this workflow template: Quillmoor Bookkeeping, its customers, the accountants and every figure in them are invented. No client data was used, and nothing was sent, posted, bought or booked. One run on an invented example shows how the instructions behave once; it is not a test in anyone's working environment.
+This is a record of one run of the template as it stood on this date. The inputs are the example published with this workflow template: Quillmoor Bookkeeping, its customers, the accountants and every figure in them are illustrative. No client data was used, and nothing was sent, posted, bought or booked. One run on an example shows how the instructions behave once; it is not a test in anyone's working environment.
 
-The run was made by a model that did not write the template. It read the template, then only the invented inputs of the example, and produced the plan before reading the example's own output. The comparison with that output was made afterwards.
+The run was made by a model that did not write the template. It read the template, then only the sample inputs of the example, and produced the plan before reading the example's own output. The comparison with that output was made afterwards.
 
 ## The inputs used
 

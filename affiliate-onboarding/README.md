@@ -8,7 +8,7 @@ Check a new creator's code and link against your programme rules, then get a wel
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/affiliate-onboarding/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-affiliate-onboarding&from=gh-marketing-affiliate-onboarding)*
@@ -38,7 +38,7 @@ The programme owner or the marketing lead who runs the creator programme starts 
 
 A readiness section showing each check passed or what stopped it. Then the welcome pack, ready for the programme owner to send; the first-weeks checklist with dates, owners and where each date came from, and the earliest payout run with its arithmetic; the roster entry for a person to make, with any test order marked so it never earns commission; every figure in the pack with its source; and the open items. The pack makes no statements about the products: what a creator may say lives in the brief.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -55,7 +55,7 @@ Write your programme rules first; this workflow template reads them and sets non
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template in its own words, from the affiliate onboarding work in its own Influencer Marketing set. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 9 November 2026 in two runs, the second after the first review's changes; the record of the second is published with it, and lists the small edit made afterward that has not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template in its own words, from the affiliate onboarding work in its own Influencer Marketing set. It was editorially reviewed on 10 November 2026. It was tried on its example on 9 November 2026 in two runs, the second after the first review's changes; the record of the second is published with it, and lists the small edit made afterward that has not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on past onboardings your programme owner remembers, plus hard cases written in advance: a code that matches an old ended one, a link with nothing that names the creator, a checkout that showed the wrong discount, a codes export with renamed columns, a request to add a product claim. Your programme owner checks every figure against the rules before a pack goes out. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-affiliate-onboarding&from=gh-marketing-affiliate-onboarding) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-affiliate-onboarding&from=gh-marketing-affiliate-onboarding) describes the record we keep.
 
@@ -63,13 +63,13 @@ Testing in your environment means running it on past onboardings your programme 
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 9 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 9 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

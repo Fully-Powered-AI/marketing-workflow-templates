@@ -1,6 +1,6 @@
-# Competitor profile from public pages: an invented example
+# Competitor profile from public pages: an example
 
-*Illustrative example with invented data.* Tessel & Wren Payroll and Corvane Paydesk are invented companies; no real firm or person is described, the pages below were written for this example, and nothing here is evidence about any market. The marketing lead at Tessel & Wren asks for a quick profile of Corvane Paydesk from three pages she saved herself.
+*Illustrative example with sample data.* Tessel & Wren Payroll and Corvane Paydesk are illustrative companies; no real firm or person is described, the pages below were written for this example, and nothing here is evidence about any market. The marketing lead at Tessel & Wren asks for a quick profile of Corvane Paydesk from three pages she saved herself.
 
 ## The inputs
 

@@ -1,10 +1,10 @@
-# Affiliate onboarding: trial on the invented example
+# Affiliate onboarding: trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Opus 5.5 (model ID claude-opus-5-5)
 - **Date:** 2026-11-09
 
-The inputs were the invented example in `public/example.md` (Quillmoor Tea Company, the creator Dana Ruiz and the codes are all made up). No client data was used.
+The inputs were the example in `public/example.md` (Quillmoor Tea Company, the creator Dana Ruiz and the codes are all made up). No client data was used.
 
 This is the second run on the example. A first run the same day, by Claude Sonnet 5.5 in Claude Code, followed the template as written and matched the example in every figure and date, but found that the pack told the creator a sale counts once 30 days pass "without a refund or cancellation", which the programme rules did not say, and noted eight smaller ambiguities. After an editorial review, the template was changed: the holdback sentence now states only the number of days, a refund and cancellation line is read from the programme rules (and added to the example's rules), the creator's first-weeks list, working days, the live-post check and the payout set-up check are defined, the "Ready to send" line points to open items when there are any, and the instruction block now carries the commission variants, the no-export rule and the payout paragraph's limits. This run tests the changed template.
 
@@ -45,7 +45,7 @@ Every required part of the output format was produced, in order: the readiness s
 
 **Stops.** None. The inputs were complete and clean, so the stop conditions, the "date not set" path for an unset payout check and the missing-refund-line path were not exercised. The template's twelve acceptance tests were not run; this was one ordinary run only.
 
-**Limits of this record.** One run, by one model, on one invented example, in one product, by the session that had just edited the template. It does not show how the template behaves on messy real inputs, in other products, or for a client.
+**Limits of this record.** One run, by one model, on one example, in one product, by the session that had just edited the template. It does not show how the template behaves on messy real inputs, in other products, or for a client.
 
 ## Changed after this run, and not run again
 

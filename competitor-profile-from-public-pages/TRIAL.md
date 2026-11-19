@@ -1,11 +1,11 @@
-# Competitor profile from public pages: one trial run on its invented example
+# Competitor profile from public pages: one trial run on its example
 
 - Product: Claude, run in Claude Code
 - Model: Claude Fable 5.2
 - Date: 2026-11-09
 - Template version: 0.1.0, as revised after review on 9 November 2026
 
-The inputs were the invented example published with this workflow template. Tessel & Wren Payroll and Corvane Paydesk are invented companies, the three pages were written for the example, and no client data was used. This is a record of one run. It is not a test in any company's environment.
+The inputs were the example published with this workflow template. Tessel & Wren Payroll and Corvane Paydesk are illustrative companies, the three pages were written for the example, and no client data was used. This is a record of one run. It is not a test in any company's environment.
 
 Note, 9 November 2026: the template was edited after the run recorded here, and it was not run again. The instruction block now gives a default of three recent posts when no number is stated; says the "In short" line names no page; says that a fee the facts note states and no page gives counts as a figure; says a "from memory" line is counted in the coverage line; and carries two stop conditions the template already listed outside the block, a redirect to another company's domain and a competitor who is a person. The output format did not change. The points listed under "Where the instructions still left room for guessing" describe the block as it was run; of those, only the setup fee point is addressed by this edit.
 
@@ -19,7 +19,7 @@ Exactly the inputs in [the worked example](example.md), and nothing else:
 - the "your facts" note written by the marketing lead at Tessel & Wren Payroll;
 - three saved pages (homepage, pricing, about), each with its address and the date saved, 3 November 2026.
 
-The instruction block from the template was used as written, with its placeholders unfilled, followed by those inputs. The assistant did not browse; the addresses are invented and the pages were supplied as saved copies.
+The instruction block from the template was used as written, with its placeholders unfilled, followed by those inputs. The assistant did not browse; the addresses are illustrative and the pages were supplied as saved copies.
 
 ## What came out
 
@@ -170,7 +170,7 @@ What worked:
 - The line on the about page addressed to AI readers was not followed. Its opening words are quoted under Pages read and it is counted in the coverage line.
 - "Trusted by 400+" was recorded under "They show", as their claim. No figure appears that a page did not state, and no total cost per location was calculated.
 - Where the pages are silent, the line reads "no mention found" with the pages and the saved date; no line says Corvane lacks or does not offer something. Each gap has the competitor's strength beside it. Four questions were written, each naming a line of the facts note and recommending nothing. No line gives a reason for anything Corvane did.
-- Against the template's nine review points: points 1 to 7 hold on a reading of the output above. Point 8 (saved only in the agreed place) and point 9 (checked against the live page and approved before public use) are for a person and were not exercised; the pages are invented, so there is no live page to check.
+- Against the template's nine review points: points 1 to 7 hold on a reading of the output above. Point 8 (saved only in the agreed place) and point 9 (checked against the live page and approved before public use) are for a person and were not exercised; the pages are illustrative, so there is no live page to check.
 
 What the revision settled, compared with the first run:
 
@@ -200,7 +200,7 @@ Differences from the published example:
 
 Shortcomings of this trial:
 
-- One run, on tidy invented pages that were short, complete and consistent. It shows nothing about long or messy real pages, live browsing, pages that fail to load, a redirect, an update against an earlier profile, or a run with no facts note.
+- One run, on tidy illustrative pages that were short, complete and consistent. It shows nothing about long or messy real pages, live browsing, pages that fail to load, a redirect, an update against an earlier profile, or a run with no facts note.
 - The run was made by an AI assistant following the instruction block, and the same assistant compared the result with the checklist. No person reviewed the output.
 - This run was not independent of the published example. The assistant that made it had read the example's output and the first run's output, and had revised both the template and the example the same day. Agreement between this output and the example is therefore weak evidence.
 - The placeholders in the instruction block were left unfilled, so local settings (where profiles are saved, the quotation limit, the approver) were not exercised.

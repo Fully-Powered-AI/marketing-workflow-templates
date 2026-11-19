@@ -1,11 +1,11 @@
-# Creator campaign plan: tried on its invented example
+# Creator campaign plan: tried on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Opus 5.5 (model ID claude-opus-5-5)
 - **Date:** 2026-11-10
 - **Template version:** 0.1.0
 
-This is a record of one run of the workflow template on its own invented example. The business, the creators, the figures and the dates are invented, and no client data was used. It shows what the template produced once, on one set of inputs. It is not a test in any company's environment.
+This is a record of one run of the workflow template on its own example. The business, the creators, the figures and the dates are illustrative, and no client data was used. It shows what the template produced once, on one set of inputs. It is not a test in any company's environment.
 
 This is the second run on the same example. An earlier run on 9 November, by Claude Sonnet 5.5, showed where the instructions left room to guess; the instructions and the example were revised, and the run recorded here was made on the revised instructions. What the earlier run found, and what was changed, is at the end.
 
@@ -232,7 +232,7 @@ This is one run by one model. It shows that the instructions as they now stand c
 
 ## The earlier run, and what changed
 
-The first run was made on 9 November 2026 by Claude Sonnet 5.5, run in Claude Code, a model that did not write the template, on the same invented inputs except the roles line. Its figures, dates and timeline fit all matched the example. It merged the fee-and-commission row into the 10 percent commission row of the per-order table, counted seven decisions where it had six, muddled the thin-read flag with conservative-case orders, wrote "Missing: nothing" although the screenshot behind Creator C's figure was not supplied, and recommended on decision 5 from a figure that did not bear on the choice. It also found twelve places where the instructions needed a guess.
+The first run was made on 9 November 2026 by Claude Sonnet 5.5, run in Claude Code, a model that did not write the template, on the same sample inputs except the roles line. Its figures, dates and timeline fit all matched the example. It merged the fee-and-commission row into the 10 percent commission row of the per-order table, counted seven decisions where it had six, muddled the thin-read flag with conservative-case orders, wrote "Missing: nothing" although the screenshot behind Creator C's figure was not supplied, and recommended on decision 5 from a figure that did not bear on the choice. It also found twelve places where the instructions needed a guess.
 
 After that run, and before this one:
 

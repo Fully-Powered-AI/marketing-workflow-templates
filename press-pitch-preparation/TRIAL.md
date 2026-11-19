@@ -1,10 +1,10 @@
-# Press pitch preparation: a trial on the invented example
+# Press pitch preparation: a trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-09
 
-The inputs are the invented example in `public/example.md` (Marrow Lane Coffee Roasters, its facts note, the story, the request and the seven saved pages). No client data was used. The run followed the fenced instruction block and the output format in the workflow template, version 0.1.0, and was made once.
+The inputs are the example in `public/example.md` (Marrow Lane Coffee Roasters, its facts note, the story, the request and the seven saved pages). No client data was used. The run followed the fenced instruction block and the output format in the workflow template, version 0.1.0, and was made once.
 
 **Edited after this run, 9 November 2026.** Following the independent review, the template and the published example were edited after the run recorded here, and the run was not repeated. The output and the observations below are left as recorded, so where they describe the template or the published example, they describe them as they were at the time of the run. What changed:
 
@@ -16,7 +16,7 @@ The inputs are the invented example in `public/example.md` (Marrow Lane Coffee R
 
 **Edited again after a second review, 9 November 2026.** These edits were made after the run too, and the run was not repeated; the output and observations below still describe the files as they were when it ran.
 
-- The fourth outlet in the published example was renamed from "Home Barista Gear Review" (homebaristagear.example) to "Quillfield Brew Reviews" (quillfieldbrew.example), an invented name further from any real site's. Its page text is otherwise unchanged. The output below keeps the old name, as the run wrote it.
+- The fourth outlet in the published example was renamed from "Home Barista Gear Review" (homebaristagear.example) to "Quillfield Brew Reviews" (quillfieldbrew.example), a sample name further from any real site's. Its page text is otherwise unchanged. The output below keeps the old name, as the run wrote it.
 - Saved pages 2 and 6 in the published example lost their "[...]" elision marks, so each is a short complete page. No other words on those pages changed, and nothing in the output depended on the elided text.
 - The published example's Ask line for The Roastery Ledger now reads "changed from your ask: the outlet's page asks for a short outline of a contributed article, not a conversation", because the request did give an ask. This run, like the published example before the edit, wrote "chosen from the outlet's guidance".
 - The template's instruction block now also states what its procedure and exceptions already said: the default approver ("the person who asked"), drafting nothing when every outlet is weak or takes no pitches, leaving out a private person who has not agreed, and declining a story a court or regulator is involved in. None of these applies to the example's inputs. The public credits now also name the main public relations file as the source of the reason incident work is declined.
@@ -167,4 +167,4 @@ Status: drafts for the marketing coordinator's review. Nothing was sent, posted 
   - The step 8 trace is a promise, not a mechanism. The drafts carry "Uses:" lists, but nothing makes the assistant mark where each fact appears in the body, so a reviewer must check by reading.
   - Where several facts could carry a follow-up the template does not say which to prefer.
   - The reviewer checklist's role names (Approver, Spokesperson) are not explained against steps in the procedure.
-  - A trial on one invented example, by the assistant that did not write the template but had seen the answer, shows that the instructions can be followed to a complete output. It does not show the workflow template works with real outlets, live pages or a real spokesperson.
+  - A trial on one example, by the assistant that did not write the template but had seen the answer, shows that the instructions can be followed to a complete output. It does not show the workflow template works with real outlets, live pages or a real spokesperson.

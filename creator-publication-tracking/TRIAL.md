@@ -1,14 +1,14 @@
-# Creator publication tracking: tried on its invented example
+# Creator publication tracking: tried on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-09
 
-The inputs are the invented example in [example.md](example.md): Fernhollow Candle Co., the Winter Hearth campaign, its creators, codes and web addresses are all made up. No client data was used. The model that ran the template did not write it.
+The inputs are the example in [example.md](example.md): Fernhollow Candle Co., the Winter Hearth campaign, its creators, codes and web addresses are all made up. No client data was used. The model that ran the template did not write it.
 
 ## How it was run
 
-The model read the template (`member/template.md`) and took only the five invented inputs from the example: the campaign rules, the deliverables list (5 rows), the post log (10 rows), the actions log (3 rows) and the request (report date 2026-11-20). It had not read the example's output. It then followed the fenced instruction block and the output format on those inputs. Only afterwards did it compare its output with the published example's output and the reviewer checklist. Nothing was sent, posted, paid or changed.
+The model read the template (`member/template.md`) and took only the five sample inputs from the example: the campaign rules, the deliverables list (5 rows), the post log (10 rows), the actions log (3 rows) and the request (report date 2026-11-20). It had not read the example's output. It then followed the fenced instruction block and the output format on those inputs. Only afterwards did it compare its output with the published example's output and the reviewer checklist. Nothing was sent, posted, paid or changed.
 
 ## What came out
 
@@ -153,10 +153,10 @@ Every required part of the output format was produced, and nothing in the inputs
 
 **Other observations**
 
-- The invented example is slightly odd: a story recorded as live a day after posting, and a day 7 check due on a story. The template's customize list already mentions stories that disappear on their own; the example does not show that case.
+- The example is slightly odd: a story recorded as live a day after posting, and a day 7 check due on a story. The template's customize list already mentions stories that disappear on their own; the example does not show that case.
 - Dates, day counts and the link and code comparisons all came out the same as the example's. The www and trailing-slash link counted as a match, and the different code counted as differs, as the template says.
 
-This was one run by one model on one invented example. It shows the instructions can be followed to a complete report; it does not show the template works in a client's own files or in other AI products.
+This was one run by one model on one example. It shows the instructions can be followed to a complete report; it does not show the template works in a client's own files or in other AI products.
 
 ## Edits made after this run, not run again
 

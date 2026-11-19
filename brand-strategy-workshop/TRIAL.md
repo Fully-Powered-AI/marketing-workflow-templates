@@ -1,11 +1,11 @@
-# Brand strategy workshop: one trial on its invented example
+# Brand strategy workshop: one trial on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Fable 5.2
 - **Date:** 2026-11-09
 - **Runs:** this record is of the third run, the only one made after the instructions began asking who is in the session. One further change was made to the instructions during this run and the run was not repeated after it, so no run was made on the final text; see "Changes made to the template for this run". The two earlier runs, made the same day on earlier drafts, are summarised at the end, with the fault the second one left behind.
 
-The inputs are the invented example published with this template. Harrowmere Bikes, its owner, its marketing lead, its customers, its competitor and the city of Calder Point are invented, and no client data was used. This is a record of one run on that example. It is not a test in any company's environment, and no real owner sat in a session.
+The inputs are the example published with this template. Harrowmere Bikes, its owner, its marketing lead, its customers, its competitor and the city of Calder Point are illustrative, and no client data was used. This is a record of one run on that example. It is not a test in any company's environment, and no real owner sat in a session.
 
 ## Inputs used
 
@@ -27,7 +27,7 @@ Four things a reader should know before trusting it:
 - **It was one pass, not a conversation.** Nobody was waiting between messages. Each reply was applied at its place in the sequence. One decision per message was therefore not exercised.
 - **Time was not observed.** The run says nothing about the three hours of an owner's attention the template plans for.
 
-After the documents were assembled, every sentence in them and in the closing note was traced to an input, an owner's reply, an option labelled as the assistant's, or the invented model buyer. What that check found is under "What was observed". The output below is the output after that check.
+After the documents were assembled, every sentence in them and in the closing note was traced to an input, an owner's reply, an option labelled as the assistant's, or the illustrative model buyer. What that check found is under "What was observed". The output below is the output after that check.
 
 ## What came out
 
@@ -55,7 +55,7 @@ This is the working brand strategy for Harrowmere Bikes: the owner chose the pur
   - Circle 3: of those, households that own a second car.
 - **Who else has a say.** "Usually the other parent." Anything beyond that is TBD.
 - **The surest sign of fit.** "They have already priced a new cargo bike at the dealer and walked away."
-- **A picture of them.** Nell is invented. She is a parent of two in Calder Point, with one child at primary school and one at nursery. Her household has a second car that does the school run and local errands and little else (mileage TBD). She priced a new cargo bike at the dealer and walked away, because it cost more than that car is worth. She has seen used ones in private listings, but she will not risk a bike that dies on a hill with two kids in the box, or one nobody will service. The other parent usually has a say. Her age, her income and how she first hears of Harrowmere are TBD.
+- **A picture of them.** Nell is illustrative. She is a parent of two in Calder Point, with one child at primary school and one at nursery. Her household has a second car that does the school run and local errands and little else (mileage TBD). She priced a new cargo bike at the dealer and walked away, because it cost more than that car is worth. She has seen used ones in private listings, but she will not risk a bike that dies on a hill with two kids in the box, or one nobody will service. The other parent usually has a say. Her age, her income and how she first hears of Harrowmere are TBD.
 
 ## Category
 **Harrowmere Bikes is a rebuilt cargo bike shop with a service plan.**
@@ -421,7 +421,7 @@ None. The example's three documents and its closing note are this run's output, 
 
 **Shortcomings of this trial**
 
-- One run, in one product, on one invented company.
+- One run, in one product, on one illustrative company.
 - Not blind: the session that ran it had revised the template and read the earlier output.
 - The owner's replies were fixed in advance and decisive throughout, and the options were carried over to fit them. This run therefore says little about how well the instructions produce options, and most about whether the finished documents hold only what the inputs support.
 - A single pass. Asking one decision at a time and waiting was exercised in the second run, not this one.

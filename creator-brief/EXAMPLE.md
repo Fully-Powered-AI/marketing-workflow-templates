@@ -1,6 +1,6 @@
-# Creator brief: an invented example
+# Creator brief: an example
 
-*Illustrative example with invented data.* Saltbrook Candle Company, its products, its people, its three creators, their codes and the web address are all invented. First come the four inputs the brand's creator programme lead supplied, in full, then everything the workflow template returned: a run summary, two briefs and one creator stopped before any brief was written.
+*Illustrative example with sample data.* Saltbrook Candle Company, its products, its people, its three creators, their codes and the web address are all illustrative. First come the four inputs the brand's creator programme lead supplied, in full, then everything the workflow template returned: a run summary, two briefs and one creator stopped before any brief was written.
 
 The example shows five things a reader should look for. A point the plan wanted that nobody has cleared stays out of the briefs and is listed for the founder. A line in the cleared list with no cleared-by mark ("Cotton wick.") does not count as cleared and appears in neither brief. A creator who has not signed gets a brief marked not ready, with each gap named. A creator on a platform the brand has not ruled on gets no brief at all. A roster note asking for a ready-made caption is recorded and not followed.
 

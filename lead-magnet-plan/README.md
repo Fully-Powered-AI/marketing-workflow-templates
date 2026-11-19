@@ -8,7 +8,7 @@ Plan one free resource from the questions buyers really ask: who it is for, the 
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/lead-magnet-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-lead-magnet-plan&from=gh-marketing-lead-magnet-plan)*
@@ -39,7 +39,7 @@ One plan, in a fixed order: a verdict and a short summary; the reader, their mom
 
 Good looks like this: each part of the promise has its own section in the outline, and every section is built from material you already have.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -61,7 +61,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 9 November 2026. It was tried on its invented example on 9 November 2026 in Claude, in two runs; the instructions were revised after the first, and the record of the second is published with it. It has not yet been tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 9 November 2026. It was tried on its example on 9 November 2026 in Claude, in two runs; the instructions were revised after the first, and the record of the second is published with it. It has not yet been tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on a past quarter's buyer questions your marketing lead remembers well, plus hard cases written in advance: a question log whose columns have different names, a question every page already answers, a format that does not fit the hours. The marketing lead checks every count and every source line before relying on the plan. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-lead-magnet-plan&from=gh-marketing-lead-magnet-plan) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-lead-magnet-plan&from=gh-marketing-lead-magnet-plan) describes the record we keep.
 
@@ -69,13 +69,13 @@ Testing in your environment means running it on a past quarter's buyer questions
 - Sources and rights reviewed.
 - Editorially reviewed on 9 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 9 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 9 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

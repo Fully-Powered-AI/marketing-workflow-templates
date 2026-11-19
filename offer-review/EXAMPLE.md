@@ -1,6 +1,6 @@
-# Offer review: an invented example
+# Offer review: an example
 
-*Illustrative example with invented data.* Quillmere Bookkeeping is an invented firm, and its offer, its notes and every objection quoted below are invented; no real firm or person is described. The firm's owner packages a catch-up service for businesses whose books have fallen behind, and asks for a review before the page is rewritten.
+*Illustrative example with sample data.* Quillmere Bookkeeping is an illustrative firm, and its offer, its notes and every objection quoted below are illustrative; no real firm or person is described. The firm's owner packages a catch-up service for businesses whose books have fallen behind, and asks for a review before the page is rewritten.
 
 The inputs come first, in full, so the template can be run on them. The review follows.
 
@@ -47,7 +47,7 @@ Who buys: owners of service businesses with 5 to 30 staff whose books
   left, or before a loan application or a tax deadline.
 What they want it for: numbers they can hand to their accountant or
   lender, and to stop worrying about it.
-Proof we can show: a sample month-end pack with invented figures, made
+Proof we can show: a sample month-end pack with sample figures, made
   last year; our written 14-step catch-up checklist. No client has
   agreed to be named.
 How it runs: the client invites us as a user of their bank feeds and
@@ -121,7 +121,7 @@ Additions that answer an objection: weak. The offer says: "A 45-minute
   line that describes it, "set up a monthly close so you never fall
   behind again", carries a promise held back in section 5. Your facts
   hold: a written 14-step catch-up checklist and a sample month-end
-  pack with invented figures, neither in the offer.
+  pack with sample figures, neither in the offer.
 What protects the buyer: missing. The offer says: "100% satisfaction
   guaranteed.", which is held back in section 5, so no line remains.
   Your facts hold: if the buyer's accountant finds a categorisation
@@ -168,8 +168,7 @@ Parts: 1 present, 4 weak, 1 missing.
   on: outcome. Answered by: partly, by What the buyer has at the end:
   "A profit and loss statement and balance sheet for each month caught
   up"; left open: what the buyer can do with them, and what is not
-  included. Your facts hold: a sample month-end pack with invented
-  figures.
+  included. Your facts hold: a sample month-end pack with sample figures.
 
 3. THE FOUR LEVERS
 Outcome: stated. The offer lists what is delivered ("All bank and card

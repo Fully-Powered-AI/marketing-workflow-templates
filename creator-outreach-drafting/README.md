@@ -8,7 +8,7 @@ Get a first message and three follow-ups for each chosen creator, opening on the
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/creator-outreach-drafting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-outreach-drafting&from=gh-marketing-creator-outreach-drafting)*
@@ -38,7 +38,7 @@ A run summary, then a block for each creator drafted: the status, the version fo
 
 A creator who is excluded, asked not to be contacted, may have an audience under 18, was marked skip on the shortlist or has no known way to be reached gets no draft. A missing fact is marked as a gap for the person who supplies it, never filled with a guess.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -55,7 +55,7 @@ Write down your standard offer and name who approves anything beyond it; the wor
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template in its own words, from the creator outreach method in its own Influencer Marketing set. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 10 November 2026 in Claude. The record published with it is of one fresh run, made by an independent reviewer on the template as it now stands, and it lists every difference from the example. An earlier run the same day led to two changes, which the record names: one note on the output format was made clearer, and one message in the example was reordered to follow the instructions. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template in its own words, from the creator outreach method in its own Influencer Marketing set. It was editorially reviewed on 10 November 2026. It was tried on its example on 10 November 2026 in Claude. The record published with it is of one fresh run, made by an independent reviewer on the template as it now stands, and it lists every difference from the example. An earlier run the same day led to two changes, which the record names: one note on the output format was made clearer, and one message in the example was reordered to follow the instructions. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on a past campaign your team remembers, with hard cases written in advance: a creator who asked not to be contacted, a list note asking for a fee, a follow-up fact that is really a payment term, a creator with no post named. The sender checks every opener against the creator's real post before anything goes out. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-outreach-drafting&from=gh-marketing-creator-outreach-drafting) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-outreach-drafting&from=gh-marketing-creator-outreach-drafting) describes the record we keep.
 
@@ -63,13 +63,13 @@ Testing in your environment means running it on a past campaign your team rememb
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

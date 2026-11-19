@@ -1,6 +1,6 @@
-# Website findability audit: an invented example
+# Website findability audit: an example
 
-*Illustrative example with invented data.* Tallow Creek Kitchens & Baths is an invented remodeling contractor in invented towns; no real firm or person is described, the pages below were written for this example, and the `.example` addresses do not exist. The office manager saved four pages, the robots file and the sitemap on 6 November 2026, and ran the audit on 9 November with the owner's facts note and the questions customers ask on the phone. The owner reviews the report.
+*Illustrative example with sample data.* Tallow Creek Kitchens & Baths is an illustrative remodeling contractor in illustrative towns; no real firm or person is described, the pages below were written for this example, and the `.example` addresses do not exist. The office manager saved four pages, the robots file and the sitemap on 6 November 2026, and ran the audit on 9 November with the owner's facts note and the questions customers ask on the phone. The owner reviews the report.
 
 ## The inputs
 

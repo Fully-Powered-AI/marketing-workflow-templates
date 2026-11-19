@@ -10,7 +10,7 @@ metadata:
 
 # Lead magnet plan
 
-This is the technical file for a FullyPowered workflow template. It carries the instructions an AI product follows. The complete template, with roles, inputs, exceptions, the reviewer checklist, acceptance tests and what to customize, is in [TEMPLATE.md](TEMPLATE.md). A worked example with invented data is in [EXAMPLE.md](EXAMPLE.md).
+This is the technical file for a FullyPowered workflow template. It carries the instructions an AI product follows. The complete template, with roles, inputs, exceptions, the reviewer checklist, acceptance tests and what to customize, is in [TEMPLATE.md](TEMPLATE.md). A worked example is in [EXAMPLE.md](EXAMPLE.md).
 
 ## Instructions
 
@@ -100,7 +100,7 @@ Planning:
     something, the section names what to ask for, have or check, and
     any part the format cannot carry (such as what to do if a request
     is refused) goes under Left out; one worked example from named
-    material, invented details labelled invented; a closing with the
+    material, sample details labelled invented; a closing with the
     next step from "your facts", offered once, and a line that the
     reader can stop there with something usable.
 13. Limits: every "must never say" item, plus the bounds of the
@@ -190,9 +190,8 @@ Opening: [who it is for; what to have beside you; how to use it]
 matters and a line on what to do when nobody knows the answer
 [; to be written: the two lines per item].]
 Worked example: [the part shown completed], from [material]
-  [, invented details labelled invented] / to be written by the
-  writer, labelled invented
-Closing: [the next step from your facts], offered once; the reader
+  [, sample details labelled invented] / to be written by the
+  writer, labelled illustrative Closing: [the next step from your facts], offered once; the reader
 can stop here with something usable.
 
 LIMITS

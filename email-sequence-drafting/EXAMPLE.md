@@ -1,6 +1,6 @@
-# Email sequence drafting: an invented example
+# Email sequence drafting: an example
 
-*Illustrative example with invented data.* The shop, the owner, the customer named in her note, the guide, the prices and every fact below are invented, and the links use the reserved example.com address. Shop M is an invented online shop selling indoor plant supplies; Ines, its owner, is invented too. First come the inputs Ines supplied, in full, then the sequence the workflow template returned.
+*Illustrative example with sample data.* The shop, the owner, the customer named in her note, the guide, the prices and every fact below are illustrative, and the links use the reserved example.com address. Shop M is an illustrative online shop selling indoor plant supplies; Ines, its owner, is illustrative too. First come the inputs Ines supplied, in full, then the sequence the workflow template returned.
 
 ## The inputs
 

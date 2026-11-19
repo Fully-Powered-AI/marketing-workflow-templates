@@ -1,10 +1,10 @@
-# Event plan: tried on its invented example
+# Event plan: tried on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Opus 5.5 (model ID claude-opus-5-5)
 - **Date:** 2026-11-09
 
-The inputs were the invented example in [example.md](example.md): Tallowby IT, the Calderbrook Chamber of Commerce and its Harbourside Business Breakfast are all made up. No client data was used.
+The inputs were the example in [example.md](example.md): Tallowby IT, the Calderbrook Chamber of Commerce and its Harbourside Business Breakfast are all made up. No client data was used.
 
 ## The earlier run, and what was edited after it
 

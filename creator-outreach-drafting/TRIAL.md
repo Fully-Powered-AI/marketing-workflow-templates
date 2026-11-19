@@ -1,11 +1,11 @@
-# Creator outreach drafting: one run on its invented example
+# Creator outreach drafting: one run on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Fable 5.2 (model ID claude-fable-5-2)
 - **Date:** 2026-11-10
 - **Template version:** 0.1.0
 
-The inputs for this run are the invented example's own: the outreach settings, the creator list and the request for Halvard Bakeware's Winter Loaf campaign, as printed under "The inputs" in `public/example.md`. The brand, the campaign, the offer, the creators, their posts and the talent agency are all invented; no client data was used. This is a record of what the template produced once, on one set of inputs. It is not a test in any company's environment.
+The inputs for this run are the example's own: the outreach settings, the creator list and the request for Halvard Bakeware's Winter Loaf campaign, as printed under "The inputs" in `public/example.md`. The brand, the campaign, the offer, the creators, their posts and the talent agency are all illustrative; no client data was used. This is a record of what the template produced once, on one set of inputs. It is not a test in any company's environment.
 
 ## How the run was made
 
@@ -228,7 +228,7 @@ Nothing was changed after this run. These points are for a person adapting the t
 
 ## Shortcomings of this trial
 
-It is one run by one model on one invented input. The assistant read the instructions from the template file, not from a custom-instructions field in a chat product, and it had read the template's version notes and the example's opening paragraphs, which describe earlier trials and what the example shows. It exercised the paths this input holds (a direct message, a manager, a missing post, the skip, do-not-contact and unknown-contact stops, the held-back fact and the fee in a note) and none of the others: a renamed header, a missing standard offer, a possibly under-18 creator, an uncleared product statement, a request to send, or a creator who has replied. It does not show how the template behaves in ChatGPT, Copilot or Gemini, or with a real client's list.
+It is one run by one model on one sample input. The assistant read the instructions from the template file, not from a custom-instructions field in a chat product, and it had read the template's version notes and the example's opening paragraphs, which describe earlier trials and what the example shows. It exercised the paths this input holds (a direct message, a manager, a missing post, the skip, do-not-contact and unknown-contact stops, the held-back fact and the fee in a note) and none of the others: a renamed header, a missing standard offer, a possibly under-18 creator, an uncleared product statement, a request to send, or a creator who has replied. It does not show how the template behaves in ChatGPT, Copilot or Gemini, or with a real client's list.
 
 ## Earlier records
 

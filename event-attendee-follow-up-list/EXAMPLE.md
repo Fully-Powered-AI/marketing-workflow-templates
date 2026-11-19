@@ -1,6 +1,6 @@
-# Event attendee follow-up list: an invented example
+# Event attendee follow-up list: an example
 
-*Illustrative example with invented data.* Brinmoor Software is an invented company that makes purchasing software, and every organisation (Organisation A to Organisation J), person, email address, link and date below is invented. No real firm or person is described. Brinmoor held a half-day customer workshop in two sessions on Thursday 12 November 2026. The next morning, Friday 13 November 2026, its events coordinator supplied the inputs below, in full, and the workflow template returned the list after them.
+*Illustrative example with sample data.* Brinmoor Software is an illustrative company that makes purchasing software, and every organisation (Organisation A to Organisation J), person, email address, link and date below is illustrative. No real firm or person is described. Brinmoor held a half-day customer workshop in two sessions on Thursday 12 November 2026. The next morning, Friday 13 November 2026, its events coordinator supplied the inputs below, in full, and the workflow template returned the list after them.
 
 ## The inputs
 

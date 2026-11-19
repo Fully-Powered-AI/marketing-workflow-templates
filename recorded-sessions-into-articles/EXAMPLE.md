@@ -1,6 +1,6 @@
-# Recorded sessions into articles: an invented example
+# Recorded sessions into articles: an example
 
-*Illustrative example with invented data.* Brindlemoor Training, its trainer Odalys Venn, the workshop, the participants and every word in the transcripts are invented. The example shows everything the person supplied, in full, and then what came back.
+*Illustrative example with sample data.* Brindlemoor Training, its trainer Odalys Venn, the workshop, the participants and every word in the transcripts are illustrative. The example shows everything the person supplied, in full, and then what came back.
 
 The content coordinator at Brindlemoor Training runs the workflow template on Friday 16 October 2026, covering sessions from 1 to 16 October. Brindlemoor keeps its privacy list and the confirmation of its recording notice as lines on the settings sheet, which the template allows.
 

@@ -1,10 +1,10 @@
-# Customer case study: a trial on the invented example
+# Customer case study: a trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Opus 5.5 (model ID claude-opus-5-5)
 - **Date:** 2026-11-10
 
-The inputs are the invented example in [example.md](example.md): Firm F, Client K, the people and every word quoted are invented. No client data was used.
+The inputs are the example in [example.md](example.md): Firm F, Client K, the people and every word quoted are illustrative. No client data was used.
 
 This record replaces the record of an earlier run on the same day, made by Claude Sonnet 5.5 on the first version of the template. That run's observations, and a review of the template, led to the revisions below; the template and the example's inputs were then changed, so the run was made again. The run recorded here was made once, by the same assistant that made those revisions in the same session. It had read the earlier run, the earlier example output and the review, so it is not an independent run.
 
@@ -243,4 +243,4 @@ The template ran to the end without a stop and produced every part of the output
 
 ### Limits of this trial
 
-It is one run by one model on one invented example, made by the assistant that revised the template. It shows that the instructions can be followed to a complete output. It does not show that another product or model would behave the same, and it was not tested in a client environment.
+It is one run by one model on one example, made by the assistant that revised the template. It shows that the instructions can be followed to a complete output. It does not show that another product or model would behave the same, and it was not tested in a client environment.

@@ -1,6 +1,6 @@
-# Ninety-day marketing plan: an invented example
+# Ninety-day marketing plan: an example
 
-*Illustrative example with invented data.* The business, its customers, the accountants and every word quoted below are invented. Quillmoor Bookkeeping is an invented three-person firm that does monthly bookkeeping and payroll for independent cafés and restaurants. Its owner has just taken on a part-time marketing coordinator, the firm's first marketing hire, who runs the plan for the owner to approve.
+*Illustrative example with sample data.* The business, its customers, the accountants and every word quoted below are illustrative. Quillmoor Bookkeeping is an illustrative three-person firm that does monthly bookkeeping and payroll for independent cafés and restaurants. Its owner has just taken on a part-time marketing coordinator, the firm's first marketing hire, who runs the plan for the owner to approve.
 
 The inputs come first, in full, so the template can be run on them. The plan follows.
 

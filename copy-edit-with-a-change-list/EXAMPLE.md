@@ -1,6 +1,6 @@
-# Copy edit with a change list: an invented example
+# Copy edit with a change list: an example
 
-*Illustrative example with invented data.* The company, its figures, its statements and the draft below are all invented. Kestrel Ridge Commercial Cleaning is an invented 38-person firm that cleans offices in the evenings and on weekends for a fixed monthly price. Its marketing coordinator has drafted a new section for the services page, and the operations director approves copy before it goes live.
+*Illustrative example with sample data.* The company, its figures, its statements and the draft below are all illustrative. Kestrel Ridge Commercial Cleaning is an illustrative 38-person firm that cleans offices in the evenings and on weekends for a fixed monthly price. Its marketing coordinator has drafted a new section for the services page, and the operations director approves copy before it goes live.
 
 The inputs come first, in full, so the template can be run on them. The edit follows.
 

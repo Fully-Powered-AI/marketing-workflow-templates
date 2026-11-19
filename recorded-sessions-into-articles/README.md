@@ -8,7 +8,7 @@ Turn session transcripts into article drafts that sound like the expert, with ev
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/recorded-sessions-into-articles/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-recorded-sessions-into-articles&from=gh-recorded-sessions-into-articles)*
@@ -40,7 +40,7 @@ The expert reviews every draft and is the only person who publishes.
 
 Good looks like this: the expert can find any quoted line in the transcript in under a minute, and nobody who sat in the room could be picked out from the page.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -60,7 +60,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 9 November 2026. It was tried on its invented example in Claude on 9 November 2026, in two runs; the record of the second is published with it and lists the small edits made afterwards. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 9 November 2026. It was tried on its example in Claude on 9 November 2026, in two runs; the record of the second is published with it and lists the small edits made afterwards. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on sessions you remember well, with hard cases chosen in advance: a session with notes and no transcript, a line where you said a participant’s name, a recording where the speakers are mixed up. You check every quotation against the transcript and every page for anyone who could be recognised. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-recorded-sessions-into-articles&from=gh-recorded-sessions-into-articles) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-recorded-sessions-into-articles&from=gh-recorded-sessions-into-articles) describes the record we keep.
 
@@ -68,13 +68,13 @@ Testing in your environment means running it on sessions you remember well, with
 - Sources and rights reviewed.
 - Editorially reviewed on 9 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 9 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 9 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

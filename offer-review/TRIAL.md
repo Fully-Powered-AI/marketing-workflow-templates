@@ -1,11 +1,11 @@
-# Offer review: a trial run on its invented example
+# Offer review: a trial run on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Opus 5.5 (model ID claude-opus-5-5)
 - **Date:** 2026-11-09
 - **Template version:** 0.1.0, as revised after review on 9 November 2026
 
-The inputs are the workflow template's invented example, so no client data was used. Quillmere Bookkeeping is an invented firm. The inputs were the request, the offer as written, the owner's facts note and the five objections in [the example](example.md), under "The inputs". The run followed the instruction block and the output format in the member template. This is a record of one run. It is not a test in any company's environment.
+The inputs are the workflow template's example, so no client data was used. Quillmere Bookkeeping is an illustrative firm. The inputs were the request, the offer as written, the owner's facts note and the five objections in [the example](example.md), under "The inputs". The run followed the instruction block and the output format in the member template. This is a record of one run. It is not a test in any company's environment.
 
 This record replaces an earlier one made the same day. The first run, on the template as first drafted (Claude Sonnet 5.5), produced all six sections and found places where the instructions left room for guessing: which lever an objection bears on, whether protection is weak or missing when both conditions hold, what counts as an extra, and how dates are written; it also noted that the facts note did not repeat the price. The template was revised to settle those four points, the facts note gained the price line, and the template was run again. The output below is from the second run.
 
@@ -47,7 +47,7 @@ Additions that answer an objection: weak. The offer says: "A 45-minute
   covers, and the setup's describing line, "set up a monthly close so
   you never fall behind again", is held back in section 5. Your facts
   hold: a written 14-step catch-up checklist and a sample month-end
-  pack with invented figures, neither in the offer.
+  pack with sample figures, neither in the offer.
 What protects the buyer: missing. The offer says: "100% satisfaction
   guaranteed." That line is held back in section 5, so no line
   remains; a safeguard in your facts is also left out, and missing
@@ -96,8 +96,7 @@ Parts: 1 present, 4 weak, 1 missing.
   on: outcome. Answered by: partly, by What the buyer has at the end:
   "A profit and loss statement and balance sheet for each month caught
   up"; left open: what the buyer can do with them, and what is not
-  included. Your facts hold: a sample month-end pack with invented
-  figures.
+  included. Your facts hold: a sample month-end pack with sample figures.
 
 3. THE FOUR LEVERS
 Outcome: stated. "A profit and loss statement and balance sheet for

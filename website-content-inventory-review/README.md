@@ -8,7 +8,7 @@ A quarterly review from your page export: stale pages by type, pages with no own
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/website-content-inventory-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-website-content-inventory-review&from=gh-website-content-inventory-review)*
@@ -37,7 +37,7 @@ Leave the page text out of the export. The review needs only the list of pages, 
 
 One review in a fixed order: the count that ties to the export; pages past their stale date, grouped by page type; published pages with no owner; titles that are missing, too long, too short or shared; descriptions the same way; drafts older than your limit; likely duplicates by title; records whose dates or word count need checking; and the questions for the website owner. A section with nothing in it says "None." The review closes by saying it was built from the export alone and that nothing was changed.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -57,7 +57,7 @@ Match the column headers to your export, or rename the columns once. Set your st
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 19 November 2026. It was tried on its invented example on 19 November 2026 in one run, published with it. Edits after that run, to the format notes, the owner check and the field names in the example, have not been run again. It has not yet been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 19 November 2026. It was tried on its example on 19 November 2026 in one run, published with it. Edits after that run, to the format notes, the owner check and the field names in the example, have not been run again. It has not yet been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on last quarter's export, which your website owner knows well, with hard cases written in advance: a renamed column, two pages with the same title, a page updated before it was published, a draft nobody has touched for a year, a page type with no rule. The website owner checks every count against the export before anyone relies on the review. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-website-content-inventory-review&from=gh-website-content-inventory-review) sets those cases up.
 
@@ -65,13 +65,13 @@ Testing in your environment means running it on last quarter's export, which you
 - Sources and rights reviewed.
 - Editorially reviewed on 19 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 19 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 19 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

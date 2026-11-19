@@ -8,7 +8,7 @@ Get a written go or no-go on a creator's draft before it goes live, with feedbac
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/creator-content-approval/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-content-approval&from=gh-marketing-creator-content-approval)*
@@ -36,7 +36,7 @@ The brand marketer, the content reviewer or the creator programme lead starts it
 
 A review in a fixed order: the verdict and its reason, what was reviewed, the caption quoted in full, the twelve checks, every product statement with its class (cleared, reworded, forbidden or needs a ruling), the opinions left alone, and the reasons behind the verdict. Then the feedback for the creator, the questions for the people who clear statements and fetch inputs, the conditions to meet when posting, what was not judged, and a coverage list of what was used and what was missing. A revision gets the next attempt number and a check of every change asked for last time.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -51,7 +51,7 @@ Write down your cleared and forbidden statements and name the person who clears 
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template in its own words, from the content approval template in its own Influencer Marketing set. It was editorially reviewed on 9 November 2026. It was tried on its invented example in Claude on 9 November 2026, and the record of that run is published with it. The run was not blind: the example's output had been seen before the run's own output was written. Small clarifications made after the run, listed in the record, have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template in its own words, from the content approval template in its own Influencer Marketing set. It was editorially reviewed on 9 November 2026. It was tried on its example in Claude on 9 November 2026, and the record of that run is published with it. The run was not blind: the example's output had been seen before the run's own output was written. Small clarifications made after the run, listed in the record, have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on past creator drafts your team remembers well, with hard cases written in advance: a forbidden statement tucked into a good post, a paraphrase of a cleared line, a disclosure at the end of the caption, a video with no transcript, a covering note that claims someone already approved it. The programme lead checks every verdict against the cleared list before any feedback is sent. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-content-approval&from=gh-marketing-creator-content-approval) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-content-approval&from=gh-marketing-creator-content-approval) describes the record we keep.
 
@@ -59,13 +59,13 @@ Testing in your environment means running it on past creator drafts your team re
 - Sources and rights reviewed.
 - Editorially reviewed on 9 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 9 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 9 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

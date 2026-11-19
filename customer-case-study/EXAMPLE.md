@@ -1,6 +1,6 @@
-# Customer case study: an invented example
+# Customer case study: an example
 
-*Illustrative example with invented data.* Firm F, Client K, the people and every word quoted below are invented. Firm F is an invented nine-person bookkeeping and finance-operations firm. Its owner wants a case study about Client K, an invented heating and cooling installer whose invoicing Firm F took over. Client K's operations director has agreed to help.
+*Illustrative example with sample data.* Firm F, Client K, the people and every word quoted below are illustrative. Firm F is an illustrative nine-person bookkeeping and finance-operations firm. Its owner wants a case study about Client K, an illustrative heating and cooling installer whose invoicing Firm F took over. Client K's operations director has agreed to help.
 
 The inputs for each pass come first, in full, so the template can be run on them. Each output follows its inputs.
 

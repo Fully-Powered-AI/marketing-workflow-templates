@@ -1,6 +1,6 @@
-# Promotional send plan: an invented example
+# Promotional send plan: an example
 
-*Illustrative example with invented data.* The company, the people, the contacts, the link (on the reserved .example domain), the dates and the counts below are all invented. Shop W is an invented online kitchenware shop with about thirty staff. Its marketing lead is planning a five-day autumn sale by email and text, with the marketing coordinator, who keeps the contact records and sends the emails, the e-commerce manager, who owns the offer and the sale page, and the operations manager, whom the company names as the owner of its sending rules. A content writer will write the copy once the plan is approved. First come the inputs the marketing lead supplied, in full, then the plan the workflow template returned.
+*Illustrative example with sample data.* The company, the people, the contacts, the link (on the reserved .example domain), the dates and the counts below are all illustrative. Shop W is an illustrative online kitchenware shop with about thirty staff. Its marketing lead is planning a five-day autumn sale by email and text, with the marketing coordinator, who keeps the contact records and sends the emails, the e-commerce manager, who owns the offer and the sale page, and the operations manager, whom the company names as the owner of its sending rules. A content writer will write the copy once the plan is approved. First come the inputs the marketing lead supplied, in full, then the plan the workflow template returned.
 
 ## The inputs
 

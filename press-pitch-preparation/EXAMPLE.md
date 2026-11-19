@@ -1,6 +1,6 @@
-# Press pitch preparation: an invented example
+# Press pitch preparation: an example
 
-*Illustrative example with invented data.* Marrow Lane Coffee Roasters, Café Brindle, the town of Eastvale, the four outlets and every person named here are invented; the pages below were written for this example, and nothing here describes a real business, publication or writer, or is evidence of coverage. The marketing coordinator at Marrow Lane has one story and four saved outlet pages, and asks for pitch drafts on 9 November 2026.
+*Illustrative example with sample data.* Marrow Lane Coffee Roasters, Café Brindle, the town of Eastvale, the four outlets and every person named here are illustrative; the pages below were written for this example, and nothing here describes a real business, publication or writer, or is evidence of coverage. The marketing coordinator at Marrow Lane has one story and four saved outlet pages, and asks for pitch drafts on 9 November 2026.
 
 ## The inputs
 

@@ -1,6 +1,6 @@
-# Text-message opt-in check: an invented example
+# Text-message opt-in check: an example
 
-*Illustrative example with invented data.* The company, the guests, the phone numbers (all in the 555-01 range kept for fiction), the wordings, the dates and the counts below are invented. Roastery V is an invented coffee roaster with three cafes and an online shop. Its marketing lead wants to text a list of guests about a new winter blend. The marketing coordinator built the list from the online shop and the cafe loyalty tablet, and the office manager keeps the consent records. First come the inputs the marketing lead supplied, in full, then the check the workflow template returned.
+*Illustrative example with sample data.* The company, the guests, the phone numbers (all in the 555-01 range kept for fiction), the wordings, the dates and the counts below are illustrative. Roastery V is an illustrative coffee roaster with three cafes and an online shop. Its marketing lead wants to text a list of guests about a new winter blend. The marketing coordinator built the list from the online shop and the cafe loyalty tablet, and the office manager keeps the consent records. First come the inputs the marketing lead supplied, in full, then the check the workflow template returned.
 
 ## The inputs
 

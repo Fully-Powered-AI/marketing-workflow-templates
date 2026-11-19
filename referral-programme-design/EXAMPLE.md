@@ -1,6 +1,6 @@
-# Referral programme design: an invented example
+# Referral programme design: an example
 
-*Illustrative example with invented data.* The practice, its owner, the clients, the adviser and every word quoted below are invented. An invented 11-person bookkeeping and payroll practice, here called Practice K, wins most of its new clients by recommendation. Its owner, Priya, wants to stop leaving that to chance.
+*Illustrative example with sample data.* The practice, its owner, the clients, the adviser and every word quoted below are illustrative. An illustrative 11-person bookkeeping and payroll practice, here called Practice K, wins most of its new clients by recommendation. Its owner, Priya, wants to stop leaving that to chance.
 
 The inputs come first, in full, so the template can be run on them. The programme follows.
 

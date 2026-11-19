@@ -1,10 +1,10 @@
-# Creator content reuse plan: tried on its invented example
+# Creator content reuse plan: tried on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Opus 5.5 (model ID claude-opus-5-5)
 - **Date:** 2026-11-09
 
-The inputs were the invented example in [example.md](example.md): Fernhollow Candle Works, five invented creators and their invented posts. No client data was used. The six inputs are the ones under "The inputs" in that file: the rights record, the published content list, the channel list, Fernhollow's rules, the request and the last reuse plan.
+The inputs were the example in [example.md](example.md): Fernhollow Candle Works, five illustrative creators and their illustrative posts. No client data was used. The six inputs are the ones under "The inputs" in that file: the rights record, the published content list, the channel list, Fernhollow's rules, the request and the last reuse plan.
 
 This record is of the last of four runs on 9 November 2026. The earlier three, and what was changed after each, are summarized at the end.
 
@@ -55,4 +55,4 @@ After an independent review on 10 November 2026, a few small changes were made a
 
 ## Shortcomings of this trial
 
-It is one recorded run by one model, on an invented example whose answers the template's own author also wrote, after the template had been adjusted on what earlier runs got wrong on this same example. It shows the template can be followed to the example's result from the instruction block alone; it does not show how it behaves on a real rights record, with messier headers and wording. The acceptance tests in the template were not run, and nothing has been tested in a client environment.
+It is one recorded run by one model, on an example whose answers the template's own author also wrote, after the template had been adjusted on what earlier runs got wrong on this same example. It shows the template can be followed to the example's result from the instruction block alone; it does not show how it behaves on a real rights record, with messier headers and wording. The acceptance tests in the template were not run, and nothing has been tested in a client environment.

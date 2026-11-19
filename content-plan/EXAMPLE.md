@@ -1,6 +1,6 @@
-# Content plan: an invented example
+# Content plan: an example
 
-*Illustrative example with invented data.* The firm, its clients, its people and every question below are invented. An invented 12-person firm keeps the books and runs payroll for independent restaurants. Its marketing lead works on content two hours a week and wants a plan for the next 13 weeks.
+*Illustrative example with sample data.* The firm, its clients, its people and every question below are illustrative. An illustrative 12-person firm keeps the books and runs payroll for independent restaurants. Its marketing lead works on content two hours a week and wants a plan for the next 13 weeks.
 
 The inputs come first, in full, so the template can be run on them. The plan follows.
 
@@ -23,7 +23,7 @@ What we sell: monthly bookkeeping and payroll for independent restaurants
   with one to four locations, for a fixed monthly fee.
 Who finds us first and who decides: the general manager often finds us;
   the owner decides.
-What we can show: a sample month-end pack built with invented figures for
+What we can show: a sample month-end pack built with sample figures for
   demonstrations; our onboarding checklist for new clients.
 What we must never say: tax advice in public pieces (we refer clients to
   their tax preparer); any client's name or results without their written
@@ -74,7 +74,7 @@ Published:
 
 Material on hand:
 - Sample month-end pack: the pages a client receives each month, filled
-  with invented figures, used in sales demonstrations.
+  with sample figures, used in sales demonstrations.
 - Onboarding checklist: the steps from signing to the first month-end
   pack, starting with collecting records from the previous bookkeeper,
   and the monthly export steps for the point-of-sale systems we already
@@ -157,7 +157,7 @@ S1. What your monthly pack shows, page by page [Proposed wording]
 - Answers: Q1
 - Moment: deciding
 - Adds: "Our fees" lists what is included; nothing published shows the pack itself.
-- Material on hand: the sample month-end pack (invented figures)
+- Material on hand: the sample month-end pack (sample figures)
 - Limit: never presents the sample's figures as a real restaurant's; no tax advice; no claim that the firm saves a restaurant a set amount.
 - Found or passed on: found
 

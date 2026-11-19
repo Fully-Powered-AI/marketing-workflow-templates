@@ -1,11 +1,11 @@
-# Content plan: one run on the invented example
+# Content plan: one run on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Opus 5.5 (model ID claude-opus-5-5)
 - **Date:** 2026-11-09
 - **Template version:** 0.1.0
 
-This is a record of one run of the workflow template on its own invented example. The inputs are the invented example's; the firm, its people and every question are invented, and no client data was used. Nothing was written, scheduled, published or sent, and no one was contacted.
+This is a record of one run of the workflow template on its own example. The inputs are the example's; the firm, its people and every question are illustrative, and no client data was used. Nothing was written, scheduled, published or sent, and no one was contacted.
 
 An earlier run the same day, on the template before an editorial review's points were applied, found several places where the instructions had to be guessed at. The template was changed, and the run recorded here was made on the changed text. Both are described below: first this run, then the earlier run's findings and the change each led to.
 
@@ -94,8 +94,8 @@ S1. What you get each month: the monthly pack, page by page [Proposed wording]
   Moment: deciding
   Adds: "Our fees" lists what is included; the reader sees the pack
   itself.
-  Material on hand: the sample month-end pack (invented figures)
-  Limit: never presents the sample's invented figures as a real
+  Material on hand: the sample month-end pack (sample figures)
+  Limit: never presents the sample's sample figures as a real
   restaurant's; no tax advice; no claim that the firm saves a
   restaurant a set amount.
   Found or passed on: found
@@ -257,4 +257,4 @@ The first run that day was made by Claude Sonnet 5.5 (model ID claude-sonnet-5-5
 
 The reviewer checklist was also corrected so that only write-next, next-period and held candidates must carry four ratings, as the Not written line carries none. Two of the earlier run's other notes are not changed: the format choice between an article and a checklist, and material the company holds but did not supply.
 
-This was one run by one model on an invented example. It does not show how the template behaves with a real client's material or in another product.
+This was one run by one model on an example. It does not show how the template behaves with a real client's material or in another product.

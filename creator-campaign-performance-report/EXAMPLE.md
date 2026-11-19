@@ -1,6 +1,6 @@
-# Creator campaign performance report: an invented example
+# Creator campaign performance report: an example
 
-*Illustrative example with invented data.* The shop, the creators, the codes, the orders, the posts and the amounts below are all invented, and the email addresses use the reserved example.com domain. The shop is an invented nine-person online loose-leaf tea seller that ran a one-month autumn launch with four creators. Its programme lead ran the report for the marketing lead. First come the inputs the programme lead supplied, in full, then the report the workflow template returned.
+*Illustrative example with sample data.* The shop, the creators, the codes, the orders, the posts and the amounts below are all illustrative, and the email addresses use the reserved example.com domain. The shop is an illustrative nine-person online loose-leaf tea seller that ran a one-month autumn launch with four creators. Its programme lead ran the report for the marketing lead. First come the inputs the programme lead supplied, in full, then the report the workflow template returned.
 
 ## The inputs
 

@@ -8,7 +8,7 @@ See what each creator agreed against what went live: disclosure, code, link and 
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/creator-publication-tracking/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-publication-tracking&from=gh-creator-publication-tracking)*
@@ -37,7 +37,7 @@ The creator programme lead, or the brand marketer who runs creators, starts it w
 
 One report in a fixed order: agreed against published, the live check for each post as last seen, the dated checks, then everything sorted into overdue, act now, not checked and coming up. Below that sit removed or edited posts, the drafted fix requests, notes and referrals, delivery by creator, and a coverage list of what was used, what was missing and what could not be judged. Nothing is sent, posted, paid or changed.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -54,7 +54,7 @@ Write down your disclosure forms for each platform and format, with your wording
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template in its own words, from the publication tracking template in its own Influencer Marketing set. It was editorially reviewed on 9 November 2026. It was tried once on its invented example in Claude on 9 November 2026, and the record of that run is published with it. That run found several points the instructions left open, chiefly two: where a creator's message that a fix is done belongs, and whether the result line counts bullets or items. After the run, a few sentences were added to the instructions and the output format to settle those and the other points it raised, and the example's wording was brought closer to its inputs in a few places; the example's inputs and its counts did not change. These edits have not been run again, and the record lists them. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template in its own words, from the publication tracking template in its own Influencer Marketing set. It was editorially reviewed on 9 November 2026. It was tried once on its example in Claude on 9 November 2026, and the record of that run is published with it. That run found several points the instructions left open, chiefly two: where a creator's message that a fix is done belongs, and whether the result line counts bullets or items. After the run, a few sentences were added to the instructions and the output format to settle those and the other points it raised, and the example's wording was brought closer to its inputs in a few places; the example's inputs and its counts did not change. These edits have not been run again, and the record lists them. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on a past campaign your team remembers well, with hard cases written in advance: a disclosure buried in the hashtags, a code in the wrong letter case, a link with an extra "www", a fix the creator says is done but nobody has looked at, a post that came down in its first week. The programme lead checks every date and every "match" against the posts before anything is sent. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-publication-tracking&from=gh-creator-publication-tracking) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-publication-tracking&from=gh-creator-publication-tracking) describes the record we keep.
 
@@ -62,13 +62,13 @@ Testing in your environment means running it on a past campaign your team rememb
 - Sources and rights reviewed.
 - Editorially reviewed on 9 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 9 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 9 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

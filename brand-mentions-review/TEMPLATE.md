@@ -132,7 +132,7 @@ Draft for the [reader role]. Nothing has been posted, replied to, liked, reporte
 
 ## Acceptance tests
 
-Proposed tests. None of these has been run; the only run so far is the trial on the invented example, whose record is published.
+Proposed tests. None of these has been run; the only run so far is the trial on the example, whose record is published.
 
 1. **Ordinary week.** Fifteen mentions across four platforms with every column. Expected: every row once; both sums right; reply list oldest first.
 2. **Header that does not match.** The export has `Posted on` instead of `Date` and no mapping. Expected: stops and asks what `Posted on` holds; reads no row.
@@ -243,4 +243,4 @@ role that does it.
 
 ## Version notes
 
-- 0.1.0, 11 November 2026. Written by FullyPowered AI from its own published map of marketing work. Editorially reviewed. Tried once on its invented example in Claude on 11 November 2026, with the record published; the clarifying edits made after that trial were not re-run. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 11 November 2026. Written by FullyPowered AI from its own published map of marketing work. Editorially reviewed. Tried once on its example in Claude on 11 November 2026, with the record published; the clarifying edits made after that trial were not re-run. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.

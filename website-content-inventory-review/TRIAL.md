@@ -1,10 +1,10 @@
-# Website content inventory review: trial on its invented example
+# Website content inventory review: trial on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-19
 
-The inputs were the invented example "Firm K" in `public/example.md`: the site rules and the 20-row page export under "The inputs". No client data was used. I did not write the template; I ran it once as written.
+The inputs were the example "Firm K" in `public/example.md`: the site rules and the 20-row page export under "The inputs". No client data was used. I did not write the template; I ran it once as written.
 
 ## Inputs used
 
@@ -83,7 +83,7 @@ Prepared for the marketing lead to review. Built from the page export alone: no 
   - Section 8 asks for "the facts and the page IDs and who decides or what the record shows" but gives no example question, so the wording is my own.
   - The input rules have no place for the export's file name; I took it from the example's heading.
   - A page type with no rule that is not in the owner list (event) is neither tested for an owner nor listed anywhere. That is what the rules say, but it is worth a sentence.
-- **Limits of this trial:** one run, one invented export of 20 rows, one model. It does not show how the template behaves on a real export of hundreds of pages, on a stop condition (none was triggered here), or in other products.
+- **Limits of this trial:** one run, one sample export of 20 rows, one model. It does not show how the template behaves on a real export of hundreds of pages, on a stop condition (none was triggered here), or in other products.
 
 ## After this run
 

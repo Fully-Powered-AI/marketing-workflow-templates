@@ -1,10 +1,10 @@
-# Creator programme setup: one run on its invented example
+# Creator programme setup: one run on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-09
 
-The inputs are the invented Larkmoor Tea Company example in `public/example.md`: the request, the founder's answers, the product list, the store figures and the cleared statements. No client data was used. The assistant that ran the template did not write it. It followed the instruction block and the output format in `member/template.md` on those five inputs, and read the example's own output only afterwards, to compare.
+The inputs are the illustrative Larkmoor Tea Company example in `public/example.md`: the request, the founder's answers, the product list, the store figures and the cleared statements. No client data was used. The assistant that ran the template did not write it. It followed the instruction block and the output format in `member/template.md` on those five inputs, and read the example's own output only afterwards, to compare.
 
 ## Inputs used
 
@@ -240,7 +240,7 @@ The published example's output and this run agree on every substantive point: th
 - The currency in "minimum [amount]" is not settled.
 - An undecided platform's disclosure line is not specified.
 - The "Reviewer checklist" and "Acceptance tests" are proposals that this run only partly exercised: it covered tests 1, 3, 5, 7 and 10 in effect, and not the others (headers renamed, discount ambiguous, requests to decline, revision run, names for roles).
-- The template version note still says "Not yet tried on its invented example". That is now out of date for this run, though still true for client environments and other products.
+- The template version note still says "Not yet tried on its example". That is now out of date for this run, though still true for client environments and other products.
 
 ## Edits made after this run (not run again)
 
@@ -255,7 +255,7 @@ The defects above were fixed in the template and the example on 9 November 2026,
 - **Currency in the minimum.** The shape is now `minimum [amount] [currency]`; the example writes "minimum 20.00 USD", as this run did.
 - **Disclosure for an undecided platform.** Step 11 and the pasted instructions now say a platform ruled `no` or `undecided` gets no section 8 line; its open item stays in section 3.
 - **Log entries.** Step 15 now says adding to a proposal counts as a departure, and each entry names the role who ruled and, when someone else ran the session, the role who ran it. The example's log now names the founder and the marketing lead in that way and has an entry for the two phrases added to the first forbidden line, as this run logged them.
-- **Smaller wording changes.** The template and the profile now say the file supplies the rules the three other creator workflow templates take as inputs, and note that a platform this file leaves `undecided` is one the vetting shortlist calls `unknown`. The proposal to turn on the platform's own partnership label beside the written label is now worded as the owner's ruling. The version notes and the public profile now say the template was tried once on its invented example.
+- **Smaller wording changes.** The template and the profile now say the file supplies the rules the three other creator workflow templates take as inputs, and note that a platform this file leaves `undecided` is one the vetting shortlist calls `unknown`. The proposal to turn on the platform's own partnership label beside the written label is now worded as the owner's ruling. The version notes and the public profile now say the template was tried once on its example.
 - **Acceptance tests.** Test 7 now calls its 18.00 the cost of product sent; its figures are unchanged. The tests this run did not exercise are still unrun.
 
 Further edits were made on 10 November 2026, after the template's independent review. They have not been run either, and the run's output and observations above are still left as recorded.

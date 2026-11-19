@@ -1,10 +1,10 @@
-# Lead magnet plan: tried on its invented example
+# Lead magnet plan: tried on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Opus 5.5 (model ID claude-opus-5-5)
 - **Date:** 2026-11-09
 
-The inputs are the invented example in `public/example.md` (an invented IT support firm for small architecture practices). No client data was used. The run followed the instruction block in `member/template.md` and its output format, as revised on 9 November 2026 after an earlier run and an independent review (both described at the end). This run was made by the same session that revised the template and the example, and that session had read the example's own output beforehand, so it is not a blind comparison.
+The inputs are the example in `public/example.md` (an invented IT support firm for small architecture practices). No client data was used. The run followed the instruction block in `member/template.md` and its output format, as revised on 9 November 2026 after an earlier run and an independent review (both described at the end). This run was made by the same session that revised the template and the example, and that session had read the example's own output beforehand, so it is not a blind comparison.
 
 ## Inputs used
 
@@ -36,7 +36,7 @@ Status: Plan for the owner's approval. Nothing has been written, published or se
 
 Every item carries a line on why it matters and a line on what to do when nobody knows the answer; to be written: the two lines per item.
 
-Worked example: the admin accounts item shown completed, from the sample handover sheet; its details are invented and labelled invented. Closing: book a 30-minute call from the website, offered once; the reader can stop here with something usable.
+Worked example: the admin accounts item shown completed, from the sample handover sheet; its details are illustrative and labelled invented. Closing: book a 30-minute call from the website, offered once; the reader can stop here with something usable.
 
 **Limits.** Never say a switch is finished in a set number of days. Never say a practice will be fully secure or compliant. No client's name or results without their written permission. No prices; they stay on the pricing page. No comparison naming another IT provider. The checklist says nothing the onboarding checklist and the sample handover sheet do not show, and the worked example's details stay labelled invented.
 

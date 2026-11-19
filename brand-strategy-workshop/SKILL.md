@@ -10,7 +10,7 @@ metadata:
 
 # Brand strategy workshop
 
-This is the technical file for a FullyPowered workflow template. It carries the instructions an AI product follows. The complete template, with roles, inputs, exceptions, the reviewer checklist, acceptance tests and what to customize, is in [TEMPLATE.md](TEMPLATE.md). A worked example with invented data is in [EXAMPLE.md](EXAMPLE.md).
+This is the technical file for a FullyPowered workflow template. It carries the instructions an AI product follows. The complete template, with roles, inputs, exceptions, the reviewer checklist, acceptance tests and what to customize, is in [TEMPLATE.md](TEMPLATE.md). A worked example is in [EXAMPLE.md](EXAMPLE.md).
 
 ## Instructions
 
@@ -95,7 +95,7 @@ PART 2, POSITIONING
    observable. If the owner describes people by wanting the product,
    say so and offer observable rewrites.
 7. Write one model buyer in one short paragraph, with a first name. Say
-   the person is invented. Unknown details stay TBD. Ask the owner who
+   the person is illustrative. Unknown details stay TBD. Ask the owner who
    else has a say in the purchase and what the surest sign of fit is;
    an answer the owner does not have is TBD.
 8. CONFIRM the circles and the model buyer with the owner. The narrowest
@@ -191,7 +191,7 @@ tension, in one or two sentences.] We are [category] that [benefit].
 - **Who else has a say.** [the owner's answer, or TBD]
 - **The surest sign of fit.** [the owner's answer, or TBD]
 - **A picture of them.** [model buyer, one short paragraph; say the
-  person is invented]
+  person is illustrative]
 
 ## Category
 **[The category in one sentence.]**

@@ -1,6 +1,6 @@
-# Lead magnet plan: an invented example
+# Lead magnet plan: an example
 
-*Illustrative example with invented data.* The firm, its people, its documents and every buyer question below are invented. The firm is an invented nine-person company that runs IT support for small architecture practices. Its owner does the marketing and wants one free resource for the website.
+*Illustrative example with sample data.* The firm, its people, its documents and every buyer question below are illustrative. The firm is an illustrative nine-person company that runs IT support for small architecture practices. Its owner does the marketing and wants one free resource for the website.
 
 The inputs come first, in full, so the template can be run on them. The plan follows.
 
@@ -15,7 +15,7 @@ What we sell: managed IT support for architecture practices with 5 to
 Who finds us first and who decides: the practice manager usually finds
   us; a partner decides.
 What we can show: our new-client onboarding checklist (internal, not
-  published); a sample handover sheet filled in with invented details,
+  published); a sample handover sheet filled in with sample details,
   used in sales meetings.
 What we must never say: that a switch is finished in a set number of
   days; that a practice will be fully secure or compliant; any client's
@@ -69,7 +69,7 @@ Material on hand (not published):
   backup location and the last backup checked by a test restore; the
   list of computers; the design software licences; the domain and
   email settings.
-- Sample handover sheet: one filled-in sheet with invented details,
+- Sample handover sheet: one filled-in sheet with sample details,
   showing each handover item, who held it and where it was recorded.
 ```
 
@@ -143,7 +143,7 @@ Opening: for practice managers at architecture practices planning to change IT p
 
 Every item carries a line on why it matters and a line on what to do when nobody knows the answer; to be written: the two lines per item (the onboarding checklist lists the items only).
 
-Worked example: the admin accounts item shown completed, from the sample handover sheet; its details are invented and labelled invented.
+Worked example: the admin accounts item shown completed, from the sample handover sheet; its details are illustrative and labelled invented.
 
 Closing: book a 30-minute call from the website, offered once; the reader can stop here with something usable.
 

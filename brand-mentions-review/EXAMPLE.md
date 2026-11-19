@@ -1,6 +1,6 @@
-# Brand mentions and conversations review: an invented example
+# Brand mentions and conversations review: an example
 
-*Illustrative example with invented data.* Quillfern is an invented 30-person maker of home coffee grinders; its competitors appear as Maker A and Maker B, the platforms are named only by type, and every handle, post and address below was written for this example. No real company or person is described. On Monday 9 November 2026 the social media manager supplies last week's mentions, in full below, and the workflow template returns the digest that follows.
+*Illustrative example with sample data.* Quillfern is an illustrative 30-person maker of home coffee grinders; its competitors appear as Maker A and Maker B, the platforms are named only by type, and every handle, post and address below was written for this example. No real company or person is described. On Monday 9 November 2026 the social media manager supplies last week's mentions, in full below, and the workflow template returns the digest that follows.
 
 ## The inputs
 

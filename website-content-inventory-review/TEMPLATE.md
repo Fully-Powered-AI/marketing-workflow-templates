@@ -233,4 +233,4 @@ anything, decline and record the question for the website owner.
 
 ## Version notes
 
-- 0.1.0, 19 November 2026. Written by FullyPowered AI as original work. Editorially reviewed. Tried on its invented example in one run (public/trial.md); the edits made after that run have not been run again. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 19 November 2026. Written by FullyPowered AI as original work. Editorially reviewed. Tried on its example in one run (public/trial.md); the edits made after that run have not been run again. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.

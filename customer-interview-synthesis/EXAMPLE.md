@@ -1,6 +1,6 @@
-# Customer interview synthesis: an invented example
+# Customer interview synthesis: an example
 
-*Illustrative example with invented data.* The company, the studios, the people and every word quoted below are invented. An invented 14-person software company sells class-booking software to independent fitness studios. Its product lead is deciding whether to build an add-on that works out instructor pay, and has six call notes from October 2026.
+*Illustrative example with sample data.* The company, the studios, the people and every word quoted below are illustrative. An illustrative 14-person software company sells class-booking software to independent fitness studios. Its product lead is deciding whether to build an add-on that works out instructor pay, and has six call notes from October 2026.
 
 The inputs come first, in full, so the template can be run on them. The synthesis follows.
 

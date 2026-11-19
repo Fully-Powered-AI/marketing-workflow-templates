@@ -1,4 +1,4 @@
-# Promotional send plan: trial on the invented example
+# Promotional send plan: trial on the example
 
 - **Product:** Claude, run in Claude Code
 
@@ -6,7 +6,7 @@ Model: Claude Sonnet 5.5 (model ID claude-sonnet-5-5). Date of the runs: 2026-11
 
 ## Second run, after the revision
 
-The inputs are the invented example in `public/example.md` (Shop W's Autumn Kitchen Sale), whose brief now reads "Pacific (all customers are on the US West Coast)" where the first run's read "Pacific (all customers are in the US)". No client data was used.
+The inputs are the example in `public/example.md` (Shop W's Autumn Kitchen Sale), whose brief now reads "Pacific (all customers are on the US West Coast)" where the first run's read "Pacific (all customers are in the US)". No client data was used.
 
 This run is not independent. It was done by the session that revised the template, which had the example's plan open. It applied the revised instruction block step by step to the four inputs and set the result down; the output below is the plan published in the example. A match with the example therefore shows consistency, not a blind result. An independent re-run on the revised template has not been done. After an independent review, the published example's Q4 was edited to print an "Other reasons" line, as Q1 and Q2 do; the output recorded below is as the run produced it and is unchanged.
 
@@ -209,7 +209,7 @@ Approved by (marketing lead): ____________ Date: __________
 - **The time-zone defect from the first run is dealt with in the template.** The revised block checks every send in every zone the brief names and makes an unsettled zone an open question for the marketing lead. This example names one zone and says all customers are on the West Coast, so every check is in Pacific time and no open question arises. The two-zone case (a text at 17:00 Pacific reaching Eastern customers at 20:00) is covered by a new acceptance test, number 13, which has not been run.
 - **Changes from the first run's output:** the settings list names the time zones and the zone days are counted in; S2's purpose is restated for its new day, with the brief's words beside it; Q4 asks whether `vip_hold` records opt-outs as well as which channels it covers. Counts, times, decisions and the 20-send total are unchanged.
 - **The first run's other ambiguities are settled in the template by wording, not by testing:** "other reasons" means every other reason that applies; "the send number" is the plan's S number; a moved send's purpose is restated; a question about a status the rules do not name goes to the messaging rules owner. The "Who answers" lines in this run name the company's person only.
-- **Not shown.** Acceptance tests 13 and 14 (two zones, an unsettled zone) were not run. The instruction block is longer than before and a smaller model may still drop a step. It is one run, on one invented example, by the model that revised the template. It says nothing about client data or other products.
+- **Not shown.** Acceptance tests 13 and 14 (two zones, an unsettled zone) were not run. The instruction block is longer than before and a smaller model may still drop a step. It is one run, on one example, by the model that revised the template. It says nothing about client data or other products.
 
 ## First run, before the revision
 
@@ -217,7 +217,7 @@ Recorded as it was. The template and the example have changed since: the time-zo
 
 Model: Claude Sonnet 5.5 (model ID claude-sonnet-5-5). Date of the run: 2026-11-12.
 
-The inputs are the invented example in `public/example.md` (Shop W's Autumn Kitchen Sale). No client data was used. The run was done by a session that did not write the template. It read the template and only the four invented inputs (promotion brief, sending rules, contact export, suppression lists), followed the instruction block and the output format, produced the plan, and only then read the example's published output to compare.
+The inputs are the example in `public/example.md` (Shop W's Autumn Kitchen Sale). No client data was used. The run was done by a session that did not write the template. It read the template and only the four sample inputs (promotion brief, sending rules, contact export, suppression lists), followed the instruction block and the output format, produced the plan, and only then read the example's published output to compare.
 
 ### Inputs used
 
@@ -420,4 +420,4 @@ Approved by (marketing lead): ____________ Date: __________
   - A moved send's purpose. S2's purpose in the brief is "Sale opens", and after the move to Friday the sale has already opened, so "starts today" cannot be used. The template does not say how to restate the purpose; I wrote it as "is on until" and kept the brief's purpose line.
   - Whether the output format's "one line per setting in the inputs" means every setting or only the ones the rules gave. I listed all.
 - **Shortcomings of the template found in this run:** the time-zone gap above; the instruction block is long enough that a smaller model may drop a step, and this run did not test that; the acceptance tests are marked "proposed" and were not run here, only this one example was.
-- **What this does not show.** It is one run, on one invented example, by one model. It says nothing about client data, other products, or how the plan holds up with real exports. No sending tool was involved and none was needed.
+- **What this does not show.** It is one run, on one example, by one model. It says nothing about client data, other products, or how the plan holds up with real exports. No sending tool was involved and none was needed.

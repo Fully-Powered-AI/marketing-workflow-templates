@@ -1,11 +1,11 @@
-# Trial: Copy edit with a change list, run on its invented example
+# Trial: Copy edit with a change list, run on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Opus 5.5 (model ID claude-opus-5-5)
 - **Date:** 2026-11-09
 - **Template version:** 0.1.0
 
-This is a record of one run of the workflow template on its own invented example. The inputs are the invented Kestrel Ridge example in `public/example.md`; the firm, its statements and its draft are invented, and no client data was used. It shows what the template produced once, on one set of inputs. It is not a test in any company's environment.
+This is a record of one run of the workflow template on its own example. The inputs are the illustrative Kestrel Ridge example in `public/example.md`; the firm, its statements and its draft are illustrative, and no client data was used. It shows what the template produced once, on one set of inputs. It is not a test in any company's environment.
 
 This is the second run on the same example. An earlier run the same day, by an assistant that had not written the template, showed where the instructions left room to choose; the instructions and the example were revised, and the run recorded here was made on the revised instructions. This run was made by the assistant that made those revisions and had read the example's published output, so its agreement with the example is weaker evidence than an independent run would be. What the earlier run found, and what was changed, is at the end.
 
@@ -213,7 +213,7 @@ Remaining ambiguities met in the template:
 2. A brought-back claim can move to a different line (the background check from line 4 to line 9, to avoid saying it twice). The template allows this only through Meaning moved; it does not say so in the edit rules.
 3. Whether two openings in a row that share a word ("Our ... Our ...") count as a repeated repair is left to the re-read; this run left them.
 
-The template's acceptance tests have not been run by this trial. It covers one run on one invented example, in one product.
+The template's acceptance tests have not been run by this trial. It covers one run on one example, in one product.
 
 ## The earlier run, and what was changed
 

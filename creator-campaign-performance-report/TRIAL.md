@@ -1,10 +1,10 @@
-# Creator campaign performance report: trial on the invented example
+# Creator campaign performance report: trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-09
 
-The inputs for this run are the invented example in `public/example.md`. No client data was used. The assistant did not write the template. It followed the instruction block in `member/template.md` and the output format on those inputs, and only afterwards compared its result with the example's report and the reviewer checklist.
+The inputs for this run are the example in `public/example.md`. No client data was used. The assistant did not write the template. It followed the instruction block in `member/template.md` and the output format on those inputs, and only afterwards compared its result with the example's report and the reviewer checklist.
 
 ## Inputs used
 
@@ -160,7 +160,7 @@ Prepared on 2026-11-09. Every figure comes from the inputs listed under Coverage
 8. The earliest order in the export limits how far "repeat customer" can be judged. The example names this under Could not judge; the template does not tell the assistant to.
 9. The stated acceptance tests say none has been run; this trial exercised only the complete-campaign case, and one instruction-in-the-data case.
 
-Limits of this record: one run, one model, one invented example. It shows the template can produce the full report and the same figures as the example; it does not show the template works on a real store's export, and it was not tested in a client environment.
+Limits of this record: one run, one model, one example. It shows the template can produce the full report and the same figures as the example; it does not show the template works on a real store's export, and it was not tested in a client environment.
 
 ## Changed after the run recorded above, and not run again
 

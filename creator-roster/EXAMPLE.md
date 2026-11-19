@@ -1,6 +1,6 @@
-# Creator roster: an invented example
+# Creator roster: an example
 
-*Illustrative example with invented data.* Brightwick Candles is an invented online candle brand. Its programme owner, its finance lead, the seven creators, their handles, posts, payments and amounts are all invented; no real company, person or account is described. Profile and post addresses use the reserved `.example` domain so that none points at a real account.
+*Illustrative example with sample data.* Brightwick Candles is an illustrative online candle brand. Its programme owner, its finance lead, the seven creators, their handles, posts, payments and amounts are all illustrative; no real company, person or account is described. Profile and post addresses use the reserved `.example` domain so that none points at a real account.
 
 Brightwick's programme owner runs the roster update on Friday 6 November 2026. First come the inputs the programme owner supplied, in full, then the update the workflow template returned.
 

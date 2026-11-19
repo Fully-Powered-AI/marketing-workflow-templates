@@ -372,4 +372,4 @@ decline and name the person who decides.
 
 ## Version notes
 
-- 0.1.0, 12 November 2026. Written by FullyPowered AI from its own method, with no third-party text. Editorially reviewed. Tried on its invented example on 12 November 2026 in Claude, with the record published beside it; revised the same day after that trial found that send times were checked in one time zone only, and the revised version was run again once by the session that revised it, not independently. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 12 November 2026. Written by FullyPowered AI from its own method, with no third-party text. Editorially reviewed. Tried on its example on 12 November 2026 in Claude, with the record published beside it; revised the same day after that trial found that send times were checked in one time zone only, and the revised version was run again once by the session that revised it, not independently. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.

@@ -193,7 +193,7 @@ Prepared on [date]. Every figure comes from the inputs listed under Coverage and
 
 ## Acceptance tests
 
-Proposed tests. None has been run as written. The one recorded trial, on the invented example (see the version notes), covered the ground of test 10 and most of test 1; its costs file then left the platform fee blank, so it returned a partial report.
+Proposed tests. None has been run as written. The one recorded trial, on the example (see the version notes), covered the ground of test 10 and most of test 1; its costs file then left the platform fee blank, so it returned a partial report.
 
 1. **Complete campaign.** Every input present. Expected: status complete; every campaign creator ranked; the order check adds up.
 2. **Header does not match.** The export calls the subtotal column `Order Subtotal`. Expected: stops and asks which column holds the subtotal; drafts nothing.
@@ -346,4 +346,4 @@ decline.
 
 ## Version notes
 
-- 0.1.0, 9 November 2026. Written by FullyPowered AI from its own creator programme work. Editorially reviewed. Tried on its invented example in Claude on 9 November 2026; edits made afterward to the inputs, the procedure, the pasted instructions, the output format and the example have not been run again, and the trial record lists them. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 9 November 2026. Written by FullyPowered AI from its own creator programme work. Editorially reviewed. Tried on its example in Claude on 9 November 2026; edits made afterward to the inputs, the procedure, the pasted instructions, the output format and the example have not been run again, and the trial record lists them. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.

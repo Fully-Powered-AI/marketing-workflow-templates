@@ -1,10 +1,10 @@
-# Event attendee follow-up list: one trial on the invented example
+# Event attendee follow-up list: one trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-19
 
-The inputs are the invented example in [public/example.md](example.md) (the Brinmoor Customer Workshop: the two exports, the follow-up rules, the do-not-contact list, the approved facts and the voice sample). No client data was used. The run followed the instruction block and the output format in the member template, on those inputs, once.
+The inputs are the example in [public/example.md](example.md) (the Brinmoor Customer Workshop: the two exports, the follow-up rules, the do-not-contact list, the approved facts and the voice sample). No client data was used. The run followed the instruction block and the output format in the member template, on those inputs, once.
 
 ## An important limit on this trial
 

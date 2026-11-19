@@ -1,6 +1,6 @@
-# Website content inventory review: an invented example
+# Website content inventory review: an example
 
-*Illustrative example with invented data.* Firm K is an invented 80-person accounting and advisory firm. Its marketing lead owns the website and runs this review each quarter; this quarter it also comes before a planned redesign. The pages, addresses, dates and figures below are all invented, and people appear only by role. A real export would run to a few hundred rows; this one is kept to twenty so every figure can be checked by hand.
+*Illustrative example with sample data.* Firm K is an illustrative 80-person accounting and advisory firm. Its marketing lead owns the website and runs this review each quarter; this quarter it also comes before a planned redesign. The pages, addresses, dates and figures below are all illustrative, and people appear only by role. A real export would run to a few hundred rows; this one is kept to twenty so every figure can be checked by hand.
 
 The inputs come first, in full, so the workflow template can be run on them. The review follows.
 

@@ -1,11 +1,11 @@
-# Creator content approval: tried on its invented example
+# Creator content approval: tried on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-09
 - **Template version:** 0.1.0
 
-The inputs are the invented example in [example.md](example.md): Brackenfold's creator rules, the brief, the submission and the request. No client data was used. The assistant was given the template's instruction block and output format, and the four inputs from the example. It was run once, in a single pass, with no repair and no second attempt.
+The inputs are the example in [example.md](example.md): Brackenfold's creator rules, the brief, the submission and the request. No client data was used. The assistant was given the template's instruction block and output format, and the four inputs from the example. It was run once, in a single pass, with no repair and no second attempt.
 
 One honest caveat about method. The run was meant to be blind to the example's own output. The assistant worked out its judgements before opening that output, but a file read ran past the end of the inputs and showed the example's output before the run's output was written down. So the comparison below is not a blind one. Where the two agree, that is weaker evidence than it would have been.
 
@@ -65,7 +65,7 @@ Facts not in the inputs: none found in either output. The example's "Whether the
 
 The reviewer checklist was read against the run. Items 1, 2, 3, 5 and 6 are met by the output. Item 4 (check the count in the platform's own preview on a phone) is a person's job and was not done. Items 7, 8 and 9 are for people and were not done; nothing was sent to anyone.
 
-This is one run on an invented example, in one product. It says the template can be followed to a complete review. It does not show how it behaves on a client's real material or in another AI product.
+This is one run on an example, in one product. It says the template can be followed to a complete review. It does not show how it behaves on a client's real material or in another AI product.
 
 ## Changes made after this run
 

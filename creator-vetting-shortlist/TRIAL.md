@@ -1,10 +1,10 @@
-# Creator vetting shortlist: a trial on the invented example
+# Creator vetting shortlist: a trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Opus 5.5 (model ID `claude-opus-5-5`)
 - **Date:** 2026-11-09
 
-The inputs are the invented example in `public/example.md` (Fernhollow Tea Co., five invented creators). No client data was used. This is the second run on the example. The first run, by another model on the same day, found ambiguities in the template; the template's instructions, its output format and the example were revised afterward, and this run was made on the revised versions. What the first run found and what changed are summarized at the end.
+The inputs are the example in `public/example.md` (Fernhollow Tea Co., five illustrative creators). No client data was used. This is the second run on the example. The first run, by another model on the same day, found ambiguities in the template; the template's instructions, its output format and the example were revised afterward, and this run was made on the revised versions. What the first run found and what changed are summarized at the end.
 
 This run followed the template's fenced instruction block, its output format and the example's inputs (the request, brand rules, settings, longlist, recent posts and evidence notes). It is not a blind reading: it was made by the model that revised the template and the example, which had already read the example's output. The rates were worked from the post counts and checked with a short script.
 
@@ -268,4 +268,4 @@ It listed fifteen ambiguities. These changes were made in response before this r
 
 The first run's other ambiguities were not changed: how much a media kit figure weighs for audience fit; the scores between anchors left to judgment; no test for a "close" category; no clear score above 3 for engagement quality within the band; "every channel seen" for brand safety 5; whether rule 7's reasons are named when a creator already falls to negotiate; an empty `sponsored` column when the notes say none was labelled; and how to round a median such as 2.805 in a spreadsheet.
 
-These were two runs by two models on one invented example. They show that the template can be followed to a complete output on its example. They do not show how it behaves on real creator data or in a client's environment.
+These were two runs by two models on one example. They show that the template can be followed to a complete output on its example. They do not show how it behaves on real creator data or in a client's environment.
