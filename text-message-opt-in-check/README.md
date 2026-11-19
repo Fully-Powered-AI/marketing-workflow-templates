@@ -1,10 +1,17 @@
 # Text-message opt-in check
 
-Before a text campaign goes out, the marketing lead sees every number on the proposed list beside the opt-in your own records hold for it: where it was given, when, and the wording as recorded. Anyone with no recorded opt-in, or with a recorded opt-out, is held out and counted. A person decides who is sent to.
+Sets every number on a text campaign list beside the opt-in your records hold, holds out anyone without one or with an opt-out, and counts each group.
 
-*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/text-message-opt-in-check/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Text-message opt-in check on our website](https://fullypowered.ai/workflows/text-message-opt-in-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-text-message-opt-in-check&from=gh-marketing-text-message-opt-in-check) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/text-message-opt-in-check/?from=gh-marketing-text-message-opt-in-check)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/text-message-opt-in-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-text-message-opt-in-check&from=gh-marketing-text-message-opt-in-check)*
 
 ## The outcome
 
@@ -33,16 +40,16 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/), where the team planning a text campaign wants to know that every number on the list asked to hear from it.
-- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/), where a segment pulled from the store's customers is checked against the opt-ins taken at checkout and in store.
-- [Hospitality](https://fullypowered.ai/industries/hospitality/), where guests who joined at the counter, at booking or by texting a keyword end up on one list.
-- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/), where opt-ins arrive from the online shop, events and pop-ups, each recorded in its own way.
-- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/), where an agency checks a client's list against the client's own consent records before the client decides.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when texting grows from a few loyal customers to lists nobody has read line by line.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), when years of sign-up forms have left opt-ins with several sources and wordings.
-- [Acquisitions & integration](https://fullypowered.ai/situations/acquisitions-and-integration/), when a list comes with an acquired business and its consent records sit in another system.
+- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-text-message-opt-in-check&from=gh-marketing-text-message-opt-in-check), where the team planning a text campaign wants to know that every number on the list asked to hear from it.
+- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-text-message-opt-in-check&from=gh-marketing-text-message-opt-in-check), where a segment pulled from the store's customers is checked against the opt-ins taken at checkout and in store.
+- [Hospitality](https://fullypowered.ai/industries/hospitality/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-text-message-opt-in-check&from=gh-marketing-text-message-opt-in-check), where guests who joined at the counter, at booking or by texting a keyword end up on one list.
+- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-text-message-opt-in-check&from=gh-marketing-text-message-opt-in-check), where opt-ins arrive from the online shop, events and pop-ups, each recorded in its own way.
+- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-text-message-opt-in-check&from=gh-marketing-text-message-opt-in-check), where an agency checks a client's list against the client's own consent records before the client decides.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-text-message-opt-in-check&from=gh-marketing-text-message-opt-in-check), when texting grows from a few loyal customers to lists nobody has read line by line.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-text-message-opt-in-check&from=gh-marketing-text-message-opt-in-check), when years of sign-up forms have left opt-ins with several sources and wordings.
+- [Acquisitions & integration](https://fullypowered.ai/situations/acquisitions-and-integration/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-text-message-opt-in-check&from=gh-marketing-text-message-opt-in-check), when a list comes with an acquired business and its consent records sit in another system.
 
-It does not plan the campaign or draft the messages. The [promotional text campaign plan](https://fullypowered.ai/workflows/promotional-text-campaign-plan/) does that, and it sorts the audience by the consent statuses your policy names; this check instead sets each number beside the raw opt-in records, with source, date and wording as recorded. It does not build a send plan across email and text ([promotional send plan](https://fullypowered.ai/workflows/promotional-send-plan/)), check an email audience ([campaign audience check](https://fullypowered.ai/workflows/campaign-audience-check/)) or write emails ([email sequence drafting](https://fullypowered.ai/workflows/email-sequence-drafting/)). It starts with a proposed list and ends with that list checked, number by number. It does not read a wording against the campaign: each wording is printed as recorded, and whether it fits this campaign is for the reader to read and the owner to decide.
+It does not plan the campaign or draft the messages. The [promotional text campaign plan](https://fullypowered.ai/workflows/promotional-text-campaign-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-text-message-opt-in-check&from=gh-marketing-text-message-opt-in-check) does that, and it sorts the audience by the consent statuses your policy names; this check instead sets each number beside the raw opt-in records, with source, date and wording as recorded. It does not build a send plan across email and text ([promotional send plan](https://fullypowered.ai/workflows/promotional-send-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-text-message-opt-in-check&from=gh-marketing-text-message-opt-in-check)), check an email audience ([campaign audience check](https://fullypowered.ai/workflows/campaign-audience-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-text-message-opt-in-check&from=gh-marketing-text-message-opt-in-check)) or write emails ([email sequence drafting](https://fullypowered.ai/workflows/email-sequence-drafting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-text-message-opt-in-check&from=gh-marketing-text-message-opt-in-check)). It starts with a proposed list and ends with that list checked, number by number. It does not read a wording against the campaign: each wording is printed as recorded, and whether it fits this campaign is for the reader to read and the owner to decide.
 
 ## What has to change for your company
 
@@ -52,7 +59,7 @@ Write down the words your consent records use for an opt-in and an opt-out, and 
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 12 November 2026. It was tried on its invented example on 12 November 2026 in Claude; the record is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a past list whose problems you already know: a number that opted out in the texting tool only, an opt-in after an opt-out, a number without its country code, a sign-up with no wording recorded. The person who keeps the consent records checks every line and recomputes every count before the check is relied on. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) shows the record.
+Testing in your environment means running it on a past list whose problems you already know: a number that opted out in the texting tool only, an opt-in after an opt-out, a number without its country code, a sign-up with no wording recorded. The person who keeps the consent records checks every line and recomputes every count before the check is relied on. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-text-message-opt-in-check&from=gh-marketing-text-message-opt-in-check) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-text-message-opt-in-check&from=gh-marketing-text-message-opt-in-check) shows the record.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -79,11 +86,11 @@ Testing in your environment means running it on a past list whose problems you a
 
 ## Related workflow templates
 
-- [Promotional text campaign plan](https://fullypowered.ai/workflows/promotional-text-campaign-plan/)
+- [Promotional text campaign plan](https://fullypowered.ai/workflows/promotional-text-campaign-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-text-message-opt-in-check&from=gh-marketing-text-message-opt-in-check)
 - [Promotional send plan](../promotional-send-plan/)
-- [Campaign audience check](https://fullypowered.ai/workflows/campaign-audience-check/)
+- [Campaign audience check](https://fullypowered.ai/workflows/campaign-audience-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-text-message-opt-in-check&from=gh-marketing-text-message-opt-in-check)
 - [Email sequence drafting](../email-sequence-drafting/)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-text-message-opt-in-check&from=gh-marketing-text-message-opt-in-check).

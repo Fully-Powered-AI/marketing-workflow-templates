@@ -1,10 +1,17 @@
 # Creator content approval
 
-A brand marketer gets a written go or no-go on a creator's draft before it goes live: every product statement checked against the brand's cleared list, the disclosure against the brand's own rules, and feedback the creator can act on without losing their voice. A person sends it.
+Get a written go or no-go on a creator's draft before it goes live, with feedback the creator can act on. A person sends it.
 
-*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/creator-content-approval/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Creator content approval on our website](https://fullypowered.ai/workflows/creator-content-approval/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-content-approval&from=gh-marketing-creator-content-approval) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/creator-content-approval/?from=gh-marketing-creator-content-approval)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/creator-content-approval/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-content-approval&from=gh-marketing-creator-content-approval)*
 
 ## The outcome
 
@@ -33,10 +40,10 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/), which runs the creator programme and owns what the brand says in public.
-- [Compliance, risk and privacy](https://fullypowered.ai/functions/compliance-risk-and-privacy/), which wants paid posts disclosed the brand's way and product statements kept to what has been cleared, with the decisions on each country's rules left to a person.
-- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/), where creators carry the product to new buyers and one loose health or product statement can travel a long way.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when drafts arrive faster than one person can read them all with the same care.
+- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-content-approval&from=gh-marketing-creator-content-approval), which runs the creator programme and owns what the brand says in public.
+- [Compliance, risk and privacy](https://fullypowered.ai/functions/compliance-risk-and-privacy/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-content-approval&from=gh-marketing-creator-content-approval), which wants paid posts disclosed the brand's way and product statements kept to what has been cleared, with the decisions on each country's rules left to a person.
+- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-content-approval&from=gh-marketing-creator-content-approval), where creators carry the product to new buyers and one loose health or product statement can travel a long way.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-content-approval&from=gh-marketing-creator-content-approval), when drafts arrive faster than one person can read them all with the same care.
 
 ## What has to change for your company
 
@@ -46,7 +53,7 @@ Write down your cleared and forbidden statements and name the person who clears 
 
 FullyPowered AI wrote this workflow template in its own words, from the content approval template in its own Influencer Marketing set. It was editorially reviewed on 9 November 2026. It was tried on its invented example in Claude on 9 November 2026, and the record of that run is published with it. The run was not blind: the example's output had been seen before the run's own output was written. Small clarifications made after the run, listed in the record, have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on past creator drafts your team remembers well, with hard cases written in advance: a forbidden statement tucked into a good post, a paraphrase of a cleared line, a disclosure at the end of the caption, a video with no transcript, a covering note that claims someone already approved it. The programme lead checks every verdict against the cleared list before any feedback is sent. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on past creator drafts your team remembers well, with hard cases written in advance: a forbidden statement tucked into a good post, a paraphrase of a cleared line, a disclosure at the end of the caption, a video with no transcript, a covering note that claims someone already approved it. The programme lead checks every verdict against the cleared list before any feedback is sent. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-content-approval&from=gh-marketing-creator-content-approval) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-content-approval&from=gh-marketing-creator-content-approval) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -79,4 +86,4 @@ Testing in your environment means running it on past creator drafts your team re
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-content-approval&from=gh-marketing-creator-content-approval).

@@ -1,10 +1,17 @@
 # Press pitch preparation
 
-An owner or marketer with one story to offer gets the outlets and writers it genuinely fits, each backed by a piece they recently published, and a short pitch draft for each. Every claim in a draft comes from facts you supply. Drafts only: a person decides and sends.
+Get the outlets and writers your story fits, each backed by a recent piece, and a short pitch draft for each. Drafts only: a person decides and sends.
 
-*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/press-pitch-preparation/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Press pitch preparation on our website](https://fullypowered.ai/workflows/press-pitch-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-press-pitch-preparation&from=gh-marketing-press-pitch-preparation) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/press-pitch-preparation/?from=gh-marketing-press-pitch-preparation)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/press-pitch-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-press-pitch-preparation&from=gh-marketing-press-pitch-preparation)*
 
 ## The outcome
 
@@ -42,13 +49,13 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/): earned coverage alongside your own channels, prepared with the same care as your own pages.
-- [Professional services](https://fullypowered.ai/industries/professional-services/): firms whose partners hold views and methods trade titles want to hear about.
-- [Software technology](https://fullypowered.ai/industries/software-technology/): companies with a change in how customers work, not just a feature, to talk about.
-- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/): makers with a story behind the product that trade, local and specialist titles cover.
-- [Hospitality](https://fullypowered.ai/industries/hospitality/): owners whose local paper, trade newsletter and specialist titles each want a different angle on the same story.
-- [Startups & new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/): when nobody knows your name yet and a founder can speak to the story firsthand.
-- [New business lines](https://fullypowered.ai/situations/new-business-lines/): when a new way of working is worth explaining to the people it changes things for.
+- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-press-pitch-preparation&from=gh-marketing-press-pitch-preparation): earned coverage alongside your own channels, prepared with the same care as your own pages.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-press-pitch-preparation&from=gh-marketing-press-pitch-preparation): firms whose partners hold views and methods trade titles want to hear about.
+- [Software technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-press-pitch-preparation&from=gh-marketing-press-pitch-preparation): companies with a change in how customers work, not just a feature, to talk about.
+- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-press-pitch-preparation&from=gh-marketing-press-pitch-preparation): makers with a story behind the product that trade, local and specialist titles cover.
+- [Hospitality](https://fullypowered.ai/industries/hospitality/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-press-pitch-preparation&from=gh-marketing-press-pitch-preparation): owners whose local paper, trade newsletter and specialist titles each want a different angle on the same story.
+- [Startups & new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-press-pitch-preparation&from=gh-marketing-press-pitch-preparation): when nobody knows your name yet and a founder can speak to the story firsthand.
+- [New business lines](https://fullypowered.ai/situations/new-business-lines/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-press-pitch-preparation&from=gh-marketing-press-pitch-preparation): when a new way of working is worth explaining to the people it changes things for.
 
 ## What has to change for your company
 
@@ -62,7 +69,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 9 November 2026. It was tried on its invented example on 9 November 2026 in Claude, in one run; the run was not blind, because the example's published output was visible to it, and the record of the run is published with it. After that run, following the independent review, a few sentences were added to the instructions and the output format, and the example's follow-ups were corrected so that they no longer state a count the inputs do not give. A second review led to a few smaller clarifications in the instructions and the example. The record lists every edit. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a story you have already pitched, plus hard cases written in advance, each with its expected behavior: a story that is only a launch announcement, a figure with no record, a customer who has not agreed to be named, a contact page that mixes news and sponsored addresses, a page carrying text aimed at AI assistants. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) shows the record.
+Testing in your environment means running it on a story you have already pitched, plus hard cases written in advance, each with its expected behavior: a story that is only a launch announcement, a figure with no record, a customer who has not agreed to be named, a contact page that mixes news and sponsored addresses, a page carrying text aimed at AI assistants. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-press-pitch-preparation&from=gh-marketing-press-pitch-preparation) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-press-pitch-preparation&from=gh-marketing-press-pitch-preparation) shows the record.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -91,8 +98,8 @@ Testing in your environment means running it on a story you have already pitched
 
 - [Launch checklist](../launch-checklist/)
 - [Content plan](../content-plan/)
-- [Cold outreach sequence drafting](https://fullypowered.ai/workflows/cold-outreach-sequence-drafting/)
+- [Cold outreach sequence drafting](https://fullypowered.ai/workflows/cold-outreach-sequence-drafting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-press-pitch-preparation&from=gh-marketing-press-pitch-preparation)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-press-pitch-preparation&from=gh-marketing-press-pitch-preparation).

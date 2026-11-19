@@ -1,10 +1,17 @@
 # Creator publication tracking
 
-A brand marketer sees, creator by creator, what was agreed against what actually went live: each post checked for its disclosure, code, link and approved version, dated checks that it is still up, and every gap set out as a fix to ask for or a decision to make. A person sends every message.
+See what each creator agreed against what went live: disclosure, code, link and approved version checked, with fixes drafted. A person sends every message.
 
-*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/creator-publication-tracking/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Creator publication tracking on our website](https://fullypowered.ai/workflows/creator-publication-tracking/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-publication-tracking&from=gh-creator-publication-tracking) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/creator-publication-tracking/?from=gh-creator-publication-tracking)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/creator-publication-tracking/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-publication-tracking&from=gh-creator-publication-tracking)*
 
 ## The outcome
 
@@ -34,12 +41,12 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/), which runs the creator programme and answers for what goes out under the brand's name.
-- [Compliance, risk and privacy](https://fullypowered.ai/functions/compliance-risk-and-privacy/), which wants proof that paid posts carry the disclosure the brand requires and that someone acted when they did not.
-- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/), where creators carry the product to new buyers across many accounts at once.
-- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/), where every post leans on a discount code and a tracked link that must be exactly right.
-- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/), where agencies run creator campaigns for clients and report on delivery.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when a programme grows past the number of posts one person can keep in their head.
+- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-publication-tracking&from=gh-creator-publication-tracking), which runs the creator programme and answers for what goes out under the brand's name.
+- [Compliance, risk and privacy](https://fullypowered.ai/functions/compliance-risk-and-privacy/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-publication-tracking&from=gh-creator-publication-tracking), which wants proof that paid posts carry the disclosure the brand requires and that someone acted when they did not.
+- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-publication-tracking&from=gh-creator-publication-tracking), where creators carry the product to new buyers across many accounts at once.
+- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-publication-tracking&from=gh-creator-publication-tracking), where every post leans on a discount code and a tracked link that must be exactly right.
+- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-publication-tracking&from=gh-creator-publication-tracking), where agencies run creator campaigns for clients and report on delivery.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-publication-tracking&from=gh-creator-publication-tracking), when a programme grows past the number of posts one person can keep in their head.
 
 ## What has to change for your company
 
@@ -49,7 +56,7 @@ Write down your disclosure forms for each platform and format, with your wording
 
 FullyPowered AI wrote this workflow template in its own words, from the publication tracking template in its own Influencer Marketing set. It was editorially reviewed on 9 November 2026. It was tried once on its invented example in Claude on 9 November 2026, and the record of that run is published with it. That run found several points the instructions left open, chiefly two: where a creator's message that a fix is done belongs, and whether the result line counts bullets or items. After the run, a few sentences were added to the instructions and the output format to settle those and the other points it raised, and the example's wording was brought closer to its inputs in a few places; the example's inputs and its counts did not change. These edits have not been run again, and the record lists them. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a past campaign your team remembers well, with hard cases written in advance: a disclosure buried in the hashtags, a code in the wrong letter case, a link with an extra "www", a fix the creator says is done but nobody has looked at, a post that came down in its first week. The programme lead checks every date and every "match" against the posts before anything is sent. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on a past campaign your team remembers well, with hard cases written in advance: a disclosure buried in the hashtags, a code in the wrong letter case, a link with an extra "www", a fix the creator says is done but nobody has looked at, a post that came down in its first week. The programme lead checks every date and every "match" against the posts before anything is sent. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-publication-tracking&from=gh-creator-publication-tracking) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-publication-tracking&from=gh-creator-publication-tracking) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -82,4 +89,4 @@ Testing in your environment means running it on a past campaign your team rememb
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-publication-tracking&from=gh-creator-publication-tracking).

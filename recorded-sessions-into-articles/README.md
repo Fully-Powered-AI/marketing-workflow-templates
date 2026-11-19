@@ -1,10 +1,17 @@
 # Recorded sessions into articles
 
-A coach, trainer or consultant hands over transcripts of recent sessions and gets back article drafts in their own words: the subjects they actually taught, their key lines quoted word for word, no participant named, and a review sheet of what to check before publishing.
+Turn session transcripts into article drafts that sound like the expert, with every quote traceable and no participant named. The expert publishes.
 
-*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/recorded-sessions-into-articles/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Recorded sessions into articles on our website](https://fullypowered.ai/workflows/recorded-sessions-into-articles/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-recorded-sessions-into-articles&from=gh-recorded-sessions-into-articles) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/recorded-sessions-into-articles/?from=gh-recorded-sessions-into-articles)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/recorded-sessions-into-articles/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-recorded-sessions-into-articles&from=gh-recorded-sessions-into-articles)*
 
 ## The outcome
 
@@ -37,10 +44,10 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/): the steady supply of articles a small practice never has time to write.
-- [Education](https://fullypowered.ai/industries/education/): instructors, tutors and course leaders whose teaching happens out loud.
-- [Professional services](https://fullypowered.ai/industries/professional-services/): consultants, coaches and facilitators whose workshops hold their thinking.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/): years of sessions already taught, and little of it written down.
+- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-recorded-sessions-into-articles&from=gh-recorded-sessions-into-articles): the steady supply of articles a small practice never has time to write.
+- [Education](https://fullypowered.ai/industries/education/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-recorded-sessions-into-articles&from=gh-recorded-sessions-into-articles): instructors, tutors and course leaders whose teaching happens out loud.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-recorded-sessions-into-articles&from=gh-recorded-sessions-into-articles): consultants, coaches and facilitators whose workshops hold their thinking.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-recorded-sessions-into-articles&from=gh-recorded-sessions-into-articles): years of sessions already taught, and little of it written down.
 
 ## What has to change for your company
 
@@ -55,7 +62,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 9 November 2026. It was tried on its invented example in Claude on 9 November 2026, in two runs; the record of the second is published with it and lists the small edits made afterwards. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on sessions you remember well, with hard cases chosen in advance: a session with notes and no transcript, a line where you said a participant’s name, a recording where the speakers are mixed up. You check every quotation against the transcript and every page for anyone who could be recognised. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on sessions you remember well, with hard cases chosen in advance: a session with notes and no transcript, a line where you said a participant’s name, a recording where the speakers are mixed up. You check every quotation against the transcript and every page for anyone who could be recognised. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-recorded-sessions-into-articles&from=gh-recorded-sessions-into-articles) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-recorded-sessions-into-articles&from=gh-recorded-sessions-into-articles) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -82,9 +89,9 @@ Testing in your environment means running it on sessions you remember well, with
 
 ## Related workflow templates
 
-- [Write an SOP from how the work is done](https://fullypowered.ai/workflows/sop-from-how-the-work-is-done/)
-- [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/)
+- [Write an SOP from how the work is done](https://fullypowered.ai/workflows/sop-from-how-the-work-is-done/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-recorded-sessions-into-articles&from=gh-recorded-sessions-into-articles)
+- [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-recorded-sessions-into-articles&from=gh-recorded-sessions-into-articles)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-recorded-sessions-into-articles&from=gh-recorded-sessions-into-articles).

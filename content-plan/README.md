@@ -1,10 +1,17 @@
 # Content plan
 
-A marketing lead with a few hours a week gets a content plan built on the questions buyers really ask: one subject for each question worth answering, the formats those hours can carry, a ranked list of what to write next, and what is held or left out, each with its reason.
+Turn the questions buyers ask into a content plan sized to your weekly hours, with a ranked list of what to write next. You decide and approve.
 
-*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/content-plan/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Content plan on our website](https://fullypowered.ai/workflows/content-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-content-plan&from=gh-marketing-content-plan) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/content-plan/?from=gh-marketing-content-plan)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/content-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-content-plan&from=gh-marketing-content-plan)*
 
 ## The outcome
 
@@ -43,12 +50,12 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/): the plan decides what gets written, in which order, from what buyers ask.
-- [Professional services](https://fullypowered.ai/industries/professional-services/): buyers ask the same questions about scope, switching and fees before they hire a firm.
-- [Software technology](https://fullypowered.ai/industries/software-technology/): questions about setup, systems already in place and what changes after signing come up on every sales call.
-- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/): customer emails and chat show what shoppers need answered before they buy.
-- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/): an agency builds a client's plan from the client's own buyer questions, with every choice traced.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/): when buyers' questions arrive faster than one person can answer them in calls.
+- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-content-plan&from=gh-marketing-content-plan): the plan decides what gets written, in which order, from what buyers ask.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-content-plan&from=gh-marketing-content-plan): buyers ask the same questions about scope, switching and fees before they hire a firm.
+- [Software technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-content-plan&from=gh-marketing-content-plan): questions about setup, systems already in place and what changes after signing come up on every sales call.
+- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-content-plan&from=gh-marketing-content-plan): customer emails and chat show what shoppers need answered before they buy.
+- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-content-plan&from=gh-marketing-content-plan): an agency builds a client's plan from the client's own buyer questions, with every choice traced.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-content-plan&from=gh-marketing-content-plan): when buyers' questions arrive faster than one person can answer them in calls.
 
 ## What has to change for your company
 
@@ -63,7 +70,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 9 November 2026. It was tried on its invented example in Claude on 9 November 2026, revised and tried again the same day, and the record of the second run is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a past quarter's questions your marketing lead remembers well, plus hard cases written in advance: a question log whose columns have different names, an idea that needs a client's permission, a piece that does not fit the hours left. The marketing lead checks every count and every sum before relying on the plan. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on a past quarter's questions your marketing lead remembers well, plus hard cases written in advance: a question log whose columns have different names, an idea that needs a client's permission, a piece that does not fit the hours left. The marketing lead checks every count and every sum before relying on the plan. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-content-plan&from=gh-marketing-content-plan) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-content-plan&from=gh-marketing-content-plan) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -92,8 +99,8 @@ Testing in your environment means running it on a past quarter's questions your 
 
 - [Customer interview synthesis](../customer-interview-synthesis/)
 - [Recorded sessions into articles](../recorded-sessions-into-articles/)
-- [Objection answers and sales one-pager](https://fullypowered.ai/workflows/objection-answers-and-sales-one-pager/)
+- [Objection answers and sales one-pager](https://fullypowered.ai/workflows/objection-answers-and-sales-one-pager/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-content-plan&from=gh-marketing-content-plan)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-content-plan&from=gh-marketing-content-plan).

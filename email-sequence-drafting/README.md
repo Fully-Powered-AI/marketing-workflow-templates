@@ -1,10 +1,17 @@
 # Email sequence drafting
 
-People who asked to hear from you get emails worth opening: a welcome, a nurture sequence or a new customer's onboarding, drafted in your voice, each email with one job and one ask, every claim traced to your own facts, and a clear end. You read, load and send them yourself.
+Drafts a welcome, nurture or onboarding email sequence in your voice, each email with one job and one ask. You read, load and send them yourself.
 
-*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/email-sequence-drafting/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Email sequence drafting on our website](https://fullypowered.ai/workflows/email-sequence-drafting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-email-sequence-drafting&from=gh-marketing-email-sequence-drafting) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/email-sequence-drafting/?from=gh-marketing-email-sequence-drafting)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/email-sequence-drafting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-email-sequence-drafting&from=gh-marketing-email-sequence-drafting)*
 
 ## The outcome
 
@@ -18,7 +25,7 @@ The marketer or owner responsible for the emails starts it when people have sign
 
 That person reads every line, fills the slots, and loads and sends the emails from the tool the company already uses. The AI assistant drafts. It sends nothing, schedules nothing and touches no list.
 
-It is for people who asked to hear from you. Writing to strangers is [cold outreach sequence drafting](https://fullypowered.ai/workflows/cold-outreach-sequence-drafting/), a separate workflow template with stricter rules.
+It is for people who asked to hear from you. Writing to strangers is [cold outreach sequence drafting](https://fullypowered.ai/workflows/cold-outreach-sequence-drafting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-email-sequence-drafting&from=gh-marketing-email-sequence-drafting), a separate workflow template with stricter rules.
 
 ## What they supply
 
@@ -43,10 +50,10 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/): the emails that follow a sign-up are the first words a new contact reads from you after the form.
-- [Ecommerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/): a guide download or a first visit becomes a first order without a discount you never meant to run.
-- [Software technology](https://fullypowered.ai/industries/software-technology/): new customers get through setup one step at a time, with a person to reply to.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/): sign-ups arrive faster than anyone can write to them, and every new offer needs its own emails.
+- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-email-sequence-drafting&from=gh-marketing-email-sequence-drafting): the emails that follow a sign-up are the first words a new contact reads from you after the form.
+- [Ecommerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-email-sequence-drafting&from=gh-marketing-email-sequence-drafting): a guide download or a first visit becomes a first order without a discount you never meant to run.
+- [Software technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-email-sequence-drafting&from=gh-marketing-email-sequence-drafting): new customers get through setup one step at a time, with a person to reply to.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-email-sequence-drafting&from=gh-marketing-email-sequence-drafting): sign-ups arrive faster than anyone can write to them, and every new offer needs its own emails.
 
 ## What has to change for your company
 
@@ -60,7 +67,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 FullyPowered AI wrote this workflow template from the guide it uses for its own email drafting. It was editorially reviewed on 9 November 2026. It was tried on its invented example on 9 November 2026; the record of that run is published with it, and lists the small edits made afterward that have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a sign-up you know well, plus hard cases written in advance, each with its expected behavior: a request for a discount you do not run, a customer quotation with no permission, a bought list, a link that is not live yet. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) shows the record.
+Testing in your environment means running it on a sign-up you know well, plus hard cases written in advance, each with its expected behavior: a request for a discount you do not run, a customer quotation with no permission, a bought list, a link that is not live yet. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-email-sequence-drafting&from=gh-marketing-email-sequence-drafting) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-email-sequence-drafting&from=gh-marketing-email-sequence-drafting) shows the record.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -87,10 +94,10 @@ Testing in your environment means running it on a sign-up you know well, plus ha
 
 ## Related workflow templates
 
-- [Cold outreach sequence drafting](https://fullypowered.ai/workflows/cold-outreach-sequence-drafting/)
+- [Cold outreach sequence drafting](https://fullypowered.ai/workflows/cold-outreach-sequence-drafting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-email-sequence-drafting&from=gh-marketing-email-sequence-drafting)
 - [Customer interview synthesis](../customer-interview-synthesis/)
-- [Customer reply drafting](https://fullypowered.ai/workflows/customer-reply-drafting/)
+- [Customer reply drafting](https://fullypowered.ai/workflows/customer-reply-drafting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-email-sequence-drafting&from=gh-marketing-email-sequence-drafting)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-email-sequence-drafting&from=gh-marketing-email-sequence-drafting).

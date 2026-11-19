@@ -1,10 +1,17 @@
 # Offer review
 
-Before you sell a packaged service, see it the way a buyer will: what they get and what is left out, what answers each doubt they raise, what protects them, and whether there is an honest reason to decide now. The weakest point is named and one change drafted, from your facts only.
+See your packaged service as a buyer will: what they get, what answers each doubt, what protects them. One change is drafted from your facts.
 
-*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/offer-review/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Offer review on our website](https://fullypowered.ai/workflows/offer-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-offer-review&from=gh-marketing-offer-review) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/offer-review/?from=gh-marketing-offer-review)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/offer-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-offer-review&from=gh-marketing-offer-review)*
 
 ## The outcome
 
@@ -42,10 +49,10 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/): the offer underneath the page, the advertisement and the email.
-- [Sales](https://fullypowered.ai/functions/sales/): an answer to each doubt is already in the offer before the call, not improvised during it.
-- [Professional services](https://fullypowered.ai/industries/professional-services/): firms that sell time and judgment need the end state, the limits and the safeguards of a packaged service written down.
-- [New business lines](https://fullypowered.ai/situations/new-business-lines/): a new service is the moment its offer is still easy to change.
+- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-offer-review&from=gh-marketing-offer-review): the offer underneath the page, the advertisement and the email.
+- [Sales](https://fullypowered.ai/functions/sales/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-offer-review&from=gh-marketing-offer-review): an answer to each doubt is already in the offer before the call, not improvised during it.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-offer-review&from=gh-marketing-offer-review): firms that sell time and judgment need the end state, the limits and the safeguards of a packaged service written down.
+- [New business lines](https://fullypowered.ai/situations/new-business-lines/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-offer-review&from=gh-marketing-offer-review): a new service is the moment its offer is still easy to change.
 
 ## What has to change for your company
 
@@ -59,7 +66,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 FullyPowered AI wrote this workflow template, and it was editorially reviewed on 9 November 2026. That day it was tried in Claude on its invented example, revised, then tried a second time; the record of the second run is published with the template, and a few small clarifications were made to the instructions after it. It has not been tested in a client environment yet, nor as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on an offer your team already knows well, plus hard cases written in advance, each with its expected behavior: a guarantee your terms do not hold, a "limited spots" line with no real limit, an export whose columns do not match, a request for a discount. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) shows the record.
+Testing in your environment means running it on an offer your team already knows well, plus hard cases written in advance, each with its expected behavior: a guarantee your terms do not hold, a "limited spots" line with no real limit, an export whose columns do not match, a request for a discount. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-offer-review&from=gh-marketing-offer-review) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-offer-review&from=gh-marketing-offer-review) shows the record.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -86,10 +93,10 @@ Testing in your environment means running it on an offer your team already knows
 
 ## Related workflow templates
 
-- [Objection answers and sales one-pager](https://fullypowered.ai/workflows/objection-answers-and-sales-one-pager/)
+- [Objection answers and sales one-pager](https://fullypowered.ai/workflows/objection-answers-and-sales-one-pager/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-offer-review&from=gh-marketing-offer-review)
 - [Customer interview synthesis](../customer-interview-synthesis/)
 - [Competitor profile from public pages](../competitor-profile-from-public-pages/)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-offer-review&from=gh-marketing-offer-review).

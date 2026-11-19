@@ -1,10 +1,17 @@
 # Referral programme design
 
-Turn the recommendations your work already earns into a habit: when to ask, who on your own list to ask first and for what, what you give back, the words for each ask and the note an introducer forwards, and how every introduction is recorded. You send each message yourself.
+Turn the recommendations your work already earns into a habit: who to ask first, the words for each ask and how to record introductions. You send each one.
 
-*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/referral-programme-design/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Referral programme design on our website](https://fullypowered.ai/workflows/referral-programme-design/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-referral-programme-design&from=gh-marketing-referral-programme-design) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/referral-programme-design/?from=gh-marketing-referral-programme-design)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/referral-programme-design/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-referral-programme-design&from=gh-marketing-referral-programme-design)*
 
 ## The outcome
 
@@ -41,10 +48,10 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Professional services](https://fullypowered.ai/industries/professional-services/), where most new clients come through someone who has seen the work.
-- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/), where recommendations bring in new clients and rarely get a plan of their own.
-- [Customer success and account management](https://fullypowered.ai/functions/customer-success-and-account-management/), which knows when a client is pleased and when the work is in use.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), with years of goodwill that has never been asked to do any work.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-referral-programme-design&from=gh-marketing-referral-programme-design), where most new clients come through someone who has seen the work.
+- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-referral-programme-design&from=gh-marketing-referral-programme-design), where recommendations bring in new clients and rarely get a plan of their own.
+- [Customer success and account management](https://fullypowered.ai/functions/customer-success-and-account-management/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-referral-programme-design&from=gh-marketing-referral-programme-design), which knows when a client is pleased and when the work is in use.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-referral-programme-design&from=gh-marketing-referral-programme-design), with years of goodwill that has never been asked to do any work.
 
 ## What has to change for your company
 
@@ -58,7 +65,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 9 November 2026. It was tried on its invented example in Claude on 9 November 2026, revised and tried again the same day, and the record of the second run is published with the template; that second run was made by the model that wrote the revision, so it is not independent. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on your own list with cases written in advance: a client whose work is not yet live, a former client who left unhappy, a header that does not match, a row with your summary and no quotation. The owner checks every name and quotation against the list before anything is sent. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on your own list with cases written in advance: a client whose work is not yet live, a former client who left unhappy, a header that does not match, a row with your summary and no quotation. The owner checks every name and quotation against the list before anything is sent. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-referral-programme-design&from=gh-marketing-referral-programme-design) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-referral-programme-design&from=gh-marketing-referral-programme-design) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -85,10 +92,10 @@ Testing in your environment means running it on your own list with cases written
 
 ## Related workflow templates
 
-- [Cold outreach sequence drafting](https://fullypowered.ai/workflows/cold-outreach-sequence-drafting/)
-- [Client-status update preparation](https://fullypowered.ai/workflows/client-status-update-preparation/)
+- [Cold outreach sequence drafting](https://fullypowered.ai/workflows/cold-outreach-sequence-drafting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-referral-programme-design&from=gh-marketing-referral-programme-design)
+- [Client-status update preparation](https://fullypowered.ai/workflows/client-status-update-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-referral-programme-design&from=gh-marketing-referral-programme-design)
 - [Customer interview synthesis](../customer-interview-synthesis/)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-referral-programme-design&from=gh-marketing-referral-programme-design).

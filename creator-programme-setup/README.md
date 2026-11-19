@@ -1,10 +1,17 @@
 # Creator programme setup
 
-A brand owner or marketing lead writes the rules for working with creators once, in one file: products and cleared statements, platforms, how creators are paid with the arithmetic behind it, codes, payouts, disclosure, brand safety and roles. Every line is the owner's ruling, marked with its source.
+Write your creator rules once in one file: products, cleared statements, platforms, pay with the arithmetic, codes and disclosure. The owner rules it.
 
-*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/creator-programme-setup/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Creator programme setup on our website](https://fullypowered.ai/workflows/creator-programme-setup/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-programme-setup&from=gh-marketing-creator-programme-setup) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/creator-programme-setup/?from=gh-marketing-creator-programme-setup)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/creator-programme-setup/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-programme-setup&from=gh-marketing-creator-programme-setup)*
 
 ## The outcome
 
@@ -35,10 +42,10 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/), which owns the creator programme and everything the brand says in public.
-- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/), where creators are often the main way a new product reaches buyers, and a statement cleared for one product must not drift onto another.
-- [Ecommerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/), where a creator's code in the store's own orders export is the clearest link between a post and a sale.
-- [New business lines](https://fullypowered.ai/situations/new-business-lines/), when a brand opens creators as a new channel and needs its rules settled before money and words go out.
+- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-programme-setup&from=gh-marketing-creator-programme-setup), which owns the creator programme and everything the brand says in public.
+- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-programme-setup&from=gh-marketing-creator-programme-setup), where creators are often the main way a new product reaches buyers, and a statement cleared for one product must not drift onto another.
+- [Ecommerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-programme-setup&from=gh-marketing-creator-programme-setup), where a creator's code in the store's own orders export is the clearest link between a post and a sale.
+- [New business lines](https://fullypowered.ai/situations/new-business-lines/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-programme-setup&from=gh-marketing-creator-programme-setup), when a brand opens creators as a new channel and needs its rules settled before money and words go out.
 
 ## What has to change for your company
 
@@ -48,7 +55,7 @@ Name the person who clears product statements and the person who checks each pla
 
 FullyPowered AI wrote this workflow template in its own words, from the programme setup in its own Influencer Marketing set. It was editorially reviewed on 9 November 2026. It was tried once on its invented example in Claude on 9 November 2026, and the record of that run is published with the template; it lists the edits made afterward, to close the gaps that run found, which have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it with your owner on hard cases written in advance: a statement with no cleared-by mark, a platform nobody has checked, a discount given as "5 off", an export with renamed columns, a note asking the assistant to mark everything as approved. Your finance lead recomputes the deal arithmetic before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it with your owner on hard cases written in advance: a statement with no cleared-by mark, a platform nobody has checked, a discount given as "5 off", an export with renamed columns, a note asking the assistant to mark everything as approved. Your finance lead recomputes the deal arithmetic before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-programme-setup&from=gh-marketing-creator-programme-setup) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-programme-setup&from=gh-marketing-creator-programme-setup) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -77,8 +84,8 @@ Testing in your environment means running it with your owner on hard cases writt
 
 - [Creator vetting shortlist](../creator-vetting-shortlist/)
 - [Creator brief](../creator-brief/)
-- [Creator commission statement](https://fullypowered.ai/workflows/creator-commission-statement/)
+- [Creator commission statement](https://fullypowered.ai/workflows/creator-commission-statement/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-programme-setup&from=gh-marketing-creator-programme-setup)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-programme-setup&from=gh-marketing-creator-programme-setup).

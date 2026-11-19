@@ -1,10 +1,17 @@
 # Creator outreach drafting
 
-A brand marketer gets a first message and three follow-ups for each chosen creator, written for the way that creator can be reached, opening on something they made and stating only the brand's standard offer. A person reads every message and sends it from the brand's own account.
+Get a first message and three follow-ups for each chosen creator, opening on their own work and stating only your standard offer. A person sends each one.
 
-*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/creator-outreach-drafting/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Creator outreach drafting on our website](https://fullypowered.ai/workflows/creator-outreach-drafting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-outreach-drafting&from=gh-marketing-creator-outreach-drafting) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/creator-outreach-drafting/?from=gh-marketing-creator-outreach-drafting)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/creator-outreach-drafting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-outreach-drafting&from=gh-marketing-creator-outreach-drafting)*
 
 ## The outcome
 
@@ -35,12 +42,12 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/), which runs the creator programme and decides who the brand approaches and what it offers.
-- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/), where creators are often the first place a new buyer meets the product, and a careless first note costs the relationship.
-- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/), where creators earn on orders placed with their own code and the offer has to be stated the same way to everyone.
-- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/), where an agency approaches creators on a client's behalf and must keep to the client's offer.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when a programme grows from a handful of creators to dozens and hand-written notes start to drift.
-- [Startups & new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/), when a founder does the outreach personally and wants every note to read as carefully written.
+- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-outreach-drafting&from=gh-marketing-creator-outreach-drafting), which runs the creator programme and decides who the brand approaches and what it offers.
+- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-outreach-drafting&from=gh-marketing-creator-outreach-drafting), where creators are often the first place a new buyer meets the product, and a careless first note costs the relationship.
+- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-outreach-drafting&from=gh-marketing-creator-outreach-drafting), where creators earn on orders placed with their own code and the offer has to be stated the same way to everyone.
+- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-outreach-drafting&from=gh-marketing-creator-outreach-drafting), where an agency approaches creators on a client's behalf and must keep to the client's offer.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-outreach-drafting&from=gh-marketing-creator-outreach-drafting), when a programme grows from a handful of creators to dozens and hand-written notes start to drift.
+- [Startups & new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-outreach-drafting&from=gh-marketing-creator-outreach-drafting), when a founder does the outreach personally and wants every note to read as carefully written.
 
 ## What has to change for your company
 
@@ -50,7 +57,7 @@ Write down your standard offer and name who approves anything beyond it; the wor
 
 FullyPowered AI wrote this workflow template in its own words, from the creator outreach method in its own Influencer Marketing set. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 10 November 2026 in Claude. The record published with it is of one fresh run, made by an independent reviewer on the template as it now stands, and it lists every difference from the example. An earlier run the same day led to two changes, which the record names: one note on the output format was made clearer, and one message in the example was reordered to follow the instructions. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a past campaign your team remembers, with hard cases written in advance: a creator who asked not to be contacted, a list note asking for a fee, a follow-up fact that is really a payment term, a creator with no post named. The sender checks every opener against the creator's real post before anything goes out. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on a past campaign your team remembers, with hard cases written in advance: a creator who asked not to be contacted, a list note asking for a fee, a follow-up fact that is really a payment term, a creator with no post named. The sender checks every opener against the creator's real post before anything goes out. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-outreach-drafting&from=gh-marketing-creator-outreach-drafting) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-outreach-drafting&from=gh-marketing-creator-outreach-drafting) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -79,8 +86,8 @@ Testing in your environment means running it on a past campaign your team rememb
 
 - [Creator vetting shortlist](../creator-vetting-shortlist/)
 - [Creator brief](../creator-brief/)
-- [Cold outreach sequence drafting](https://fullypowered.ai/workflows/cold-outreach-sequence-drafting/)
+- [Cold outreach sequence drafting](https://fullypowered.ai/workflows/cold-outreach-sequence-drafting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-outreach-drafting&from=gh-marketing-creator-outreach-drafting)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-outreach-drafting&from=gh-marketing-creator-outreach-drafting).

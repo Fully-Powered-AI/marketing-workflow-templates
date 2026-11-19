@@ -1,10 +1,17 @@
 # Launch checklist
 
-Whoever owns a launch date gets one dated checklist for the weeks before, the day itself and the weeks after, with an owner on every line. Each announcement is written out so the approver sees exactly what goes out, to whom and from where before saying go. Nothing is announced by the assistant.
+Get one dated launch checklist for before, the day and after, with an owner on every line. Each announcement is spelled out for a person to approve.
 
-*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/launch-checklist/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Launch checklist on our website](https://fullypowered.ai/workflows/launch-checklist/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-launch-checklist&from=gh-marketing-launch-checklist) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/launch-checklist/?from=gh-marketing-launch-checklist)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/launch-checklist/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-launch-checklist&from=gh-marketing-launch-checklist)*
 
 ## The outcome
 
@@ -46,13 +53,13 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/), which owns the announcement, the channels and the drafts.
-- [Project and delivery](https://fullypowered.ai/functions/project-and-delivery/), because a launch is a short project with a fixed date, and each line needs an owner.
-- [Professional services](https://fullypowered.ai/industries/professional-services/), where a new service is launched to clients, past enquiries and the partners who refer work.
-- [Software technology](https://fullypowered.ai/industries/software-technology/), where new features and plans ship often and each deserves the right size of launch.
-- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/), where a new range or offer goes live on a page that has to work on a phone.
-- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/), where a new product reaches customers through your own list and through other people's audiences.
-- [New business lines](https://fullypowered.ai/situations/new-business-lines/), when a business takes something new to market for the first time.
+- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-launch-checklist&from=gh-marketing-launch-checklist), which owns the announcement, the channels and the drafts.
+- [Project and delivery](https://fullypowered.ai/functions/project-and-delivery/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-launch-checklist&from=gh-marketing-launch-checklist), because a launch is a short project with a fixed date, and each line needs an owner.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-launch-checklist&from=gh-marketing-launch-checklist), where a new service is launched to clients, past enquiries and the partners who refer work.
+- [Software technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-launch-checklist&from=gh-marketing-launch-checklist), where new features and plans ship often and each deserves the right size of launch.
+- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-launch-checklist&from=gh-marketing-launch-checklist), where a new range or offer goes live on a page that has to work on a phone.
+- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-launch-checklist&from=gh-marketing-launch-checklist), where a new product reaches customers through your own list and through other people's audiences.
+- [New business lines](https://fullypowered.ai/situations/new-business-lines/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-launch-checklist&from=gh-marketing-launch-checklist), when a business takes something new to market for the first time.
 
 ## What has to change for your company
 
@@ -67,7 +74,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 9 November 2026. It was tried once on its invented example in Claude on 9 November 2026, and the record of that run is published with the template; the template and example were edited after the run, and the record lists the edits. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a launch your team remembers well, plus hard cases written in advance, each with its expected behavior: a step that lands on a closed day, a launch with no date yet, an audience list with different column names, a request to send the email on the day. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) shows the record.
+Testing in your environment means running it on a launch your team remembers well, plus hard cases written in advance, each with its expected behavior: a step that lands on a closed day, a launch with no date yet, an audience list with different column names, a request to send the email on the day. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-launch-checklist&from=gh-marketing-launch-checklist) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-launch-checklist&from=gh-marketing-launch-checklist) shows the record.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -94,10 +101,10 @@ Testing in your environment means running it on a launch your team remembers wel
 
 ## Related workflow templates
 
-- [Cold outreach sequence drafting](https://fullypowered.ai/workflows/cold-outreach-sequence-drafting/)
-- [Objection answers and sales one-pager](https://fullypowered.ai/workflows/objection-answers-and-sales-one-pager/)
+- [Cold outreach sequence drafting](https://fullypowered.ai/workflows/cold-outreach-sequence-drafting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-launch-checklist&from=gh-marketing-launch-checklist)
+- [Objection answers and sales one-pager](https://fullypowered.ai/workflows/objection-answers-and-sales-one-pager/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-launch-checklist&from=gh-marketing-launch-checklist)
 - [Competitor profile from public pages](../competitor-profile-from-public-pages/)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-launch-checklist&from=gh-marketing-launch-checklist).

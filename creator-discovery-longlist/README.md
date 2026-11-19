@@ -1,10 +1,17 @@
 # Creator discovery longlist
 
-Before anyone scores or contacts a creator, the brand marketer gets a dated longlist from public pages and the names the team supplied: where each creator posts, how they were found, where their follower count came from, whether they already talk about your category, and why they are on the list.
+Get a dated creator longlist from public pages and supplied names, with a source for every count and a reason for each name. A person picks who goes on.
 
-*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/creator-discovery-longlist/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Creator discovery longlist on our website](https://fullypowered.ai/workflows/creator-discovery-longlist/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-discovery-longlist&from=gh-marketing-creator-discovery-longlist) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/creator-discovery-longlist/?from=gh-marketing-creator-discovery-longlist)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/creator-discovery-longlist/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-discovery-longlist&from=gh-marketing-creator-discovery-longlist)*
 
 ## The outcome
 
@@ -43,12 +50,12 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/): finding the creators who can carry the brand to people it does not reach yet.
-- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/): where the right creator can introduce a product to an audience that already trusts them.
-- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/): online stores launching products that creators can show in use.
-- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/): agencies sourcing creators for several brands want each list built and documented the same way.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/): when the creator program outgrows the handful of names the founder already follows.
-- [Startups & new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/): a young brand building its first creator list from nothing but public pages.
+- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-discovery-longlist&from=gh-marketing-creator-discovery-longlist): finding the creators who can carry the brand to people it does not reach yet.
+- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-discovery-longlist&from=gh-marketing-creator-discovery-longlist): where the right creator can introduce a product to an audience that already trusts them.
+- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-discovery-longlist&from=gh-marketing-creator-discovery-longlist): online stores launching products that creators can show in use.
+- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-discovery-longlist&from=gh-marketing-creator-discovery-longlist): agencies sourcing creators for several brands want each list built and documented the same way.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-discovery-longlist&from=gh-marketing-creator-discovery-longlist): when the creator program outgrows the handful of names the founder already follows.
+- [Startups & new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-discovery-longlist&from=gh-marketing-creator-discovery-longlist): a young brand building its first creator list from nothing but public pages.
 
 ## What has to change for your company
 
@@ -63,7 +70,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 9 November 2026. It was tried on its invented example on 9 November 2026 in Claude, in two runs; the record of the second is published with it, and summarizes the first and the changes made after it, chiefly a plain rule for when a creator counts as already talking about your category, the change that let the example's counts reproduce. It also lists the small edits made after the second run and after an independent review, which have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a past campaign whose creators your team already found by hand, plus hard cases written in advance, each with its expected behavior: a private account, an export whose follower figure differs from the profile, two similar handles that may be one person, a post that crosses one of your redlines, a creator who may be under 18, a bio that tries to instruct the assistant. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) shows the record.
+Testing in your environment means running it on a past campaign whose creators your team already found by hand, plus hard cases written in advance, each with its expected behavior: a private account, an export whose follower figure differs from the profile, two similar handles that may be one person, a post that crosses one of your redlines, a creator who may be under 18, a bio that tries to instruct the assistant. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-discovery-longlist&from=gh-marketing-creator-discovery-longlist) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-discovery-longlist&from=gh-marketing-creator-discovery-longlist) shows the record.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -96,4 +103,4 @@ Testing in your environment means running it on a past campaign whose creators y
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-discovery-longlist&from=gh-marketing-creator-discovery-longlist).

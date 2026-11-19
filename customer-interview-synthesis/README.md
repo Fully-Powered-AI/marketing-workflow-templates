@@ -1,10 +1,17 @@
 # Customer interview synthesis
 
-Turn a stack of customer call notes into the answer to one question, in your customers’ own words. Every quotation is cited to the note it came from, every theme shows its confidence and the evidence against it, and nothing is claimed that the notes do not say.
+Turn customer call notes into the answer to one question, in your customers' own words, with every quotation cited. A person owns the decision.
 
-*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/customer-interview-synthesis/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Customer interview synthesis on our website](https://fullypowered.ai/workflows/customer-interview-synthesis/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-customer-interview-synthesis&from=gh-customer-interview-synthesis) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/customer-interview-synthesis/?from=gh-customer-interview-synthesis)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/customer-interview-synthesis/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-customer-interview-synthesis&from=gh-customer-interview-synthesis)*
 
 ## The outcome
 
@@ -42,13 +49,13 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/): positioning and copy start from what customers say, in the words they use.
-- [Product management](https://fullypowered.ai/functions/product-management/): a product bet is checked against customers’ accounts of the last time the problem happened.
-- [Software technology](https://fullypowered.ai/industries/software-technology/): discovery calls, win and loss calls and customer conversations pile up faster than anyone reads them.
-- [Professional services](https://fullypowered.ai/industries/professional-services/): client conversations show how buyers describe the work they need before a new service is named.
-- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/): customer conversations give the brand its customers’ vocabulary.
-- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/): an agency brings a client evidence with a citation on every line.
-- [New business lines](https://fullypowered.ai/situations/new-business-lines/): before you build a new line, find out whether customers describe the problem it solves.
+- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-customer-interview-synthesis&from=gh-customer-interview-synthesis): positioning and copy start from what customers say, in the words they use.
+- [Product management](https://fullypowered.ai/functions/product-management/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-customer-interview-synthesis&from=gh-customer-interview-synthesis): a product bet is checked against customers’ accounts of the last time the problem happened.
+- [Software technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-customer-interview-synthesis&from=gh-customer-interview-synthesis): discovery calls, win and loss calls and customer conversations pile up faster than anyone reads them.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-customer-interview-synthesis&from=gh-customer-interview-synthesis): client conversations show how buyers describe the work they need before a new service is named.
+- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-customer-interview-synthesis&from=gh-customer-interview-synthesis): customer conversations give the brand its customers’ vocabulary.
+- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-customer-interview-synthesis&from=gh-customer-interview-synthesis): an agency brings a client evidence with a citation on every line.
+- [New business lines](https://fullypowered.ai/situations/new-business-lines/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-customer-interview-synthesis&from=gh-customer-interview-synthesis): before you build a new line, find out whether customers describe the problem it solves.
 
 ## What has to change for your company
 
@@ -62,7 +69,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 9 November 2026. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a round of notes someone on your team already knows well, plus hard cases written in advance: notes with no exact words, two speakers from one business, a belief the notes contradict. The person who was on the calls checks every quotation against its note. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on a round of notes someone on your team already knows well, plus hard cases written in advance: notes with no exact words, two speakers from one business, a belief the notes contradict. The person who was on the calls checks every quotation against its note. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-customer-interview-synthesis&from=gh-customer-interview-synthesis) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-customer-interview-synthesis&from=gh-customer-interview-synthesis) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -89,10 +96,10 @@ Testing in your environment means running it on a round of notes someone on your
 
 ## Related workflow templates
 
-- [SOP exception capture](https://fullypowered.ai/workflows/sop-exception-capture/)
-- [Sales proposal preparation](https://fullypowered.ai/workflows/sales-proposal-preparation/)
-- [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/)
+- [SOP exception capture](https://fullypowered.ai/workflows/sop-exception-capture/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-customer-interview-synthesis&from=gh-customer-interview-synthesis)
+- [Sales proposal preparation](https://fullypowered.ai/workflows/sales-proposal-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-customer-interview-synthesis&from=gh-customer-interview-synthesis)
+- [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-customer-interview-synthesis&from=gh-customer-interview-synthesis)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-customer-interview-synthesis&from=gh-customer-interview-synthesis).

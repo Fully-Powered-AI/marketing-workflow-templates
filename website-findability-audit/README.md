@@ -1,10 +1,17 @@
 # Website findability audit
 
-An owner or marketer asking why the website is not found gets a plain report from saved copies of their own pages: what stops each page being reached, read or understood, the fixes in order, and the checks only a live look can settle. No ranking is promised.
+From saved copies of your own pages, get a plain report of what stops each page being found, with fixes in order. No ranking is promised.
 
-*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/website-findability-audit/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Website findability audit on our website](https://fullypowered.ai/workflows/website-findability-audit/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-website-findability-audit&from=gh-marketing-website-findability-audit) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/website-findability-audit/?from=gh-marketing-website-findability-audit)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/website-findability-audit/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-website-findability-audit&from=gh-marketing-website-findability-audit)*
 
 ## The outcome
 
@@ -46,13 +53,13 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/): the groundwork under every page you write, so the pages you have can be found and understood.
-- [Analytics and reporting](https://fullypowered.ai/functions/analytics-and-reporting/): a dated, repeatable record of what the pages say, to set beside what your search tools report.
-- [Professional services](https://fullypowered.ai/industries/professional-services/): clients search for a firm by what it does and where, and the website has to answer both plainly.
-- [Construction](https://fullypowered.ai/industries/construction/): contractors win work from people searching for a job in their town, so every service page has to be reachable and say where you work.
-- [Hospitality](https://fullypowered.ai/industries/hospitality/): hours, location and booking details have to match on every page and every listing.
-- [Real estate](https://fullypowered.ai/industries/real-estate/): area and service pages carry the business, and each needs to be found on its own.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/): a site built years ago, edited by several people since, collects the quiet faults this report finds.
+- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-website-findability-audit&from=gh-marketing-website-findability-audit): the groundwork under every page you write, so the pages you have can be found and understood.
+- [Analytics and reporting](https://fullypowered.ai/functions/analytics-and-reporting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-website-findability-audit&from=gh-marketing-website-findability-audit): a dated, repeatable record of what the pages say, to set beside what your search tools report.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-website-findability-audit&from=gh-marketing-website-findability-audit): clients search for a firm by what it does and where, and the website has to answer both plainly.
+- [Construction](https://fullypowered.ai/industries/construction/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-website-findability-audit&from=gh-marketing-website-findability-audit): contractors win work from people searching for a job in their town, so every service page has to be reachable and say where you work.
+- [Hospitality](https://fullypowered.ai/industries/hospitality/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-website-findability-audit&from=gh-marketing-website-findability-audit): hours, location and booking details have to match on every page and every listing.
+- [Real estate](https://fullypowered.ai/industries/real-estate/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-website-findability-audit&from=gh-marketing-website-findability-audit): area and service pages carry the business, and each needs to be found on its own.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-website-findability-audit&from=gh-marketing-website-findability-audit): a site built years ago, edited by several people since, collects the quiet faults this report finds.
 
 ## What has to change for your company
 
@@ -67,7 +74,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 9 November 2026. It was tried once on its invented example on 9 November 2026, in Claude; the record of that run is published with it. The record says plainly that the run was not blind to the published example output, so a blind run is still to do. Edits made after an independent review that day, which bring the example into line with what the run found, have not been run again; the record lists them. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a site your team knows well, plus hard cases written in advance, each with its expected behavior: a noindex tag left on a service page, the same wrong canonical on several pages, a phone number that differs between pages, a hidden line aimed at AI assistants, a request to predict a ranking. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) shows the record.
+Testing in your environment means running it on a site your team knows well, plus hard cases written in advance, each with its expected behavior: a noindex tag left on a service page, the same wrong canonical on several pages, a phone number that differs between pages, a hidden line aimed at AI assistants, a request to predict a ranking. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-website-findability-audit&from=gh-marketing-website-findability-audit) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-website-findability-audit&from=gh-marketing-website-findability-audit) shows the record.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -94,11 +101,11 @@ Testing in your environment means running it on a site your team knows well, plu
 
 ## Related workflow templates
 
-- [AI visibility audit for an online store](https://fullypowered.ai/workflows/ai-visibility-audit-for-an-online-store/)
+- [AI visibility audit for an online store](https://fullypowered.ai/workflows/ai-visibility-audit-for-an-online-store/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-website-findability-audit&from=gh-marketing-website-findability-audit)
 - [Competitor profile from public pages](../competitor-profile-from-public-pages/)
 - [Customer interview synthesis](../customer-interview-synthesis/)
 - [Recorded sessions into articles](../recorded-sessions-into-articles/)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-website-findability-audit&from=gh-marketing-website-findability-audit).

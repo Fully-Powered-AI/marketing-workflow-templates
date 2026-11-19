@@ -1,10 +1,17 @@
 # Affiliate onboarding
 
-A programme owner brings a new affiliate or creator in: the code and link the store gave are checked against the programme rules and a test at checkout, then a welcome pack and a dated first-weeks checklist are prepared. A person sends, creates and pays.
+Check a new creator's code and link against your programme rules, then get a welcome pack and a dated first-weeks checklist. A person sends and pays.
 
-*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/affiliate-onboarding/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Affiliate onboarding on our website](https://fullypowered.ai/workflows/affiliate-onboarding/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-affiliate-onboarding&from=gh-marketing-affiliate-onboarding) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/affiliate-onboarding/?from=gh-marketing-affiliate-onboarding)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/affiliate-onboarding/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-affiliate-onboarding&from=gh-marketing-affiliate-onboarding)*
 
 ## The outcome
 
@@ -35,22 +42,22 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/), which runs the creator programme and owns every word that goes to a creator.
-- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/), where creators are a main route to new buyers and each new partner should start on exactly the same terms as the last.
-- [Ecommerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/), where a code entered at checkout is the clearest record of which creator brought a sale.
-- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/), where an agency runs a client's creator programme and needs every onboarding to be consistent and checkable.
-- [Growth and scaling](https://fullypowered.ai/situations/growth-and-scaling/), when new creators arrive faster than one person can onboard them carefully by hand.
-- [New business lines](https://fullypowered.ai/situations/new-business-lines/), when a brand opens creators as a channel and the first partners set the pattern.
+- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-affiliate-onboarding&from=gh-marketing-affiliate-onboarding), which runs the creator programme and owns every word that goes to a creator.
+- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-affiliate-onboarding&from=gh-marketing-affiliate-onboarding), where creators are a main route to new buyers and each new partner should start on exactly the same terms as the last.
+- [Ecommerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-affiliate-onboarding&from=gh-marketing-affiliate-onboarding), where a code entered at checkout is the clearest record of which creator brought a sale.
+- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-affiliate-onboarding&from=gh-marketing-affiliate-onboarding), where an agency runs a client's creator programme and needs every onboarding to be consistent and checkable.
+- [Growth and scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-affiliate-onboarding&from=gh-marketing-affiliate-onboarding), when new creators arrive faster than one person can onboard them carefully by hand.
+- [New business lines](https://fullypowered.ai/situations/new-business-lines/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-affiliate-onboarding&from=gh-marketing-affiliate-onboarding), when a brand opens creators as a channel and the first partners set the pattern.
 
 ## What has to change for your company
 
-Write your programme rules first; this workflow template reads them and sets none of its own. The [creator programme setup](https://fullypowered.ai/workflows/creator-programme-setup/) workflow template prepares them with your owner. Name who makes codes and runs the checkout test, who sends the pack, who keeps the roster and who pays. Write the fixed sentences of the pack once in your own voice. Set the timing of the first-weeks checks. Keep the brief separate: the [creator brief](https://fullypowered.ai/workflows/creator-brief/) carries what a creator may say about your products, and the [creator commission statement](https://fullypowered.ai/workflows/creator-commission-statement/) works out what they are owed later. Your adviser handles the creator agreement itself. It runs in ChatGPT, Claude, Copilot or Gemini from files and notes you supply, with no access to your store, your affiliate tool or your bank.
+Write your programme rules first; this workflow template reads them and sets none of its own. The [creator programme setup](https://fullypowered.ai/workflows/creator-programme-setup/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-affiliate-onboarding&from=gh-marketing-affiliate-onboarding) workflow template prepares them with your owner. Name who makes codes and runs the checkout test, who sends the pack, who keeps the roster and who pays. Write the fixed sentences of the pack once in your own voice. Set the timing of the first-weeks checks. Keep the brief separate: the [creator brief](https://fullypowered.ai/workflows/creator-brief/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-affiliate-onboarding&from=gh-marketing-affiliate-onboarding) carries what a creator may say about your products, and the [creator commission statement](https://fullypowered.ai/workflows/creator-commission-statement/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-affiliate-onboarding&from=gh-marketing-affiliate-onboarding) works out what they are owed later. Your adviser handles the creator agreement itself. It runs in ChatGPT, Claude, Copilot or Gemini from files and notes you supply, with no access to your store, your affiliate tool or your bank.
 
 ## What has been checked
 
 FullyPowered AI wrote this workflow template in its own words, from the affiliate onboarding work in its own Influencer Marketing set. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 9 November 2026 in two runs, the second after the first review's changes; the record of the second is published with it, and lists the small edit made afterward that has not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on past onboardings your programme owner remembers, plus hard cases written in advance: a code that matches an old ended one, a link with nothing that names the creator, a checkout that showed the wrong discount, a codes export with renamed columns, a request to add a product claim. Your programme owner checks every figure against the rules before a pack goes out. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on past onboardings your programme owner remembers, plus hard cases written in advance: a code that matches an old ended one, a link with nothing that names the creator, a checkout that showed the wrong discount, a codes export with renamed columns, a request to add a product claim. Your programme owner checks every figure against the rules before a pack goes out. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-affiliate-onboarding&from=gh-marketing-affiliate-onboarding) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-affiliate-onboarding&from=gh-marketing-affiliate-onboarding) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -80,8 +87,8 @@ Testing in your environment means running it on past onboardings your programme 
 - [Creator programme setup](../creator-programme-setup/)
 - [Creator roster](../creator-roster/)
 - [Creator brief](../creator-brief/)
-- [Creator commission statement](https://fullypowered.ai/workflows/creator-commission-statement/)
+- [Creator commission statement](https://fullypowered.ai/workflows/creator-commission-statement/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-affiliate-onboarding&from=gh-marketing-affiliate-onboarding)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-affiliate-onboarding&from=gh-marketing-affiliate-onboarding).

@@ -1,10 +1,17 @@
 # Event plan
 
-Whoever owns one event, a talk, a dinner, a webinar or a stand, gets one plan: the goal and target, who should be in the room, every step before, on and after the day with a date and an owner, and how each conversation is followed up. Nothing is booked, paid or sent by the assistant.
+Get one plan for a talk, dinner, webinar or stand: the goal, every step with a date and an owner, and follow-up. A person approves; nothing is booked.
 
-*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/event-plan/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Event plan on our website](https://fullypowered.ai/workflows/event-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-event-plan&from=gh-marketing-event-plan) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/event-plan/?from=gh-marketing-event-plan)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/event-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-event-plan&from=gh-marketing-event-plan)*
 
 ## The outcome
 
@@ -46,13 +53,13 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/), which owns the events a business shows up at and what it says there.
-- [Sales](https://fullypowered.ai/functions/sales/), because an event is worth what its conversations turn into, and the follow-up is where that happens.
-- [Professional services](https://fullypowered.ai/industries/professional-services/), where partners speak at association meetings and host small dinners for clients and referrers.
-- [Software technology](https://fullypowered.ai/industries/software-technology/), where webinars, meetups and conference stands are a regular part of finding buyers.
-- [Nonprofits](https://fullypowered.ai/industries/nonprofits/), where a supporters' breakfast or a talk to a community group is how relationships start.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when events move from the founder's diary to a team that needs one plan.
-- [Startups & new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/), when a founder's time at events is one of the few ways to meet buyers face to face.
+- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-event-plan&from=gh-marketing-event-plan), which owns the events a business shows up at and what it says there.
+- [Sales](https://fullypowered.ai/functions/sales/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-event-plan&from=gh-marketing-event-plan), because an event is worth what its conversations turn into, and the follow-up is where that happens.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-event-plan&from=gh-marketing-event-plan), where partners speak at association meetings and host small dinners for clients and referrers.
+- [Software technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-event-plan&from=gh-marketing-event-plan), where webinars, meetups and conference stands are a regular part of finding buyers.
+- [Nonprofits](https://fullypowered.ai/industries/nonprofits/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-event-plan&from=gh-marketing-event-plan), where a supporters' breakfast or a talk to a community group is how relationships start.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-event-plan&from=gh-marketing-event-plan), when events move from the founder's diary to a team that needs one plan.
+- [Startups & new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-event-plan&from=gh-marketing-event-plan), when a founder's time at events is one of the few ways to meet buyers face to face.
 
 ## What has to change for your company
 
@@ -67,7 +74,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 9 November 2026. It was tried on its invented example in Claude on 9 November 2026, and the record of that run is published with the template. A first run that day found gaps; the template and example were edited and the run was repeated on the edited version, and the record lists the edits. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on an event your team remembers well, plus hard cases written in advance, each with its expected behavior: a deadline that lands on a closed day, an organiser who gives a headcount with no breakdown, a guest list with different column names, a request to send the invitations. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) shows the record.
+Testing in your environment means running it on an event your team remembers well, plus hard cases written in advance, each with its expected behavior: a deadline that lands on a closed day, an organiser who gives a headcount with no breakdown, a guest list with different column names, a request to send the invitations. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-event-plan&from=gh-marketing-event-plan) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-event-plan&from=gh-marketing-event-plan) shows the record.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -96,8 +103,8 @@ Testing in your environment means running it on an event your team remembers wel
 
 - [Launch checklist](../launch-checklist/)
 - [Email sequence drafting](../email-sequence-drafting/)
-- [Sales call preparation brief](https://fullypowered.ai/workflows/sales-call-preparation-brief/)
+- [Sales call preparation brief](https://fullypowered.ai/workflows/sales-call-preparation-brief/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-event-plan&from=gh-marketing-event-plan)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-event-plan&from=gh-marketing-event-plan).

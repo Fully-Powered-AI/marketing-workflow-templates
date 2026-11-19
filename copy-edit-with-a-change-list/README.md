@@ -1,10 +1,17 @@
 # Copy edit with a change list
 
-Hand over a page, an email or a brochure and get it back plainer and tighter, with no claim stronger than the statements you can support and a change list that shows every edit, its reason and any meaning it moved. You approve each change before the copy is used.
+Get a page, email or brochure back plainer, with no claim stronger than you can support and a change list of every edit. You approve each change.
 
-*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/copy-edit-with-a-change-list/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Copy edit with a change list on our website](https://fullypowered.ai/workflows/copy-edit-with-a-change-list/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-copy-edit-with-a-change-list&from=gh-copy-edit-with-a-change-list) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/copy-edit-with-a-change-list/?from=gh-copy-edit-with-a-change-list)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/copy-edit-with-a-change-list/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-copy-edit-with-a-change-list&from=gh-copy-edit-with-a-change-list)*
 
 ## The outcome
 
@@ -43,12 +50,12 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/): every page, email and brochure passes through someone who has to approve it.
-- [Professional services](https://fullypowered.ai/industries/professional-services/): a firm's pages make promises about service and people that partners must be able to stand behind.
-- [Software technology](https://fullypowered.ai/industries/software-technology/): product pages drift ahead of the product itself, and a change list shows exactly where.
-- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/): an agency hands its client edited copy with a record of every change, ready for sign-off.
-- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/): claims about products and ingredients stay inside what the brand can show.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/): years of pages and brochures need refreshing without anyone quietly raising the claims.
+- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-copy-edit-with-a-change-list&from=gh-copy-edit-with-a-change-list): every page, email and brochure passes through someone who has to approve it.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-copy-edit-with-a-change-list&from=gh-copy-edit-with-a-change-list): a firm's pages make promises about service and people that partners must be able to stand behind.
+- [Software technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-copy-edit-with-a-change-list&from=gh-copy-edit-with-a-change-list): product pages drift ahead of the product itself, and a change list shows exactly where.
+- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-copy-edit-with-a-change-list&from=gh-copy-edit-with-a-change-list): an agency hands its client edited copy with a record of every change, ready for sign-off.
+- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-copy-edit-with-a-change-list&from=gh-copy-edit-with-a-change-list): claims about products and ingredients stay inside what the brand can show.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-copy-edit-with-a-change-list&from=gh-copy-edit-with-a-change-list): years of pages and brochures need refreshing without anyone quietly raising the claims.
 
 ## What has to change for your company
 
@@ -63,7 +70,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 9 November 2026. It was tried on its invented example on 9 November 2026 in two runs; the record of the second, made on the revised instructions, is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on copy your approver already knows well, plus hard cases written in advance: a figure larger than your records show, a guarantee your list forbids, a comment in the draft asking for a bigger number. The approver checks every claim in the edited copy against the statements list before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on copy your approver already knows well, plus hard cases written in advance: a figure larger than your records show, a guarantee your list forbids, a comment in the draft asking for a bigger number. The approver checks every claim in the edited copy against the statements list before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-copy-edit-with-a-change-list&from=gh-copy-edit-with-a-change-list) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-copy-edit-with-a-change-list&from=gh-copy-edit-with-a-change-list) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -92,8 +99,8 @@ Testing in your environment means running it on copy your approver already knows
 
 - [Recorded sessions into articles](../recorded-sessions-into-articles/)
 - [Customer interview synthesis](../customer-interview-synthesis/)
-- [Objection answers and sales one-pager](https://fullypowered.ai/workflows/objection-answers-and-sales-one-pager/)
+- [Objection answers and sales one-pager](https://fullypowered.ai/workflows/objection-answers-and-sales-one-pager/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-copy-edit-with-a-change-list&from=gh-copy-edit-with-a-change-list)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-copy-edit-with-a-change-list&from=gh-copy-edit-with-a-change-list).

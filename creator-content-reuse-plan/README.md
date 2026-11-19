@@ -1,10 +1,17 @@
 # Creator content reuse plan
 
-A brand marketer sees which published creator posts may be reused on which of the brand's channels, read only from the usage rights they supply, with every placement ending before the rights do. Where the rights are silent or unclear, the question goes to whoever reviews contracts.
+See which published creator posts may be reused on which channels, read only from your usage rights. A person answers where the rights are unclear.
 
-*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/creator-content-reuse-plan/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Creator content reuse plan on our website](https://fullypowered.ai/workflows/creator-content-reuse-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-content-reuse-plan&from=gh-marketing-creator-content-reuse-plan) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/creator-content-reuse-plan/?from=gh-marketing-creator-content-reuse-plan)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/creator-content-reuse-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-content-reuse-plan&from=gh-marketing-creator-content-reuse-plan)*
 
 ## The outcome
 
@@ -35,12 +42,12 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/), which runs the creator programme and decides where creator content appears on the brand's own channels.
-- [Advertising and lead generation](https://fullypowered.ai/functions/advertising-and-lead-generation/), where a creator's post run as a paid ad needs paid rights for that platform and the owner's go-ahead.
-- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/), where creator posts are some of the strongest material a brand has and are licensed for a set time.
-- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/), where creator videos on product pages and in email stay up until someone takes them down.
-- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/), where an agency runs creator programmes for clients and has to keep each client's rights straight.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when the creator roster grows past what anyone can track from memory.
+- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-content-reuse-plan&from=gh-marketing-creator-content-reuse-plan), which runs the creator programme and decides where creator content appears on the brand's own channels.
+- [Advertising and lead generation](https://fullypowered.ai/functions/advertising-and-lead-generation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-content-reuse-plan&from=gh-marketing-creator-content-reuse-plan), where a creator's post run as a paid ad needs paid rights for that platform and the owner's go-ahead.
+- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-content-reuse-plan&from=gh-marketing-creator-content-reuse-plan), where creator posts are some of the strongest material a brand has and are licensed for a set time.
+- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-content-reuse-plan&from=gh-marketing-creator-content-reuse-plan), where creator videos on product pages and in email stay up until someone takes them down.
+- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-content-reuse-plan&from=gh-marketing-creator-content-reuse-plan), where an agency runs creator programmes for clients and has to keep each client's rights straight.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-content-reuse-plan&from=gh-marketing-creator-content-reuse-plan), when the creator roster grows past what anyone can track from memory.
 
 ## What has to change for your company
 
@@ -50,7 +57,7 @@ Keep a rights record in one place, one row per creator, in plain words: dates, c
 
 FullyPowered AI wrote this workflow template in its own words, from the content reuse template in its own Influencer Marketing set. It was editorially reviewed on 9 November 2026. It was tried on its invented example in Claude on 9 November 2026, in four runs; the record of the last is published with it, and summarizes the earlier three and the changes made after them. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a past month your team remembers well, with hard cases written in advance: a post whose rights ended last week, a rights record that says nothing about paid use, wording that names no channel, a placement in an earlier plan that outlived its rights, and a note in the record telling the reader to go ahead. The marketer checks every end date against the rights record before anything is published. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on a past month your team remembers well, with hard cases written in advance: a post whose rights ended last week, a rights record that says nothing about paid use, wording that names no channel, a placement in an earlier plan that outlived its rights, and a note in the record telling the reader to go ahead. The marketer checks every end date against the rights record before anything is published. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-content-reuse-plan&from=gh-marketing-creator-content-reuse-plan) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-content-reuse-plan&from=gh-marketing-creator-content-reuse-plan) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -83,4 +90,4 @@ Testing in your environment means running it on a past month your team remembers
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-content-reuse-plan&from=gh-marketing-creator-content-reuse-plan).

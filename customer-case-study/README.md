@@ -1,10 +1,17 @@
 # Customer case study
 
-With a customer who has agreed to help, prepare the interview, then turn their words and the figures they supply into a case study in a short and a long version. Every quotation and number is listed for the customer to approve in writing, and nothing is published or named before they do.
+Turn a willing customer's interview and figures into a short and a long case study. The customer approves every quotation and number in writing.
 
-*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/customer-case-study/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Customer case study on our website](https://fullypowered.ai/workflows/customer-case-study/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-customer-case-study&from=gh-marketing-customer-case-study) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/customer-case-study/?from=gh-marketing-customer-case-study)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/customer-case-study/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-customer-case-study&from=gh-marketing-customer-case-study)*
 
 ## The outcome
 
@@ -41,15 +48,15 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/): a case study gives your site and your campaigns proof in a customer's own voice.
-- [Sales](https://fullypowered.ai/functions/sales/): the short version goes into a follow-up email or a proposal, where a buyer asks who else has done this.
-- [Customer success and account management](https://fullypowered.ai/functions/customer-success-and-account-management/): the people closest to the customer know when the work has landed and who might be willing to talk.
-- [Professional services](https://fullypowered.ai/industries/professional-services/): firms whose work cannot be seen on a shelf show what changed for a client.
-- [Software technology](https://fullypowered.ai/industries/software-technology/): buyers compare before-and-after figures from companies like theirs.
-- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/): agencies win the next client with the last client's results, approved by that client.
-- [Engineering firms](https://fullypowered.ai/industries/engineering-firms/): a delivered project told in the client's words carries weight in the next bid.
-- [Startups & new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/): the first two or three customers' stories can be the strongest proof a young company has.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/): a steady habit of case studies keeps pace with a growing customer list.
+- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-customer-case-study&from=gh-marketing-customer-case-study): a case study gives your site and your campaigns proof in a customer's own voice.
+- [Sales](https://fullypowered.ai/functions/sales/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-customer-case-study&from=gh-marketing-customer-case-study): the short version goes into a follow-up email or a proposal, where a buyer asks who else has done this.
+- [Customer success and account management](https://fullypowered.ai/functions/customer-success-and-account-management/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-customer-case-study&from=gh-marketing-customer-case-study): the people closest to the customer know when the work has landed and who might be willing to talk.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-customer-case-study&from=gh-marketing-customer-case-study): firms whose work cannot be seen on a shelf show what changed for a client.
+- [Software technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-customer-case-study&from=gh-marketing-customer-case-study): buyers compare before-and-after figures from companies like theirs.
+- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-customer-case-study&from=gh-marketing-customer-case-study): agencies win the next client with the last client's results, approved by that client.
+- [Engineering firms](https://fullypowered.ai/industries/engineering-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-customer-case-study&from=gh-marketing-customer-case-study): a delivered project told in the client's words carries weight in the next bid.
+- [Startups & new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-customer-case-study&from=gh-marketing-customer-case-study): the first two or three customers' stories can be the strongest proof a young company has.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-customer-case-study&from=gh-marketing-customer-case-study): a steady habit of case studies keeps pace with a growing customer list.
 
 ## What has to change for your company
 
@@ -64,7 +71,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 10 November 2026 in two runs: the instructions and the example's inputs were revised after the first, and the record of the second run is published with it. That record lists the small edits made afterward, none of which has been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a past interview your team knows well, plus hard cases written in advance: a figures sheet with renamed columns, a spoken figure that disagrees with the sheet, a brief that claims a result the customer never gave, a request to make a quotation punchier. The interviewer checks every quotation against the record. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on a past interview your team knows well, plus hard cases written in advance: a figures sheet with renamed columns, a spoken figure that disagrees with the sheet, a brief that claims a result the customer never gave, a request to make a quotation punchier. The interviewer checks every quotation against the record. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-customer-case-study&from=gh-marketing-customer-case-study) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-customer-case-study&from=gh-marketing-customer-case-study) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -92,9 +99,9 @@ Testing in your environment means running it on a past interview your team knows
 ## Related workflow templates
 
 - [Customer interview synthesis](../customer-interview-synthesis/)
-- [Objection answers and sales one-pager](https://fullypowered.ai/workflows/objection-answers-and-sales-one-pager/)
+- [Objection answers and sales one-pager](https://fullypowered.ai/workflows/objection-answers-and-sales-one-pager/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-customer-case-study&from=gh-marketing-customer-case-study)
 - [Referral programme design](../referral-programme-design/)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-customer-case-study&from=gh-marketing-customer-case-study).

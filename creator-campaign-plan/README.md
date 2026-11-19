@@ -1,10 +1,17 @@
 # Creator campaign plan
 
-Before a creator campaign starts, the marketing lead gets one plan: the goal, each creator's deal and deliverables, a base and a conservative budget checked against the budget supplied, the dates, the set-up before launch and the decisions. A person approves the spend.
+Get one creator campaign plan: each creator's deal, a base and a conservative budget checked against yours, dates and decisions. A person approves spend.
 
-*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/creator-campaign-plan/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Creator campaign plan on our website](https://fullypowered.ai/workflows/creator-campaign-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-campaign-plan&from=gh-marketing-creator-campaign-plan) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/creator-campaign-plan/?from=gh-marketing-creator-campaign-plan)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/creator-campaign-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-campaign-plan&from=gh-marketing-creator-campaign-plan)*
 
 ## The outcome
 
@@ -45,13 +52,13 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/), which runs creator campaigns and answers for what they return.
-- [Advertising and lead generation](https://fullypowered.ai/functions/advertising-and-lead-generation/), where creator spend sits beside paid channels and has to earn its place.
-- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/), where creators are a natural way to put a product in front of new buyers.
-- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/), where creator codes and links turn into orders a store can count.
-- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/), where agencies plan creator campaigns for clients and need the client's sign-off on spend.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when one creator becomes a dozen and the budget needs a plan behind it.
-- [Startups & new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/), when a first campaign has to be worth its cost before there is any history to lean on.
+- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-campaign-plan&from=gh-marketing-creator-campaign-plan), which runs creator campaigns and answers for what they return.
+- [Advertising and lead generation](https://fullypowered.ai/functions/advertising-and-lead-generation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-campaign-plan&from=gh-marketing-creator-campaign-plan), where creator spend sits beside paid channels and has to earn its place.
+- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-campaign-plan&from=gh-marketing-creator-campaign-plan), where creators are a natural way to put a product in front of new buyers.
+- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-campaign-plan&from=gh-marketing-creator-campaign-plan), where creator codes and links turn into orders a store can count.
+- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-campaign-plan&from=gh-marketing-creator-campaign-plan), where agencies plan creator campaigns for clients and need the client's sign-off on spend.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-campaign-plan&from=gh-marketing-creator-campaign-plan), when one creator becomes a dozen and the budget needs a plan behind it.
+- [Startups & new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-campaign-plan&from=gh-marketing-creator-campaign-plan), when a first campaign has to be worth its cost before there is any history to lean on.
 
 ## What has to change for your company
 
@@ -66,7 +73,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 FullyPowered AI wrote this workflow template in its own words, from the campaign plan in its own Influencer Marketing set. It was editorially reviewed on 9 November 2026. It was tried on its invented example on 9 and 10 November 2026 in Claude, in two runs; the record of the second is published with it, and lists the one small edit made afterward that has not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on one or two past campaigns your team remembers, with hard cases written in advance: a creator with no expected-orders figure, a creator on a platform you have not cleared, a fee that never pays back, a timeline that is a day short, a budget smaller than the spend. Your programme lead recomputes the budget from the inputs before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on one or two past campaigns your team remembers, with hard cases written in advance: a creator with no expected-orders figure, a creator on a platform you have not cleared, a fee that never pays back, a timeline that is a day short, a budget smaller than the spend. Your programme lead recomputes the budget from the inputs before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-campaign-plan&from=gh-marketing-creator-campaign-plan) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-campaign-plan&from=gh-marketing-creator-campaign-plan) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -99,4 +106,4 @@ Testing in your environment means running it on one or two past campaigns your t
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-campaign-plan&from=gh-marketing-creator-campaign-plan).

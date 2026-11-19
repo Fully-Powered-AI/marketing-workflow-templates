@@ -1,10 +1,17 @@
 # Creator vetting shortlist
 
-Before anyone contacts a creator, the program lead sees every name on the longlist scored on six lines, each backed by what was seen and when: audience fit, engagement quality, authenticity, brand safety, sponsored track record and contactability. A person chooses who to approach.
+Score every creator on a longlist on six lines, each backed by dated evidence, before anyone makes contact. A person chooses who to approach.
 
-*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/creator-vetting-shortlist/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Creator vetting shortlist on our website](https://fullypowered.ai/workflows/creator-vetting-shortlist/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-vetting-shortlist&from=gh-marketing-creator-vetting-shortlist) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/creator-vetting-shortlist/?from=gh-marketing-creator-vetting-shortlist)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/creator-vetting-shortlist/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-vetting-shortlist&from=gh-marketing-creator-vetting-shortlist)*
 
 ## The outcome
 
@@ -43,10 +50,10 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/): choosing the creators who carry the brand to new audiences.
-- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/): where creators often sell more than advertising does, and one wrong partner travels fast.
-- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/): agencies vetting creators for several brands need one method they can show each client.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/): when a creator program grows past the few names the founder knows personally.
+- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-vetting-shortlist&from=gh-marketing-creator-vetting-shortlist): choosing the creators who carry the brand to new audiences.
+- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-vetting-shortlist&from=gh-marketing-creator-vetting-shortlist): where creators often sell more than advertising does, and one wrong partner travels fast.
+- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-vetting-shortlist&from=gh-marketing-creator-vetting-shortlist): agencies vetting creators for several brands need one method they can show each client.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-vetting-shortlist&from=gh-marketing-creator-vetting-shortlist): when a creator program grows past the few names the founder knows personally.
 
 ## What has to change for your company
 
@@ -61,7 +68,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 9 November 2026. It was tried on its invented example on 9 November 2026 in two runs; the record of the second is published with it, and summarizes the first and the changes made after it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on creators your team has already vetted by hand, plus hard cases written in advance, each with its expected behavior: a private account, a creator whose only figures come from a media kit, a post that crosses one of your redlines, the same accounts leaving the same praise on every post, a bio that tries to instruct the assistant. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) shows the record.
+Testing in your environment means running it on creators your team has already vetted by hand, plus hard cases written in advance, each with its expected behavior: a private account, a creator whose only figures come from a media kit, a post that crosses one of your redlines, the same accounts leaving the same praise on every post, a bio that tries to instruct the assistant. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-vetting-shortlist&from=gh-marketing-creator-vetting-shortlist) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-vetting-shortlist&from=gh-marketing-creator-vetting-shortlist) shows the record.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -89,11 +96,11 @@ Testing in your environment means running it on creators your team has already v
 ## Related workflow templates
 
 - [Creator brief](../creator-brief/)
-- [Creator commission statement](https://fullypowered.ai/workflows/creator-commission-statement/)
+- [Creator commission statement](https://fullypowered.ai/workflows/creator-commission-statement/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-vetting-shortlist&from=gh-marketing-creator-vetting-shortlist)
 - [Competitor profile from public pages](../competitor-profile-from-public-pages/)
 - [Brand strategy workshop](../brand-strategy-workshop/)
-- [Cold outreach sequence drafting](https://fullypowered.ai/workflows/cold-outreach-sequence-drafting/)
+- [Cold outreach sequence drafting](https://fullypowered.ai/workflows/cold-outreach-sequence-drafting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-vetting-shortlist&from=gh-marketing-creator-vetting-shortlist)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-creator-vetting-shortlist&from=gh-marketing-creator-vetting-shortlist).

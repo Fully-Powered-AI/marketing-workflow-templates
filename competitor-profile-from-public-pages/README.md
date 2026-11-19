@@ -1,10 +1,17 @@
 # Competitor profile from public pages
 
-Your marketing lead gets a dated profile of a named competitor, built only from its public pages: what they say, sell and charge, kept apart from what that suggests and the questions it raises for you. Any figure no page states is marked unavailable, never estimated.
+Get a dated profile of a named competitor built only from its public pages, with what they say kept apart from what it suggests. A person decides.
 
-*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/competitor-profile-from-public-pages/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Competitor profile from public pages on our website](https://fullypowered.ai/workflows/competitor-profile-from-public-pages/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-competitor-profile-from-public-pages&from=gh-competitor-profile-from-public-pages) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/competitor-profile-from-public-pages/?from=gh-competitor-profile-from-public-pages)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/competitor-profile-from-public-pages/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-competitor-profile-from-public-pages&from=gh-competitor-profile-from-public-pages)*
 
 ## The outcome
 
@@ -40,13 +47,13 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/): the evidence behind positioning, messaging and pricing-page decisions.
-- [Sales](https://fullypowered.ai/functions/sales/): what a buyer has already read about the alternative before your call.
-- [Software technology](https://fullypowered.ai/industries/software-technology/): competitors publish plans, prices and feature lists, and change them often.
-- [Professional services](https://fullypowered.ai/industries/professional-services/): prices are rarely published, so what is and is not on the page has to be recorded carefully.
-- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/): agencies compete on case studies and client lists, which are claims to record, not facts to repeat.
-- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/): offers, shipping terms and guarantees sit in plain view and move with the season.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/): new competitors appear as you enter new segments, and the whole team needs the same picture.
+- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-competitor-profile-from-public-pages&from=gh-competitor-profile-from-public-pages): the evidence behind positioning, messaging and pricing-page decisions.
+- [Sales](https://fullypowered.ai/functions/sales/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-competitor-profile-from-public-pages&from=gh-competitor-profile-from-public-pages): what a buyer has already read about the alternative before your call.
+- [Software technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-competitor-profile-from-public-pages&from=gh-competitor-profile-from-public-pages): competitors publish plans, prices and feature lists, and change them often.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-competitor-profile-from-public-pages&from=gh-competitor-profile-from-public-pages): prices are rarely published, so what is and is not on the page has to be recorded carefully.
+- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-competitor-profile-from-public-pages&from=gh-competitor-profile-from-public-pages): agencies compete on case studies and client lists, which are claims to record, not facts to repeat.
+- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-competitor-profile-from-public-pages&from=gh-competitor-profile-from-public-pages): offers, shipping terms and guarantees sit in plain view and move with the season.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-competitor-profile-from-public-pages&from=gh-competitor-profile-from-public-pages): new competitors appear as you enter new segments, and the whole team needs the same picture.
 
 ## What has to change for your company
 
@@ -60,7 +67,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 9 November 2026. It was tried on its invented example in Claude on 9 November 2026, revised and tried again the same day, and the record of the second run is published with the template. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a competitor you already know well, plus hard cases written in advance, each with its expected behavior: a site with no pricing page, a page that will not load, a headcount nobody published, a page carrying text aimed at AI assistants. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) shows the record.
+Testing in your environment means running it on a competitor you already know well, plus hard cases written in advance, each with its expected behavior: a site with no pricing page, a page that will not load, a headcount nobody published, a page carrying text aimed at AI assistants. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-competitor-profile-from-public-pages&from=gh-competitor-profile-from-public-pages) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-competitor-profile-from-public-pages&from=gh-competitor-profile-from-public-pages) shows the record.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -87,9 +94,9 @@ Testing in your environment means running it on a competitor you already know we
 
 ## Related workflow templates
 
-- [Objection answers and sales one-pager](https://fullypowered.ai/workflows/objection-answers-and-sales-one-pager/)
-- [Sales proposal preparation](https://fullypowered.ai/workflows/sales-proposal-preparation/)
+- [Objection answers and sales one-pager](https://fullypowered.ai/workflows/objection-answers-and-sales-one-pager/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-competitor-profile-from-public-pages&from=gh-competitor-profile-from-public-pages)
+- [Sales proposal preparation](https://fullypowered.ai/workflows/sales-proposal-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-competitor-profile-from-public-pages&from=gh-competitor-profile-from-public-pages)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=marketing-competitor-profile-from-public-pages&from=gh-competitor-profile-from-public-pages).
