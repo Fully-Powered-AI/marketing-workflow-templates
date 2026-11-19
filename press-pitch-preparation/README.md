@@ -4,6 +4,8 @@ An owner or marketer with one story to offer gets the outlets and writers it gen
 
 *Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/press-pitch-preparation/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/press-pitch-preparation/?from=gh-marketing-press-pitch-preparation)
+
 ## The outcome
 
 You offer a writer something their readers can use, in their own terms, from your own facts. Before any pitch is drafted, the story is checked: what a reader learns from it, what supports it and who can speak to it. If it is not a story yet, you hear that plainly, with what would make it one, instead of a pitch that wastes a writer's time and your name.

@@ -4,6 +4,8 @@ Your social media manager gets a dated digest of the week's collected mentions: 
 
 *Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/brand-mentions-review/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/brand-mentions-review/?from=gh-marketing-brand-mentions-review)
+
 ## The outcome
 
 The pile of mentions your listening tool or saved searches collected becomes one page you can act on. Every mention is read and lands in exactly one place, so nothing is lost and nothing is counted twice. Posts that need a person today, such as someone saying the product hurt them or a scam using your name, sit at the top with who decides.

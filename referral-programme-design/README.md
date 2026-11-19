@@ -4,6 +4,8 @@ Turn the recommendations your work already earns into a habit: when to ask, who 
 
 *Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/referral-programme-design/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/referral-programme-design/?from=gh-marketing-referral-programme-design)
+
 ## The outcome
 
 Your best clients already talk about you. This workflow template makes sure you ask them, at the right moment, in words that sound like you. You get one programme for your business: the moments when an ask belongs and the ones when it never does, the people on your list to ask first, the people to leave alone for now and why, and what you give back.

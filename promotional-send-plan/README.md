@@ -4,6 +4,8 @@ Before a promotion goes out, the marketing lead gets one send plan across email 
 
 *Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/promotional-send-plan/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/promotional-send-plan/?from=gh-marketing-promotional-send-plan)
+
 ## The outcome
 
 A sale runs for five days, and the customers who hear about it should hear the right amount: one email when it opens, perhaps a text, a reminder for anyone who has not bought yet, and never more in one day than your rules allow. This plan puts the whole promotion on one page before anything is built in a sending tool.

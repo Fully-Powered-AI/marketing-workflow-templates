@@ -4,6 +4,8 @@ A brand owner or marketing lead writes the rules for working with creators once,
 
 *Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/creator-programme-setup/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/creator-programme-setup/?from=gh-marketing-creator-programme-setup)
+
 ## The outcome
 
 Before the first creator is approached, the brand has one programme file that answers the questions every later step depends on. Which products are in. What creators may say about each, in exact words someone has cleared. Which platforms they may post on, and who checked each one's current rules. Whether creators earn a commission on sales, a fee, both, or product only, with the figures that show what each deal leaves the brand per order and how many orders a fee has to bring in before it pays for itself. How codes and links are formed, which order counts for which creator, when commission is paid and who approves it. How a post must be labelled on each platform. What the brand will never appear beside.

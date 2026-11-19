@@ -4,6 +4,8 @@ A brand marketer sees which published creator posts may be reused on which of th
 
 *Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/creator-content-reuse-plan/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/creator-content-reuse-plan/?from=gh-marketing-creator-content-reuse-plan)
+
 ## The outcome
 
 Your creators' best posts keep working for you, on your product pages, in your email, on your own social accounts and in front of retail buyers, and none of them stays up a day past what your agreements allow. The plan starts with the honest part: which posts you asked for cannot be used, and why. Then it lists every placement the rights support, each with its start date, its end date, the cut, the credit and disclosure that sit beside it, and who publishes it.

@@ -4,6 +4,8 @@ Before a text campaign goes out, the marketing lead sees every number on the pro
 
 *Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/text-message-opt-in-check/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/text-message-opt-in-check/?from=gh-marketing-text-message-opt-in-check)
+
 ## The outcome
 
 A list for a text campaign usually comes from one place and the opt-ins from another: the online shop, the counter tablet, a keyword someone texted, a list that arrived with an acquired business. This check brings them together, one number at a time. Every recipient on the list sits on one line beside what your records actually say about that number: the date of the opt-in, where it was given, and the exact wording the person saw, printed as it was recorded.

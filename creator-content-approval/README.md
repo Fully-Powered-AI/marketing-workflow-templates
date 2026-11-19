@@ -4,6 +4,8 @@ A brand marketer gets a written go or no-go on a creator's draft before it goes 
 
 *Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/creator-content-approval/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/creator-content-approval/?from=gh-marketing-creator-content-approval)
+
 ## The outcome
 
 Every creator draft gets the same careful read, and the answer is on one page. The verdict comes first: go, go with changes, or no-go with the reason. Below it sit twelve checks in a fixed order, each with what was seen and where: the brief, the code and link, every statement about the product, the disclosure in the caption and in the video, the platform's own partnership label, the platform ruling, the audience, the redlines, and whether what the creator says happened to them holds up.

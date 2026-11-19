@@ -4,6 +4,8 @@ With a customer who has agreed to help, prepare the interview, then turn their w
 
 *Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/customer-case-study/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/customer-case-study/?from=gh-marketing-customer-case-study)
+
 ## The outcome
 
 A customer said yes, and now you have a case study you can stand behind. You walk into the interview with a guide that asks open questions, never leading ones, and that always asks what is still unsolved. You walk out with a draft in two lengths: a short one for an email or a sales conversation, and a long one for your website.

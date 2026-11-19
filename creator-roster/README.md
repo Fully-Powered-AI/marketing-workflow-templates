@@ -4,6 +4,8 @@ The programme owner keeps one record of every creator the brand works with: wher
 
 *Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/creator-roster/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/creator-roster/?from=gh-marketing-creator-roster)
+
 ## The outcome
 
 Every creator your brand has found, approached, signed or turned down lives in one place, under a reference that never changes even when a handle does. Each row says where the relationship stands and why, in dated notes that only ever grow.

@@ -4,6 +4,8 @@ A brand marketer gets a first message and three follow-ups for each chosen creat
 
 *Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/creator-outreach-drafting/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/creator-outreach-drafting/?from=gh-marketing-creator-outreach-drafting)
+
 ## The outcome
 
 Every creator on your list gets a note written for them alone. It opens on one thing they made, with its date and a detail that shows someone looked, says in a sentence why your brand is writing, and puts your standard offer in plain numbers: what their audience gets, how they are paid, what you would ask for and when. It ends on one small question they can answer in a word.

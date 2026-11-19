@@ -4,6 +4,8 @@ Before you sell a packaged service, see it the way a buyer will: what they get a
 
 *Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/offer-review/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/offer-review/?from=gh-marketing-offer-review)
+
 ## The outcome
 
 You read your offer the way a careful buyer does, part by part, before it goes on a page or into a proposal. Six parts are each marked present, weak or missing, with the line each rests on: what the buyer has at the end, the extras, what protects the buyer, the reason to decide now, the name, and the price and terms. Every doubt your buyers have raised is set beside the line that answers it, or marked as answered by nothing in the offer.

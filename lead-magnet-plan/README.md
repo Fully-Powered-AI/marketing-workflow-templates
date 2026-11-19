@@ -4,6 +4,8 @@ A marketer or owner gets the plan for one free resource built on a question buye
 
 *Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/lead-magnet-plan/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/lead-magnet-plan/?from=gh-marketing-lead-magnet-plan)
+
 ## The outcome
 
 You stop making free guides nobody asked for. The plan starts from the questions buyers keep raising in sales calls, support emails and the website chat, and picks the one asked most that nothing you have published already answers. It names one reader, the point they are at, and their question in their own words, with where and when each version was heard.

@@ -4,6 +4,8 @@ A brand marketer sees, creator by creator, what was agreed against what actually
 
 *Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/creator-publication-tracking/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/creator-publication-tracking/?from=gh-creator-publication-tracking)
+
 ## The outcome
 
 Approval covers the draft; this covers what the public actually sees. For every post a creator agreed to publish, the report says whether it went up, when, and whether it carries what was agreed: the disclosure in every form your rules require, the discount code and tracked link exactly as issued, and the version you approved. A post that is right on every line simply drops off the to-do list.

@@ -4,6 +4,8 @@ An owner or marketer asking why the website is not found gets a plain report fro
 
 *Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/website-findability-audit/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/website-findability-audit/?from=gh-marketing-website-findability-audit)
+
 ## The outcome
 
 You stop guessing about your website and start fixing the right things first. The report goes through each page you saved and asks three questions: can a search engine reach it, can a search engine or an AI assistant read it, and does a customer who arrives on it learn what you do, for whom and where. Every answer points to the exact tag or line in the file it came from, so your web designer can go straight to it.

@@ -4,6 +4,8 @@ Whoever owns one event, a talk, a dinner, a webinar or a stand, gets one plan: t
 
 *Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/event-plan/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/event-plan/?from=gh-marketing-event-plan)
+
 ## The outcome
 
 An event stops being a date in the diary and becomes a short project with a point. The plan opens with the one thing the day is for, such as conversations with a particular kind of buyer, and the numbers you have set for it. It says who should be in the room and what the organiser has actually told you about who comes, with the gaps already turned into a question for the organiser.

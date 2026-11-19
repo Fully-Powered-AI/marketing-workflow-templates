@@ -4,6 +4,8 @@ When a creator campaign closes, the marketing lead gets one report built from th
 
 *Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/creator-campaign-performance-report/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/creator-campaign-performance-report/?from=gh-creator-campaign-performance-report)
+
 ## The outcome
 
 The question "which creators worked?" gets an answer you can check. Every creator in the campaign sits in one ranked table, including the ones with no orders, under the metric your team chose before anyone looked at the results. Beside each creator: tracked orders, net sales, new and repeat customers, what they cost once fees, gifted product and discounts are counted, and whether they pay back at your margins.

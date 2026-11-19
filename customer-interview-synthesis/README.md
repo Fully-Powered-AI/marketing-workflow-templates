@@ -4,6 +4,8 @@ Turn a stack of customer call notes into the answer to one question, in your cus
 
 *Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/customer-interview-synthesis/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/customer-interview-synthesis/?from=gh-customer-interview-synthesis)
+
 ## The outcome
 
 You finish a round of customer calls and, the same afternoon, hold a synthesis you can defend line by line. It opens with the question you asked and the answer the notes give. Under it sit the themes, each written as a claim a customer could dispute, each carried by exact quotations with the note, the date, the speaker’s role and whether the words came unprompted.

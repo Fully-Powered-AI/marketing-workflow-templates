@@ -4,6 +4,8 @@ People who asked to hear from you get emails worth opening: a welcome, a nurture
 
 *Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/email-sequence-drafting/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/email-sequence-drafting/?from=gh-marketing-email-sequence-drafting)
+
 ## The outcome
 
 Someone downloads your guide, signs up or becomes a customer, and what follows feels like a person looking after them. The first email brings what they asked for and says what comes next. Each one after it gives them something useful before it asks for anything. The last one makes your next step plainly, once, and the sequence ends there.

@@ -4,6 +4,8 @@ An owner or first marketing hire gets the next ninety days of marketing on one p
 
 *Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/ninety-day-marketing-plan/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/ninety-day-marketing-plan/?from=gh-marketing-ninety-day-marketing-plan)
+
 ## The outcome
 
 You stop guessing at marketing and start running it. The plan opens with where the business actually stands, read from your own results by a rule anyone can check: still launching, winning its first customers, selling repeatably, or selling and delivering without the founder. Everything after that fits the stage.

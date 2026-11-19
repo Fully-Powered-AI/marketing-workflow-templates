@@ -4,6 +4,8 @@ A brand marketer gets one brief per creator for a campaign: the product statemen
 
 *Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/creator-brief/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/creator-brief/?from=gh-marketing-creator-brief)
+
 ## The outcome
 
 Every creator in a campaign starts from the same clear page, made for them. It tells them what the campaign is for, what to deliver and by when, the few things about the product they may say in exact words, what is off limits, and how to label the post as a partnership on their platform. Everything else is theirs: the idea, the voice, the look. The brief asks for their own experience of the product and never hands them a script.

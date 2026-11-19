@@ -4,6 +4,8 @@ Your marketing lead gets a dated profile of a named competitor, built only from 
 
 *Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/competitor-profile-from-public-pages/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/competitor-profile-from-public-pages/?from=gh-competitor-profile-from-public-pages)
+
 ## The outcome
 
 You know exactly what a competitor is telling your buyers, and you can prove where every line came from. The profile quotes their headline, their packages, their published prices and the proof they show, each with its page and the date it was read. Your team stops arguing from memory and starts deciding from the page.

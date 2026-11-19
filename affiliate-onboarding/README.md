@@ -4,6 +4,8 @@ A programme owner brings a new affiliate or creator in: the code and link the st
 
 *Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/affiliate-onboarding/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/affiliate-onboarding/?from=gh-marketing-affiliate-onboarding)
+
 ## The outcome
 
 A creator who has just agreed terms gets one clear welcome pack: their own code and link, what their audience gets, what they earn and when they are paid, exactly how to label a paid post on their platform, and the dates of their first draft and first post. Every figure in it is copied from where it is written down (the brand's own programme rules, the creator's record, the code as the store made it), and the programme owner sees each one listed with where it came from.

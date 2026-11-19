@@ -4,6 +4,8 @@ A coach, trainer or consultant hands over transcripts of recent sessions and get
 
 *Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/recorded-sessions-into-articles/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/recorded-sessions-into-articles/?from=gh-recorded-sessions-into-articles)
+
 ## The outcome
 
 Your best material is spoken once, to one room, and then it is gone. This workflow template keeps it. Every class, workshop or training session you record becomes written work that sounds like you, because it is built from what you said: the subjects that got real time, your own lines in quotation marks, the mistake the room kept making and the exercise you set.

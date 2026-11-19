@@ -4,6 +4,8 @@ Whoever owns a launch date gets one dated checklist for the weeks before, the da
 
 *Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/launch-checklist/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/launch-checklist/?from=gh-marketing-launch-checklist)
+
 ## The outcome
 
 A launch stops being a day you hope goes well and becomes a sequence your team can see. Every step has a date counted from the launch day, skips the days you are closed, and names the person who does it. The page starts with a plain verdict on whether the thing is ready to show, and if one small cut would make it ready, it names the cut.

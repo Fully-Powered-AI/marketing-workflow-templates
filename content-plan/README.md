@@ -4,6 +4,8 @@ A marketing lead with a few hours a week gets a content plan built on the questi
 
 *Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/content-plan/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/content-plan/?from=gh-marketing-content-plan)
+
 ## The outcome
 
 You stop writing whatever comes to mind on a free afternoon. The plan starts from two facts: the hours you actually have, and the questions buyers keep asking your sales and support people. Every question appears in the buyer's own words, with where and when it was heard, and every subject in the plan answers one of them.

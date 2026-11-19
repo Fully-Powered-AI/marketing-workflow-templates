@@ -4,6 +4,8 @@ Give your company one answer to why it exists, who it is for and how it sounds. 
 
 *Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/brand-strategy-workshop/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/brand-strategy-workshop/?from=gh-marketing-brand-strategy-workshop)
+
 ## The outcome
 
 Everyone at your company says the same thing about it: on the website, in an introduction, in a sales conversation and when hiring. You hold one short document with your purpose, the buyer you are going after for the next eighteen months, the category you play in, a positioning statement, five personality traits and a voice guide. You can brief a copywriter, a designer or an agency from it the same afternoon.
